@@ -15,8 +15,6 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/M9v4ybW/VTV1.png",VTV1 L2
-#http://vthanhvnpt.duckdns.org/VTV1/mpegts
-#http://live.vthanh.net/VTV1/mpegts
 #http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 http://live.television4you.xyz/VTV1/mpegts
 
@@ -27,7 +25,6 @@ https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8 
  
 #EXTINF:-1 tvg-id="vtv3hd"group-title="VTV" tvg-logo="https://i.ibb.co/chy8rds/VTV3.png",VTV3 L2
-#http://cvmvnpt.duckdns.org:8000/vtv3
 #http://103.125.191.32:8000/vtv3
 http://live.television4you.xyz/VTV3/mpegts
  
@@ -39,7 +36,6 @@ https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="vtv5hd"group-title="VTV" tvg-logo="https://i.ibb.co/xCJk0W5/VTV5.png",VTV5 L2
 #http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
-#http://live.television4you.xyz/VTV5/mpegts
 http://livecdn.vthanhtivi.pw/VTV5/mpegts
  
 #EXTINF:-1 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://i.ibb.co/vjHg75w/VTV5-TNB.png",VTV5 Tây Nam Bộ
@@ -48,7 +44,6 @@ https://tbientv.xyz/channel/vtvgo/?id=7
 #EXTINF:-1 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://i.ibb.co/vjHg75w/VTV5-TNB.png",VTV5 Tây Nam Bộ L2
 http://gg.gg/beartv-vtv5tnb
 #https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
-#https://api.television4you.xyz/v1/getlink/vtvgo/7
  
 #EXTINF:-1 tvg-id="vtv5hdtn"group-title="VTV" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên
 https://tbientv.xyz/channel/vtvgo/?id=163
@@ -83,7 +78,6 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
  
  
 #EXTINF:-1 tvg-id="vtc1hd"group-title="VTC" tvg-logo="http://images.zaltv.club/logo/vtc1hd.png",VTC1
-#http://vnpt.zaltv.club/m3u/vtc/vtc1.m3u
 #http://vn360sport.duckdns.org:9981/stream/channelid/681353943?auth=PedBIUJlLblhHheRz7vs5l58twh0
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 
@@ -94,8 +88,6 @@ https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="vtc3hd"group-title="VTC" tvg-logo="http://images.zaltv.club/logo/vtc3hd.png",VTC3 L2
-#http://vnpt.zaltv.club/m3u/vtc/vtc3.m3u8
-#http://cvmvnpt.duckdns.org:8000/vtc3
 http://sv1.cvacetv.ga:8080/vtc3
 
 #EXTINF:-1 tvg-id="vtc4hd"group-title="VTC" tvg-logo="http://images.zaltv.club/logo/vtc4hd.png",VTC4
@@ -165,7 +157,6 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvthethaohd"group-title="HTV" tvg-logo="http://images.zaltv.club/logo/htv-thethao.png",HTVthethao L2
-#http://cvmvnpt.duckdns.org:8000/htvtt
 http://sv1.cvacetv.ga:8080/htvtt
 
 

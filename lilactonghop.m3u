@@ -308,7 +308,7 @@ http://mytv.dothome.co.kr/ch/catv/211.php
 #EXTINF:-1 tvg-id="gugbangtv"group-title="Tin tức-tổng hợp NN" tvg-logo="hhttps://i.ibb.co/5jCvw5r/image.png",Gugbang TV
 http:\\mediaworks.dema.mil.kr:1935\live_edge\cudo.sdp\playlist.m3u8
 
-#EXTINF:-1 tvg-id="chosuntv"group-title="Tin tức-tổng hợp NN" tvg-logo="http://images.zaltv.club/logo/tv_chosun.png" group-title="Hàn Quốc",TV Chosun
+#EXTINF:-1 tvg-id="chosuntv"group-title="Tin tức-tổng hợp NN" tvg-logo="http://images.zaltv.club/logo/tv_chosun.png",TV Chosun
 #EXTVLCOPT:http-user-agent=broadcast.tvchosun/19.2.1 (Linux;Android 8.1.0) ExoPlayerLib/2.11.8
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 

@@ -404,8 +404,10 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #EXTINF:-1 tvg-id="AlJazeera.MACAN"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/SdplJlw.png",AlJazeera News
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="AlJazeera.MACAN"group-title="Tin tức-tổng hợp NN" tvg-logo="https://cdn.mashreghnews.ir/d/2019/11/26/2/2654961.jpg",Iran International
-#https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.MACAN"group-title="Tin tức-tổng hợp NN" tvg-logo="https://cdn.mashreghnews.ir/d/2019/11/26/2/2654961.jpg",Iran International test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b2796000.m3u8
+#https://live.playstop.me/1816184091/chunklist_b2796000.m3u8
  
 #EXTINF:-1 tvg-id="oylaotv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.malimarcdn.com/OYLaoHDF.jpg",Oy Lao TV
 https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
@@ -464,8 +466,10 @@ http://ott-cdn.ucom.am/s96/04.m3u8
 #EXTINF:-1 tvg-id="trtworld"group-title="Tin tức-tổng hợp NN" tvg-logo="http://images.zaltv.club/logo/trtworld.png",TRTWorld Turkey
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="ertworldhylap"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/Jjds4h5.png",ERTWorld Hylap
-
+#EXTINF:-1 tvg-id="ertworldhylap"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/Jjds4h5.png",ERTWorld Hylap test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.ertflix.gr/
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/manifest.mpd
 
 #EXTINF:-1 tvg-id="ertworlnews"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.typologies.gr/wp-content/uploads/2022/02/ertnews.jpeg",ERT News
 https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_newsmedium.m3u8
@@ -480,8 +484,10 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
 #EXTINF:-1 tvg-id="kantipurnepal"group-title="Tin tức-tổng hợp NN" tvg-logo="https://jcss-cdn.ekantipur.com/kantipur-tv/images/logo.jpg",Kantipur TV Nepal
 https://ktvhdsg.ekantipur.com:8443/ktv_desktop_02347834/hd/kantipurtv/hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="icirdi"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.coolstreaming.us/img/ch/image24854812212.jpg",ICI RDI Canada
+#EXTINF:-1 tvg-id="icirdi"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.coolstreaming.us/img/ch/image24854812212.jpg",ICI RDI Canada test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
 #https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8
 
 #EXTINF::-1 tvg-id="tvbsnew"group-title="Tin tức-tổng hợp NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TVBS_MEDIA_INC._LOGO.jpg/1200px-TVBS_MEDIA_INC._LOGO.jpg",TVBSNew Taiwan
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8

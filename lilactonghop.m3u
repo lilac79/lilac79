@@ -880,8 +880,8 @@ http://203.162.235.41:16916
 http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8$江西宜春8M
  
 #EXTINF:-1 tvg-id="one31"group-title="Phim NN" logo="http://udoofree.com/cover/396384be-35dc-4d11-bf04-06c9546ec7bc.jpg",ONE 31
-#https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
-http://donglao.duckdns.org:9981/stream/channelid/489506928?auth=PedBIUJlLblhHheRz7vs5l58twh0
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+#http://donglao.duckdns.org:9981/stream/channelid/489506928?auth=PedBIUJlLblhHheRz7vs5l58twh0
 
 #EXTINF:-1 tvg-id="gmm25"group-title="Phim NN" logo="https://www.gmm25.com/asset/img/tv-banner.png",GMM25
 https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8

@@ -407,10 +407,13 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #EXTINF:-1 tvg-id="AlJazeera.MACAN"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/SdplJlw.png",AlJazeera News
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="AlJazeera.MACAN"group-title="Tin tức-tổng hợp NN" tvg-logo="https://cdn.mashreghnews.ir/d/2019/11/26/2/2654961.jpg",Iran International test
+#EXTINF:-1 tvg-id="iraninternational"group-title="Tin tức-tổng hợp NN" tvg-logo="https://cdn.mashreghnews.ir/d/2019/11/26/2/2654961.jpg",Iran International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b2796000.m3u8
 #https://live.playstop.me/1816184091/chunklist_b2796000.m3u8
+
+#EXTINF:-1 tvg-id="presstv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.presstv.ir/custom/images/logo-app/LOGO_192x192.jpg",Press TV Iran 
+https://live.presstv.ir/liveprs/smil:liveprs/chunklist_w1486892672_b944100_slen.m3u8
  
 #EXTINF:-1 tvg-id="oylaotv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.malimarcdn.com/OYLaoHDF.jpg",Oy Lao TV
 https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
@@ -752,18 +755,18 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
  
 #EXTINF:-1 tvg-id="boxmovie1"group-title="Phim NN" tvg-logo="https://static-stage.tv24.vn/channel/245/BoxMovie_new.jpg",BoxMovie L2
-https://api.television4you.xyz/v1/getlink/tv360_s2/159/2
+https://television4you.xyz/live/nethubitb/9328/playlist.m3u8
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png",BoxChanel
 #http://gg.gg/beartv-inthebox
- 
-#EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png",BoxChanel
-https://api.television4you.xyz/v1/getlink/tv360_s2/235/2
 
-#EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png",BoxChanel L2
+#EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png",BoxChanel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://dl.dropboxusercontent.com/s/vbw1it91f0wi3g6/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
+
+#EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png",BoxChanel L2
+https://television4you.xyz/live/nethubitb/9336/playlist.m3u8
 
 #EXTINF:-1 tvg-id="boxhits"group-title="Phim NN" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png",BoxHits
 #http://gg.gg/beartv-boxhit
@@ -777,7 +780,7 @@ http://live.television4you.xyz/boxhits/mpegts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:network-caching=1000
-https://dl.dropboxusercontent.com/s/k8af1u02lthvy8s/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
+#https://dl.dropboxusercontent.com/s/k8af1u02lthvy8s/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
  
 #EXTINF:-1 tvg-id="hollywoodclassics"group-title="Phim NN" tvg-logo="http://images.zaltv.club/logo/hollywoodclassics.png",HollywoodClassics
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -927,8 +930,7 @@ http://live.television4you.xyz:8080/vtvcab3
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn
  
 #EXTINF:-1 tvg-id="vtvcab6hd"group-title="Thể thao VN" tvg-logo="http://images.zaltv.club/logo/vtvcab6.png",ONSports+ L2
-https://api.television4you.xyz/v1/getlink/tv360_s2/183/2
-https://api.television4you.xyz/v1/getlink/tv360_s2/183/2
+https://api.television4you.xyz/v1/getlink/vtvgo/196
  
 #EXTINF:-1 tvg-id="vtvcab16hd"group-title="Thể thao VN" tvg-logo="http://images.zaltv.club/logo/vtvcab16.png",OnFootball
 #EXTVLCOPT:http-referer=http://sctvonline.vn

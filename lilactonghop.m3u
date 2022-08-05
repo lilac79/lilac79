@@ -302,6 +302,10 @@ https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
 #http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
 http://itskoi.dothome.co.kr/sbs.php?id=S01
 
+#EXTINF:-1 tvg-id="mbc"group-title="Âm nhạc-Thời trang" tvg-logo="http://images.zaltv.club/logo/mbc.png",MBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="arirang"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.ibb.co/vzmKxzb/arirangtv.png",Arirang
 https://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
  
@@ -1832,10 +1836,6 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mnet.kr"group-title="Âm nhạc-Thời trang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png",Mnet
 #http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 http://mytv.dothome.co.kr/ch/catv/224.php
-
-#EXTINF:-1 tvg-id="mbc"group-title="Âm nhạc-Thời trang" tvg-logo="http://images.zaltv.club/logo/mbc.png",MBC test
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kbs2"group-title="Âm nhạc-Thời trang" tvg-logo="https://i.ibb.co/PCT315x/KBS2-BEARTV.png",KBS 2
 #http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8

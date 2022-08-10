@@ -1903,36 +1903,38 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 tvg-id="ftv18"group-title="Âm nhạc-Thời trang" tvg-logo="https://i.ibb.co/drCHFvz/Fashion-TV.png",FTV 18+
 #http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="kcinehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE 
+ 
 
 
 #EXTINF:-1 tvg-id="kcinehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE
 https://tinyurl.com/4x6bz3nt
 
-#EXTINF:-1 tvg-id="klifehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE 
-
-
 #EXTINF:-1 tvg-id="klifehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE
 https://tinyurl.com/4a6py2un
-
-#EXTINF:-1 tvg-id="ksport1hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1 
-
 
 #EXTINF:-1 tvg-id="ksport1hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1
 https://tinyurl.com/48x8e56w
 
-#EXTINF:-1 tvg-id="ksport2hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT2 
-
-
 #EXTINF:-1 tvg-id="ksport2hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT2
 https://tinyurl.com/ysx7ynuz
 
-#EXTINF:-1 tvg-id="kkidshd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",K+KIDS 
+#EXTINF:-1 tvg-id="kcinehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE-2
+http://aisharelamcho.duckdns.org/aisharelamcho/KCINE0608.aslc/mpegts
 
+#EXTINF:-1 tvg-id="klifehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE-2
+http://aisharelamcho.duckdns.org/aisharelamcho/KLIFE0608.aslc/mpegts
+
+#EXTINF:-1 tvg-id="ksport1hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1-2
+http://aisharelamcho.duckdns.org/aisharelamcho/KSP10608.aslc/mpegts
+
+#EXTINF:-1 tvg-id="ksport1hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1-L2
+http://live.television4you.xyz:8081/LiveEvent/mpegts
+
+#EXTINF:-1 tvg-id="ksport2hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT2-2
+http://aisharelamcho.duckdns.org/aisharelamcho/KSP20608.aslc/mpegts
+
+#EXTINF:-1 tvg-id="kkidshd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",K+KIDS-2
+http://aisharelamcho.duckdns.org/aisharelamcho/KKIDS0608.aslc/mpegts
 
 #EXTINF:-1 tvg-id="kcinehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE DRM
 #KODIPROP:inputstream.adaptive.license_type=clearkey 

@@ -7,6 +7,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="2"group-title="Thông báo" tvg-logo="https://media.doanhnghiepvn.vn/Images/Uploaded/Share/2020/12/18/Phong-cach-quy-co-cua-Gal-Gadot-trong-Wonder-Woman-1984_4.jpg",update lại list khi xem
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
  
+ 
 
 
 #EXTINF:-1 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/M9v4ybW/VTV1.png",VTV1
@@ -1885,36 +1886,35 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
  
 
-
 #EXTINF:-1 tvg-id="kcinehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE
-https://tinyurl.com/4x6bz3nt
-
-#EXTINF:-1 tvg-id="klifehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE
-https://tinyurl.com/4a6py2un
-
-#EXTINF:-1 tvg-id="ksport1hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1
-https://tinyurl.com/48x8e56w
-
-#EXTINF:-1 tvg-id="ksport2hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT2
-https://tinyurl.com/ysx7ynuz
-
-#EXTINF:-1 tvg-id="kcinehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE-2
 http://aisharelamcho.duckdns.org/aisharelamcho/KCINE0608.aslc/mpegts
 
-#EXTINF:-1 tvg-id="klifehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE-2
+#EXTINF:-1 tvg-id="klifehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE
 http://aisharelamcho.duckdns.org/aisharelamcho/KLIFE0608.aslc/mpegts
 
-#EXTINF:-1 tvg-id="ksport1hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1-2
+#EXTINF:-1 tvg-id="ksport1hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1
 http://aisharelamcho.duckdns.org/aisharelamcho/KSP10608.aslc/mpegts
 
-#EXTINF:-1 tvg-id="ksport1hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1-L2
+#EXTINF:-1 tvg-id="ksport1hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1 L2
 http://live.television4you.xyz:8081/LiveEvent/mpegts
 
-#EXTINF:-1 tvg-id="ksport2hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT2-2
+#EXTINF:-1 tvg-id="ksport2hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT2
 http://aisharelamcho.duckdns.org/aisharelamcho/KSP20608.aslc/mpegts
 
-#EXTINF:-1 tvg-id="kkidshd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",K+KIDS-2
+#EXTINF:-1 tvg-id="kkidshd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",K+KIDS
 http://aisharelamcho.duckdns.org/aisharelamcho/KKIDS0608.aslc/mpegts
+
+#EXTINF:-1 tvg-id="kcinehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE SD
+http://103.170.246.191/CINE/mpegts
+
+#EXTINF:-1 tvg-id="klifehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE SD
+http://103.170.246.191/LIFE/mpegts
+
+#EXTINF:-1 tvg-id="ksport1hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1 SD
+http://103.170.246.191/SPORT1/mpegts
+
+#EXTINF:-1 tvg-id="ksport2hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT2 SD
+http://103.170.246.191/SPORT2/mpegts
 
 #EXTINF:-1 tvg-id="kcinehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE DRM
 #KODIPROP:inputstream.adaptive.license_type=clearkey 

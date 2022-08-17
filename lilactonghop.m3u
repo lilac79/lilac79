@@ -729,7 +729,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 https://code.television4you.xyz/getlink/nethubtv?id=9328&itb=1
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png",BoxChanel
-https://s.id/beartv-inthebox
+#https://s.id/beartv-inthebox
+https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png",BoxChanel L2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -859,7 +860,7 @@ https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="one31"group-title="Phim NN" logo="http://udoofree.com/cover/396384be-35dc-4d11-bf04-06c9546ec7bc.jpg",ONE 31 L2
 #EXTVLCOPT:network-caching=1000
-http://donglao.duckdns.org:9981/stream/channelid/489506928?auth=PlnOlsgnHwY7fYaEqZgT3DMesdis
+#http://donglao.duckdns.org:9981/stream/channelid/489506928?auth=PlnOlsgnHwY7fYaEqZgT3DMesdis
 
 #EXTINF:-1 tvg-id="gmm25"group-title="Phim NN" logo="https://www.gmm25.com/asset/img/tv-banner.png",GMM25
 https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8

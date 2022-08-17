@@ -199,7 +199,8 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8|Referer=https://sctvon
 
 
  
-
+#EXTINF:-1 tvg-id="bloomberg"group-title="Tin tức-tổng hợp NN" tvg-logo="http://images.zaltv.club/logo/bloomberg.png",Bloomberg
+https://vips-livecdn.fptplay.net/hda3/bloomberg_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="bloomberg"group-title="Tin tức-tổng hợp NN" tvg-logo="http://images.zaltv.club/logo/bloomberg.png",Bloomberg 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8
@@ -211,7 +212,7 @@ https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_1_4596000.m3u8
 
 #EXTINF:-1 tvg-id="cnn"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.ibb.co/tXf7FYq/CNN.png",CNN
-https://livecdn.fptplay.net/sdb/cnn_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/cnn_4000.stream/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="cnn"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.ibb.co/tXf7FYq/CNN.png",CNN test
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
@@ -228,7 +229,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="bbcworldnews"group-title="Tin tức-tổng hợp NN" tvg-logo="http://images.zaltv.club/logo/bbcworld.png",BBC World News
-https://vips-livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/bbcnews_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="reuters"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.dakgroup.com/wp-content/uploads/2018/11/Reuters-logo.png",Reuters
 #https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
@@ -359,7 +360,7 @@ http://live.tvfix.org/hls/cqhd.m3u8
 #http://103.130.141.67:81/live/29/playlist.m3u8
  
 #EXTINF:-1 tvg-id="abcaustralia"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static-stage.tv24.vn/channel/240/ABCAustralia.jpg",ABCAustralia
-https://vips-livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/australiaplus_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="abcaustralia"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static-stage.tv24.vn/channel/240/ABCAustralia.jpg",ABCAustralia SCTV
 #EXTVLCOPT:http-referer=http://sctvonline.vn 
@@ -590,7 +591,7 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 https://dl.dropboxusercontent.com/s/o2jd7uwrcibrapt/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
 
 #EXTINF:-1 tvg-id="bbclifestyle"group-title="Du lịch-Khám phá" tvg-logo="http://images.zaltv.club/logo/bbcelife.png",BBC Lifestyle
-https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/bbclifestyle_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tlchd"group-title="Du lịch-Khám phá" tvg-logo="https://i.ibb.co/QkYV732/TLC.png" catchup="append",TLC
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
@@ -1749,8 +1750,8 @@ https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u
 https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd"group-title="Kênh Địa Phương" tvg-logo="http://images.zaltv.club/logo/vinhlong4hd.png",Vĩnh Long 4
-#https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-https://live3.thvli.vn/EfvM9MxTWR7IMmwwvxfiNg/1660123331/thvli/thvl4-abr/TV_HD/thvl4-abr_1080p/chunks.m3u8
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+#https://live3.thvli.vn/EfvM9MxTWR7IMmwwvxfiNg/1660123331/thvli/thvl4-abr/TV_HD/thvl4-abr_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="vinhphuc"group-title="Kênh Địa Phương" tvg-logo="http://images.zaltv.club/logo/vinh-phuc-vp.png",Vĩnh Phúc
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8

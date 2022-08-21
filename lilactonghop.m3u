@@ -36,10 +36,20 @@ http://live-vn.cvacetv.ga:8080/vtv5
 #EXTINF:-1 tvg-id="vtv5hdtn"group-title="VTV" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên
 #https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 https://tbientv.xyz/channel/vtvgo/?id=163
+
+#EXTINF:-1 tvg-id="vtv5hdtn"group-title="VTV" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên L2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://dl.dropboxusercontent.com/s/chva76tdb6g7qlx/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
  
 #EXTINF:-1 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://i.ibb.co/vjHg75w/VTV5-TNB.png",VTV5 Tây Nam Bộ
 #https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 https://tbientv.xyz/channel/vtvgo/?id=7
+
+#EXTINF:-1 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://i.ibb.co/vjHg75w/VTV5-TNB.png",VTV5 Tây Nam Bộ L2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://dl.dropboxusercontent.com/s/mlf4poarp91c72e/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
  
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://i.ibb.co/TcTfN9h/VTV6.png",VTV6
 #http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
@@ -115,7 +125,6 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
  
  
- 
 #EXTINF:-1 tvg-id="htv1"group-title="HTV" tvg-logo="http://images.zaltv.club/logo/htv1.png",HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
  
@@ -142,8 +151,6 @@ https://vips-livecdn.fptplay.net/hda3/htvcthethao_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd"group-title="HTV" tvg-logo="http://images.zaltv.club/logo/htv-thethao.png",HTVthethao L2
 http://live-vn.cvacetv.ga:8080/htvtt
 
-
- 
  
  
 #EXTINF:-1 tvg-id="antvhd"group-title="Tin tức-tổng hợp" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png",ANTV
@@ -277,7 +284,8 @@ https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="sbs"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/QLU1hem.png",SBS
 #https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8
 #http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
-http://itskoi.dothome.co.kr/sbs.php?id=S01
+#http://itskoi.dothome.co.kr/sbs.php?id=S01
+http://live-eu.cvacetv.ga/SBS
 
 #EXTINF:-1 tvg-id="mbc"group-title="Tin tức-tổng hợp NN" tvg-logo="http://images.zaltv.club/logo/mbc.png",MBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -756,9 +764,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http:
  
 #EXTINF:-1 tvg-id="hollywoodclassics"group-title="Phim NN" tvg-logo="http://images.zaltv.club/logo/hollywoodclassics.png",HollywoodClassics L2
 https://code.television4you.xyz/getlink/nethubtv?id=9331&itb=1
-
-#EXTINF:-1 tvg-id="starmoviechemgio"group-title="Phim NN" tvg-logo="http://images.zaltv.club/logo/star_movies_hd.png",Star Movies
-#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-id="warnertvhd"group-title="Phim NN" tvg-logo="http://images.zaltv.club/logo/warner-tv.png",WarnerTV
 https://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
@@ -802,6 +807,17 @@ https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #https://on-load.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:-1 tvg-id="starmovies"group-title="Phim NN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/c/cf/Star_Movies.svg/1200px-Star_Movies.svg.png",Star Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?cc
+#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="starworld"group-title="Phim NN" tvg-logo="https://tvonline.vn/wp-content/uploads/2018/07/large_starworld.jpg",Star World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8?cc
  
 #EXTINF:-1 tvg-id="bbcdrama"group-title="Phim NN" tvg-logo="http://images.zaltv.club/logo/bbc_drama.png",BBC Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1819,7 +1835,8 @@ http://mytv.dothome.co.kr/ch/catv/224.php
 
 #EXTINF:-1 tvg-id="kbs2"group-title="Âm nhạc-Thời trang" tvg-logo="https://i.ibb.co/PCT315x/KBS2-BEARTV.png",KBS 2
 #http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
-http://itskoi.dothome.co.kr/kbs.php?id=12
+#http://itskoi.dothome.co.kr/kbs.php?id=12
+http://live-eu.cvacetv.ga/KBS2
  
 #EXTINF:-1 tvg-id="sbsmtv"group-title="Âm nhạc-Thời trang" tvg-logo="https://i.ibb.co/qy5hVQ2/SBS-MTV-BEARTV.png",SBS MTV
 #http://ye23.win/iptv/sbs5.1.php?id=S0

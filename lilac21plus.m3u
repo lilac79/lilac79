@@ -16,18 +16,19 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_7
 
 #EXTINF:-1 tvg-id="3"group-title="3X TV" tvg-logo="https://i.ibb.co/dQYVnqZ/miamitv2.jpg",Miami TV
 #https://tbientv.xyz/getlink/?url=https://miamitvhd.com/&link=1
-http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/chunklist_w1520548616_b1896000.m3u8
+#http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/chunklist_w1520548616_b1896000.m3u8
+https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/chunklist_b1896000.m3u8?cc
 
 #EXTINF:-1 tvg-id="4"group-title="3X TV" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png",MiamiTVlatino
 https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/chunklist_w38958572_b1896000.m3u8
 
 #EXTINF:-1 tvg-id="5"group-title="3X TV" tvg-logo="https://files.fashiontv.com/wp-content/uploads/2019/08/midnitesecrets_live-650x366.jpg",FTV 18+
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="6"group-title="3X TV" tvg-logo="http://totv.org/img/visit-x.png",Visit X
 #http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 https://stream.visit-x.tv/vxtv/live/chunklist_w1889908788.m3u8
-
 
 #EXTINF:-1 tvg-id="7"group-title="3X TV" tvg-logo="http://totv.org/img/leo.png",LEO TV
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8

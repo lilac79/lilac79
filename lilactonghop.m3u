@@ -916,8 +916,9 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctv
  
 #EXTINF:-1 tvg-id="vtvcab3hd"group-title="Thể thao VN" tvg-logo="http://images.zaltv.club/logo/vtvcab3hd.png",ONSports L2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://live.television4you.xyz:8080/vtvcab3
-https://api.vthanhtivi.pw/v1/getlink/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db
+http://live.television4you.xyz:8080/vtvcab3
+#https://api.vthanhtivi.pw/v1/getlink/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db
+
  
 #EXTINF:-1 tvg-id="vtvcab6hd"group-title="Thể thao VN" tvg-logo="http://images.zaltv.club/logo/vtvcab6.png",ONSports+
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -925,8 +926,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctv
  
 #EXTINF:-1 tvg-id="vtvcab6hd"group-title="Thể thao VN" tvg-logo="http://images.zaltv.club/logo/vtvcab6.png",ONSports+ L2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab6-on-sport-plus
-https://api.vthanhtivi.pw/v1/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286
+#https://api.vthanhtivi.pw/v1/getlink/vtvgo/196
+#https://api.vthanhtivi.pw/v1/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286
  
 #EXTINF:-1 tvg-id="vtvcab16hd"group-title="Thể thao VN" tvg-logo="http://images.zaltv.club/logo/vtvcab16.png",OnFootball
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -934,8 +935,8 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http:/
  
 #EXTINF:-1 tvg-id="vtvcab16hd"group-title="Thể thao VN" tvg-logo="http://images.zaltv.club/logo/vtvcab16.png",OnFootball L2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://live.television4you.xyz:8080/vtvcab16
-https://api.vthanhtivi.pw/v1/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a
+http://live.television4you.xyz:8080/vtvcab16
+#https://api.vthanhtivi.pw/v1/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a
  
 #EXTINF:-1 tvg-id="vtvcab18hd"group-title="Thể thao VN" tvg-logo="http://images.zaltv.club/logo/vtvcab18.png",OnSportsNews 
 http://live.television4you.xyz:8080/vtvcab18

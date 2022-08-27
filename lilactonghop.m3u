@@ -241,7 +241,7 @@ https://vips-livecdn.fptplay.net/hda3/bbcnews_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="skynew"group-title="Tin tức-tổng hợp NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News test
 #http://live-eu.cvacetv.ga/SkyNews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661511384/ei/eFIIY-GsHLj12roPn-2SkAY/ip/123.21.208.225/id/9Auq9mYxFEE.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/vn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886215/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPTJJ2uZ-6Rb1s_USG6cpHkanU7PednKPJ_nKl8HEtRECIQCWsDbjHt5OTe8QtK3VcX5DVEFt37XGOdfBejdBfzaKgA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661610961/ei/cdcJY--GJIfL2roP6PWL6A4/ip/123.21.208.225/id/9Auq9mYxFEE.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/vn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOg3torJIjffbNyi94Q6sw2KSqRMWKIs0BmRI4AuOlSrAiBpUl3jJy4PR799mbaygAo63xwdbQrsQyIex0rnFsszzg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="reuters"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.dakgroup.com/wp-content/uploads/2018/11/Reuters-logo.png",Reuters
 #https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8

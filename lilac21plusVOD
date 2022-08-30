@@ -1,0 +1,292 @@
+#EXTM3U url-tvg="http://onetv.click/schedule/list,http://gg.gg/epgvn03,http://cvmovh.duckdns.org:9981/xmltv/channels,http://cvmvnpt.duckdns.org:9981/xmltv/channels,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://gg.gg/epgvn1,http://gg.gg/epgvn2,http://gg.gg/epgvn5,http://gg.gg/epgvn6,http://gg.gg/epgvn7,http://gg.gg/epgvn8,http://bit.ly/guidevn" deinterlace=1
+#List tổng hợp bởi LILAC79 Không dùng để mua bán
+ 
+#EXTINF:-1 tvg-id="1"group-title="List only 21+" tvg-logo="https://www.elle.vn/wp-content/uploads/2017/06/02/gal-gadot-3.png",21+, check vao VOD de xem
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+
+
+#EXTINF:-1 group-title="VOD",🐍
+https://w9n76.cdnedge.live/file/avple-images/hls/62c5a7d836c38433078a6954/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐍
+https://d862cp.cdnedge.live/file/avple-images/hls/62c5a72636c38433078a6952/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐍
+https://u89ey.cdnedge.live/file/avple-images/hls/62c5a76036c38433078a6953/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐍
+https://q2cyl7.cdnedge.live/file/avple-images/hls/62c5a6ad36c38433078a6951/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐍
+https://zo392.cdnedge.live/file/avple-images/hls/62c5a63536c38433078a6950/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐍
+https://q2cyl7.cdnedge.live/file/avple-images/hls/62c5a54536c38433078a694f/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐍
+https://8bb88.cdnedge.live/file/avple-images/hls/62c5a50a36c38433078a694e/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐍
+https://d862cp.cdnedge.live/file/avple-images/hls/62c5a49136c38433078a694d/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐍
+https://q2cyl7.cdnedge.live/file/avple-images/hls/62c596ee36c38433078a694b/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐍
+https://u89ey.cdnedge.live/file/avple-images/hls/62c596ee36c38433078a694c/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐍
+https://u89ey.cdnedge.live/file/avple-images/hls/62c592b936c38433078a694a/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://w9n76.cdnedge.live/file/avple-images/hls/62c43a77366b240e3b67be28/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://u89ey.cdnedge.live/file/avple-images/hls/62c448bd366b240e3b67be3b/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://10j99.cdnedge.live/file/avple-images/hls/62c44575366b240e3b67be3a/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://10j99.cdnedge.live/file/avple-images/hls/62c4444a366b240e3b67be37/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://u89ey.cdnedge.live/file/avple-images/hls/62c43a3c366b240e3b67be27/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://8bb88.cdnedge.live/file/avple-images/hls/62c44c81366b240e3b67be3c/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://e2fa6.cdnedge.live/file/avple-images/hls/62c44485366b240e3b67be38/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://je40u.cdnedge.live/file/avple-images/hls/62c43af1366b240e3b67be29/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://zo392.cdnedge.live/file/avple-images/hls/62c44398366b240e3b67be36/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://10j99.cdnedge.live/file/avple-images/hls/62c44359366b240e3b67be35/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://je40u.cdnedge.live/file/avple-images/hls/62c4426c366b240e3b67be34/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://q2cyl7.cdnedge.live/file/avple-images/hls/62c44231366b240e3b67be33/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://u89ey.cdnedge.live/file/avple-images/hls/62c4413f366b240e3b67be32/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://8bb88.cdnedge.live/file/avple-images/hls/62c440c8366b240e3b67be31/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐂
+https://e2fa6.cdnedge.live/file/avple-images/hls/62c4408b366b240e3b67be30/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://u89ey.cdnedge.live/file/avple-images/hls/62c168c8b70f0f5e88542c50/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://d862cp.cdnedge.live/file/avple-images/hls/62c049e68a72962dc53aa5a2/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://q2cyl7.cdnedge.live/file/avple-images/hls/62c047ca8a72962dc53aa5a0/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://u89ey.cdnedge.live/file/avple-images/hls/62bee355e8dd79755d817bbb/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://8bb88.cdnedge.live/file/avple-images/hls/62bd8968d0fa6a48496bbf61/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://d862cp.cdnedge.live/file/avple-images/hls/62bd883dd0fa6a48496bbf5d/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://10j99.cdnedge.live/file/avple-images/hls/62bd8879d0fa6a48496bbf5e/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://q2cyl7.cdnedge.live/file/avple-images/hls/62bd8710d0fa6a48496bbf5b/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://zo392.cdnedge.live/file/avple-images/hls/62bd88f0d0fa6a48496bbf60/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://je40u.cdnedge.live/file/avple-images/hls/62bd88b4d0fa6a48496bbf5f/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://1xp60.cdnedge.live/file/avple-images/hls/62bd878ad0fa6a48496bbf5c/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://d862cp.cdnedge.live/file/avple-images/hls/62bd8531d0fa6a48496bbf5a/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://je40u.cdnedge.live/file/avple-images/hls/62bd84f5d0fa6a48496bbf59/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://1xp60.cdnedge.live/file/avple-images/hls/62bd8531d0fa6a48496bbf5a/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://w9n76.cdnedge.live/file/avple-images/hls/62bd84f5d0fa6a48496bbf59/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://e2fa6.cdnedge.live/file/avple-images/hls/62bbf60aea3d425e0a93b7ae/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://8bb88.cdnedge.live/file/avple-images/hls/62bbf3efea3d425e0a93b7a9/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://je40u.cdnedge.live/file/avple-images/hls/62bbf592ea3d425e0a93b7ad/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://w9n76.cdnedge.live/file/avple-images/hls/62bbf51aea3d425e0a93b7ab/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://zo392.cdnedge.live/file/avple-images/hls/62bbf556ea3d425e0a93b7ac/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://1xp60.cdnedge.live/file/avple-images/hls/62bbf4a3ea3d425e0a93b7aa/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://10j99.cdnedge.live/file/avple-images/hls/62bbf06cea3d425e0a93b7a5/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://10j99.cdnedge.live/file/avple-images/hls/62bbf378ea3d425e0a93b7a8/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://zo392.cdnedge.live/file/avple-images/hls/62bbf33aea3d425e0a93b7a7/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://je40u.cdnedge.live/file/avple-images/hls/62bbf02fea3d425e0a93b7a4/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://10j99.cdnedge.live/file/avple-images/hls/62bbefb8ea3d425e0a93b7a3/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://zo392.cdnedge.live/file/avple-images/hls/62bbef7cea3d425e0a93b7a2/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://je40u.cdnedge.live/file/avple-images/hls/62bbef03ea3d425e0a93b7a1/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://u89ey.cdnedge.live/file/avple-images/hls/62bbed9fea3d425e0a93b79e/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://zo392.cdnedge.live/file/avple-images/hls/62bbeec8ea3d425e0a93b7a0/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://zo392.cdnedge.live/file/avple-images/hls/62bbee50ea3d425e0a93b79f/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://e2fa6.cdnedge.live/file/avple-images/hls/62bbeb0aea3d425e0a93b79b/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://1xp60.cdnedge.live/file/avple-images/hls/62bbe9dfea3d425e0a93b798/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://8bb88.cdnedge.live/file/avple-images/hls/62bbea91ea3d425e0a93b79a/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://e2fa6.cdnedge.live/file/avple-images/hls/62bbe92aea3d425e0a93b797/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://e2fa6.cdnedge.live/file/avple-images/hls/62bbea1aea3d425e0a93b799/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://zo392.cdnedge.live/file/avple-images/hls/62bb2046ea3d425e0a93b796/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://zo392.cdnedge.live/file/avple-images/hls/62bb1bd1ea3d425e0a93b795/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://10j99.cdnedge.live/file/avple-images/hls/62bb0a7aea3d425e0a93b791/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://e2fa6.cdnedge.live/file/avple-images/hls/62b9d010cf31541a6d4d7b52/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://1xp60.cdnedge.live/file/avple-images/hls/62b9d010cf31541a6d4d7b51/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://8bb88.cdnedge.live/file/avple-images/hls/62b9d010cf31541a6d4d7b50/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://10j99.cdnedge.live/file/avple-images/hls/62b9d010cf31541a6d4d7b4f/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://q2cyl7.cdnedge.live/file/avple-images/hls/62b9d010cf31541a6d4d7b4e/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://1xp60.cdnedge.live/file/avple-images/hls/62b9b6b74cd7211d4f02180c/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐴
+https://1xp60.cdnedge.live/file/avple-images/hls/62b64e19fcc60515a0303de6/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://1xp60.cdnedge.live/file/avple-images/hls/62b4346cea01b50f6781dc5f/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://w9n76.cdnedge.live/file/avple-images/hls/62b433b8ea01b50f6781dc5e/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://w9n76.cdnedge.live/file/avple-images/hls/62b4337fea01b50f6781dc5d/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://d862cp.cdnedge.live/file/avple-images/hls/62b43341ea01b50f6781dc5c/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://d862cp.cdnedge.live/file/avple-images/hls/62b43253ea01b50f6781dc5a/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://d862cp.cdnedge.live/file/avple-images/hls/62b43214ea01b50f6781dc59/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://d862cp.cdnedge.live/file/avple-images/hls/62b432ccea01b50f6781dc5b/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://d862cp.cdnedge.live/file/avple-images/hls/62b431daea01b50f6781dc58/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://q2cyl7.cdnedge.live/file/avple-images/hls/62b2dd89eec8264ea0826f31/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://w9n76.cdnedge.live/file/avple-images/hls/62b2de3eeec8264ea0826f32/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://e2fa6.cdnedge.live/file/avple-images/hls/62b2dd12eec8264ea0826f30/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://q2cyl7.cdnedge.live/file/avple-images/hls/62b2dbadeec8264ea0826f2f/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://u89ey.cdnedge.live/file/avple-images/hls/62b1b8cceec8264ea0826f2e/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://d862cp.cdnedge.live/file/avple-images/hls/62b1b7a2eec8264ea0826f2d/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://10j99.cdnedge.live/file/avple-images/hls/62b1b6eceec8264ea0826f2c/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://e2fa6.cdnedge.live/file/avple-images/hls/62b1b5feeec8264ea0826f2b/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://w9n76.cdnedge.live/file/avple-images/hls/62b1b4d2eec8264ea0826f29/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://1xp60.cdnedge.live/file/avple-images/hls/62b1b586eec8264ea0826f2a/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🐶
+https://10j99.cdnedge.live/file/avple-images/hls/62b1b45aeec8264ea0826f28/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://d862cp.cdnedge.live/file/avple-images/hls/62aed121c556631aff1378f2/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://8bb88.cdnedge.live/file/avple-images/hls/62aed1d5c556631aff1378f4/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://zo392.cdnedge.live/file/avple-images/hls/62aed19cc556631aff1378f3/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://8bb88.cdnedge.live/file/avple-images/hls/62aecf05c556631aff1378ef/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://d862cp.cdnedge.live/file/avple-images/hls/62aed0a9c556631aff1378f1/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://q2cyl7.cdnedge.live/file/avple-images/hls/62aecff5c556631aff1378f0/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://1xp60.cdnedge.live/file/avple-images/hls/62aece15c556631aff1378ee/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://w9n76.cdnedge.live/file/avple-images/hls/62aeccaec556631aff1378ed/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://u89ey.cdnedge.live/file/avple-images/hls/62aecbbdc556631aff1378eb/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://8bb88.cdnedge.live/file/avple-images/hls/62aecb0ac556631aff1378ea/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://je40u.cdnedge.live/file/avple-images/hls/62ac67c91ea6384bb6ca9f8d/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://8bb88.cdnedge.live/file/avple-images/hls/62ac68051ea6384bb6ca9f8e/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://d862cp.cdnedge.live/file/avple-images/hls/62ac67541ea6384bb6ca9f8c/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://w9n76.cdnedge.live/file/avple-images/hls/62ac66d81ea6384bb6ca9f8b/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://8bb88.cdnedge.live/file/avple-images/hls/62ac66641ea6384bb6ca9f8a/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://u89ey.cdnedge.live/file/avple-images/hls/62ac65ec1ea6384bb6ca9f89/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://10j99.cdnedge.live/file/avple-images/hls/62ac64491ea6384bb6ca9f88/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://u89ey.cdnedge.live/file/avple-images/hls/62ac63931ea6384bb6ca9f87/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://d862cp.cdnedge.live/file/avple-images/hls/62ac60491ea6384bb6ca9f86/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://e2fa6.cdnedge.live/file/avple-images/hls/62aad43121a7da2e6584bc8b/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://w9n76.cdnedge.live/file/avple-images/hls/62aad3b921a7da2e6584bc8a/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://e2fa6.cdnedge.live/file/avple-images/hls/62aad4a621a7da2e6584bc8c/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://w9n76.cdnedge.live/file/avple-images/hls/62aad86721a7da2e6584bc93/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://e2fa6.cdnedge.live/file/avple-images/hls/62aad60e21a7da2e6584bc8f/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://zo392.cdnedge.live/file/avple-images/hls/62aad51f21a7da2e6584bc8d/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://w9n76.cdnedge.live/file/avple-images/hls/62aad21a21a7da2e6584bc89/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://8bb88.cdnedge.live/file/avple-images/hls/62aad7b221a7da2e6584bc92/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://u89ey.cdnedge.live/file/avple-images/hls/62aad0ac21a7da2e6584bc88/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://w9n76.cdnedge.live/file/avple-images/hls/62aad64c21a7da2e6584bc90/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://d862cp.cdnedge.live/file/avple-images/hls/62aad03321a7da2e6584bc87/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://q2cyl7.cdnedge.live/file/avple-images/hls/62aacf8121a7da2e6584bc86/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://d862cp.cdnedge.live/file/avple-images/hls/62aacecb21a7da2e6584bc85/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://je40u.cdnedge.live/file/avple-images/hls/62aace5621a7da2e6584bc84/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://10j99.cdnedge.live/file/avple-images/hls/62aacddb21a7da2e6584bc83/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://d862cp.cdnedge.live/file/avple-images/hls/62aacc3a21a7da2e6584bc81/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://je40u.cdnedge.live/file/avple-images/hls/62aaca9721a7da2e6584bc7f/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://1xp60.cdnedge.live/file/avple-images/hls/62aacb0c21a7da2e6584bc80/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://q2cyl7.cdnedge.live/file/avple-images/hls/62a9bc9d21a7da2e6584bc7e/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://e2fa6.cdnedge.live/file/avple-images/hls/62a5afee94b044303b9622df/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://zo392.cdnedge.live/file/avple-images/hls/62a5aefe94b044303b9622de/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://w9n76.cdnedge.live/file/avple-images/hls/62a5b68294b044303b9622e3/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://8bb88.cdnedge.live/file/avple-images/hls/62a5b0a294b044303b9622e0/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://zo392.cdnedge.live/file/avple-images/hls/62a5b37294b044303b9622e2/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://d862cp.cdnedge.live/file/avple-images/hls/62a5ac6b94b044303b9622db/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://je40u.cdnedge.live/file/avple-images/hls/62a5b24894b044303b9622e1/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://w9n76.cdnedge.live/file/avple-images/hls/62a5ae4a94b044303b9622dd/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://je40u.cdnedge.live/file/avple-images/hls/62a5ace294b044303b9622dc/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://w9n76.cdnedge.live/file/avple-images/hls/62a5abb794b044303b9622da/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://1xp60.cdnedge.live/file/avple-images/hls/62a5a70894b044303b9622d4/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://zo392.cdnedge.live/file/avple-images/hls/62a5aa8d94b044303b9622d9/playlist.m3u8
+#EXTINF:-1 group-title="VOD",🍓
+https://u89ey.cdnedge.live/file/avple-images/hls/62a5a99d94b044303b9622d8/playlist.m3u8

@@ -260,6 +260,9 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist
 https://vips-livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 #http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8
 
+#EXTINF:-1 tvg-id="france24eng"group-title="Tin tức-tổng hợp NN" tvg-logo="https://media.info/i/lf/0/1443114332/1417.png",France24 test
+https://ls1vjfdiiyliv.vcdn.cloud/c9d94088f8fd63b1988ebe34fda26a00/1661845880000/live/france24hd.smil/chunklist_sleng.m3u8
+
 #EXTINF:-1 tvg-id="france24french"group-title="Tin tức-tổng hợp NN" tvg-logo="https://media.info/i/lf/0/1443114332/1417.png",France24 Fra
 #http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #https://manifest.googlevideo.com/api/manifest/hls_variant/index.m3u8
@@ -737,9 +740,13 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 #EXTINF:-1 tvg-id="boxmovie1"group-title="Phim NN" tvg-logo="https://static-stage.tv24.vn/channel/245/BoxMovie_new.jpg",BoxMovie
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
- 
+
 #EXTINF:-1 tvg-id="boxmovie1"group-title="Phim NN" tvg-logo="https://static-stage.tv24.vn/channel/245/BoxMovie_new.jpg",BoxMovie L2
 https://code.television4you.xyz/getlink/nethubtv?id=9328&itb=1
+
+#EXTINF:-1 tvg-id="boxmovie1"group-title="Phim NN" tvg-logo="https://static-stage.tv24.vn/channel/245/BoxMovie_new.jpg",BoxMovie test
+https://log5uwsgbvliv.vcdn.cloud/54fdfdc16be622691af3c982293e61fb/1661846115000/live/box-movie/chunklist_2.m3u8
+#https://log5uwsgbvliv.vcdn.cloud/54fdfdc16be622691af3c982293e61fb/1661846115000/live/box-movie/chunklist_1.m3u8
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png",BoxChanel
 #https://tbientv.xyz/channel/?1659891600bcb6692ea5df920cad691c20319a6fffd7a4a766b8/m3u8
@@ -750,6 +757,10 @@ https://s.id/beartv-inthebox
 #EXTVLCOPT:network-caching=1000
 https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
 #https://dl.dropboxusercontent.com/s/vbw1it91f0wi3g6/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
+
+#EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png",BoxChanel test
+https://log5uwsgbvliv.vcdn.cloud/ce012890d78040a53708fb6201a413ae/1661846217000/live/box-channel/chunklist_2.m3u8
+#https://log5uwsgbvliv.vcdn.cloud/ce012890d78040a53708fb6201a413ae/1661846217000/live/box-channel/chunklist_1.m3u8
 
 #EXTINF:-1 tvg-id="boxhits"group-title="Phim NN" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png",BoxHits
 https://s.id/beartv-boxhit

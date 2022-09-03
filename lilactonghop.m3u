@@ -730,8 +730,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 https://code.television4you.xyz/getlink/nethubtv?id=9328&itb=1
 
 #EXTINF:-1 tvg-id="boxmovie1"group-title="Phim NN" tvg-logo="https://static-stage.tv24.vn/channel/245/BoxMovie_new.jpg",BoxMovie test
-https://log5uwsgbvliv.vcdn.cloud/54fdfdc16be622691af3c982293e61fb/1661846115000/live/box-movie/chunklist_2.m3u8
-#https://log5uwsgbvliv.vcdn.cloud/54fdfdc16be622691af3c982293e61fb/1661846115000/live/box-movie/chunklist_1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:network-caching=1000
+#https://dl.dropboxusercontent.com/s/u607615uzi4ynmy/hls/boxmovie1/index.m3u8?cc%7CReferer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png",BoxChanel
 #https://tbientv.xyz/channel/?1659891600bcb6692ea5df920cad691c20319a6fffd7a4a766b8/m3u8
@@ -741,11 +743,11 @@ https://s.id/beartv-inthebox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
-#https://dl.dropboxusercontent.com/s/vbw1it91f0wi3g6/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png",BoxChanel test
-https://log5uwsgbvliv.vcdn.cloud/ce012890d78040a53708fb6201a413ae/1661846217000/live/box-channel/chunklist_2.m3u8
-#https://log5uwsgbvliv.vcdn.cloud/ce012890d78040a53708fb6201a413ae/1661846217000/live/box-channel/chunklist_1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://dl.dropboxusercontent.com/s/vee7zsr0i4n5zq0/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
 
 #EXTINF:-1 tvg-id="boxhits"group-title="Phim NN" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png",BoxHits
 https://s.id/beartv-boxhit
@@ -753,12 +755,10 @@ https://s.id/beartv-boxhit
 #EXTINF:-1 tvg-id="boxhits"group-title="Phim NN" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png",BoxHits L2
 http://live.television4you.xyz:8081/boxhits/mpegts
 
-#EXTINF:-1 tvg-id="boxhits"group-title="Phim NN" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png",BoxHits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:-1 tvg-id="boxhits"group-title="Phim NN" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png",BoxHits test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:network-caching=1000
-#https://dl.dropboxusercontent.com/s/k8af1u02lthvy8s/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
+#https://dl.dropboxusercontent.com/s/lebjoxjk0lu68pw/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
  
 #EXTINF:-1 tvg-id="hollywoodclassics"group-title="Phim NN" tvg-logo="http://images.zaltv.club/logo/hollywoodclassics.png",HollywoodClassics
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -833,7 +833,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?cc
 #EXTINF:-1 tvg-id="CelestialMovies.MACAN"group-title="Phim NN" tvg-logo="http://images.zaltv.club/logo/celestial.png",Celestial Movies DRM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd  
+#https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd  
 
 #EXTINF:-1 tvg-id="contv"group-title="Phim NN" tvg-logo="http://images.zaltv.club/logo/contv.png",CONtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1945,5 +1945,10 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #http://aisharelamcho.duckdns.org/aisharelamcho/KSP21308.aslc/mpegts
 
 
+#EXTINF:-1 tvg-id="ksport1hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1 VT
+#https://lb.privatevps.org/play/VhpFGySwNZ9k6Et9C5oCoo-J-H8PlZgdnIhRCTBfJew
+
+#EXTINF:-1 tvg-id="ksport2hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT2 VT
+#https://lb.privatevps.org/play/VhpFGySwNZ9k6Et9C5oCotFzxrn4FptgiuPflQuC5J8
 
 

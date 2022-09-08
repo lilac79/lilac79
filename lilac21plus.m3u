@@ -64,14 +64,17 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="1"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Rin
 https://b-hls-09.doppiocdn.com/hls/58663247/58663247.m3u8
 
-#EXTINF:-1 tvg-id="3"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Vanila
+#EXTINF:-1 tvg-id="2"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Vanila
 https://b-hls-03.doppiocdn.com/hls/76550244/76550244.m3u8
 
-#EXTINF:-1 tvg-id="10"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Amelia
+#EXTINF:-1 tvg-id="3"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Amelia
 https://b-hls-03.doppiocdn.com/hls/79537016/79537016.m3u8
 
-#EXTINF:-1 tvg-id="5"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Juliette
+#EXTINF:-1 tvg-id="4"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Juliette
 https://b-hls-18.doppiocdn.com/hls/67504881/67504881.m3u8
+
+#EXTINF:-1 tvg-id="5"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Angelbj
+https://b-hls-17.doppiocdn.com/hls/87324095/87324095.m3u8
 
 #EXTINF:-1 tvg-id="6"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Mia
 https://b-hls-18.doppiocdn.com/hls/75925392/75925392.m3u8
@@ -85,8 +88,8 @@ https://b-hls-06.doppiocdn.com/hls/46818871/46818871.m3u8
 #EXTINF:-1 tvg-id="9"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Ame
 https://b-hls-01.doppiocdn.com/hls/65751202/65751202.m3u8
 
-#EXTINF:-1 tvg-id="10"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Hana
-https://b-hls-21.doppiocdn.com/hls/82458170/82458170.m3u8
+#EXTINF:-1 tvg-id="10"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Fresh
+https://b-hls-11.doppiocdn.com/hls/52028289/52028289.m3u8
 
 #EXTINF:-1 tvg-id="11"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Coca
 https://b-hls-23.doppiocdn.com/hls/80206248/80206248.m3u8
@@ -110,7 +113,7 @@ https://b-hls-11.doppiocdn.com/hls/74627922/74627922.m3u8
 https://b-hls-07.doppiocdn.com/hls/78349232/78349232.m3u8
 
 #EXTINF:-1 tvg-id="18"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Eva
-https://b-hls-08.doppiocdn.com/hls/76060281/76060281.m3u8
+https://b-hls-11.doppiocdn.com/hls/88053420/88053420.m3u8
 
 #EXTINF:-1 tvg-id="19"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Mina
 https://b-hls-10.doppiocdn.com/hls/82856047/82856047.m3u8

@@ -165,3 +165,6 @@ https://b-hls-17.doppiocdn.com/hls/75537298/75537298.m3u8
 
 #EXTINF:-1 tvg-id="35"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Anna
 https://b-hls-19.doppiocdn.com/hls/76766494/76766494.m3u8
+
+#EXTINF:-1 tvg-id="36"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Koitop
+https://b-hls-01.doppiocdn.com/hls/86183126/86183126.m3u8

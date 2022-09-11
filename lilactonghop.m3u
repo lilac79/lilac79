@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,http://gg.gg/epgchina,http://gg.gg/epg-japan,http://gg.gg/epg-korea1,http://gg.gg/epgvn7" tvg-shift=0 m3uautoload=1
 #List tổng hợp bởi LILAC79 không dùng để mua bán
  
-#EXTINF:-1 tvg-id="1"group-title="Thông báo" tvg-logo="https://www.elle.vn/wp-content/uploads/2017/06/02/gal-gadot-3.png",UPDATE18082022
+#EXTINF:-1 tvg-id="1"group-title="Thông báo" tvg-logo="https://www.elle.vn/wp-content/uploads/2017/06/02/gal-gadot-3.png",UPDATE11092022
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
  
 #EXTINF:-1 tvg-id="2"group-title="Thông báo" tvg-logo="https://media.doanhnghiepvn.vn/Images/Uploaded/Share/2020/12/18/Phong-cach-quy-co-cua-Gal-Gadot-trong-Wonder-Woman-1984_4.jpg",update lại list khi xem
@@ -277,9 +277,9 @@ https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="sbs"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/QLU1hem.png",SBS
 #https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8
-http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
+#http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
 #http://itskoi.dothome.co.kr/sbs.php?id=S01
-#http://live-sg.cvacetv.ga/SBS
+http://live-sg.cvacetv.ga/SBS
 
 #EXTINF:-1 tvg-id="mbc"group-title="Tin tức-tổng hợp NN" tvg-logo="http://images.zaltv.club/logo/mbc.png",MBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -340,6 +340,11 @@ https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 #https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="channel5"group-title="Tin tức-tổng hợp NN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 Sing DRM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ=&
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #EXTINF:-1 tvg-id="cntg"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/NpnQWeG.png",CGTN for Europe
 https://live.cgtn.com/1000/prog_index.m3u8
@@ -1037,23 +1042,23 @@ https://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="abusport1bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTYV4j_5qB2RY8q7JcjMCORZOQ1avyMLyZA&usqp=CAU",Abu Sports 1 FHD
+#EXTINF:-1 tvg-id="abusport1bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTYV4j_5qB2RY8q7JcjMCORZOQ1avyMLyZA&usqp=CAU",Abu Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="abusport2bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTYV4j_5qB2RY8q7JcjMCORZOQ1avyMLyZA&usqp=CAU",Abu Sports 2 FHD
+#EXTINF:-1 tvg-id="abusport2bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTYV4j_5qB2RY8q7JcjMCORZOQ1avyMLyZA&usqp=CAU",Abu Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="abusport3bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTYV4j_5qB2RY8q7JcjMCORZOQ1avyMLyZA&usqp=CAU",Abu Sports 3 FHD
+#EXTINF:-1 tvg-id="abusport3bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTYV4j_5qB2RY8q7JcjMCORZOQ1avyMLyZA&usqp=CAU",Abu Sports 3
 #https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="arenasport1"group-title="Thể thao NN" tvg-logo="https://mtel.at/storage/assets/arena-1-premium_266x2001.png",Arena Premium 1
-http://live-sg.cvacetv.ga:8080/stream/channelid/905903997
+#http://live-sg.cvacetv.ga:8080/stream/channelid/905903997
 
 #EXTINF:-1 tvg-id="arenasport2"group-title="Thể thao NN" tvg-logo="https://mtel.at/storage/assets/arena-2-premium_266x2001.png",Arena Premium 2
-http://live-sg.cvacetv.ga:8080/stream/channelid/1886869704
+#http://live-sg.cvacetv.ga:8080/stream/channelid/1886869704
 
 #EXTINF:-1 tvg-id="arenasport3"group-title="Thể thao NN" tvg-logo="https://mtel.at/storage/assets/arena-3-premium_480x2701.png",Arena Premium 3
-http://live-sg.cvacetv.ga:8080/stream/channelid/766998928 
+#http://live-sg.cvacetv.ga:8080/stream/channelid/766998928 
 
 #EXTINF:-1 tvg-id="astroarena"group-title="Thể thao NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena
 #EXTVLCOPT:network-caching=1000
@@ -1076,9 +1081,6 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/247454318
 #EXTINF:-1 tvg-id="beinsport1chemgio"group-title="Thể thao NN" tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg",beINSports 1 L2
 #https://tv.dqav.net/tp1.php?id=56655
 #http://vn360sport.duckdns.org:9981/stream/channelid/1193899705?auth=PVswLVoK2nEjK.M2NCL56VqULFqg&profile=pass
-
-#EXTINF:-1 tvg-id="beinsport1chemgio"group-title="Thể thao NN" tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg",beINSports 1 L2
-#http://red.ipfox.org:8080/live/osama2022/osama2023/31493.m3u8
  
 #EXTINF:-1 tvg-id="beinsport2chemgio"group-title="Thể thao NN" tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg",beINSports 2
 #http://93.152.174.144:4000/play/bein2fr/index.m3u8
@@ -1087,15 +1089,9 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/247454318
 #EXTINF:-1 tvg-id="beinsport2chemgio"group-title="Thể thao NN" tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg",beINSports 2 L2
 #https://tv.dqav.net/tp1.php?id=56654
 #http://vn360sport.duckdns.org:9981/stream/channelid/1271510505?auth=PVswLVoK2nEjK.M2NCL56VqULFqg&profile=pass
- 
-#EXTINF:-1 tvg-id="beinsport2chemgio"group-title="Thể thao NN" tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg",beINSports 2 L2
-#http://red.ipfox.org:8080/live/osama2022/osama2023/31492.m3u8
 
 #EXTINF:-1 tvg-id="beinsport3chemgio"group-title="Thể thao NN" tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg",beINSports 3
 #http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
-#EXTINF:-1 tvg-id="beinsport3chemgio"group-title="Thể thao NN" tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg",beINSports 3
-#http://red.ipfox.org:8080/live/osama2022/osama2023/31491.m3u8
 
 #EXTINF:-1 tvg-id="beinsport1engvn360"group-title="Thể thao NN" tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg",beINSports 1 EN
 #https://tv.dqav.net/tp1.php?id=27889
@@ -1110,9 +1106,6 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/247454318
 #https://tv.dqav.net/tp1.php?id=73363
 #http://vn360sport.duckdns.org:9981/stream/channelid/1502607711?auth=PVswLVoK2nEjK.M2NCL56VqULFqg&profile=pass
 
-#EXTINF:-1 tvg-id="beinsport1pre"group-title="Thể thao NN" tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png",beINSport1 PREMIUM L2
-#http://red.ipfox.org:8080/live/osama2022/osama2023/31498.m3u8
-
 #EXTINF:-1 tvg-id="beinsport1pre"group-title="Thể thao NN" tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png",beINSport1 PREMIUM L3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -1120,9 +1113,6 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/247454318
 
 #EXTINF:-1 tvg-id="beinsport2pre"group-title="Thể thao NN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-qa-bein-sports-premium-2-759.png",beINSport2 PREMIUM
 #https://tv.dqav.net/tp1.php?id=73362
-
-#EXTINF:-1 tvg-id="beinsport2pre"group-title="Thể thao NN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-qa-bein-sports-premium-2-759.png",beINSport2 PREMIUM
-#http://red.ipfox.org:8080/live/osama2022/osama2023/31497.m3u8
 
 #EXTINF:-1 tvg-id="beinsport2pre"group-title="Thể thao NN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-qa-bein-sports-premium-2-759.png",beINSport2 PREMIUM L2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1138,13 +1128,13 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/247454318
 #https://tv.dqav.net/tp1.php?id=73356
 
 #EXTINF:-1 tvg-id="btsport1"group-title="Thể thao NN" tvg-logo="http://images.zaltv.club/logo/bt_sport_1_hd.png",BT Sport 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+#http://93.152.174.144:4000/play/btsport1/index.m3u8
  
 #EXTINF:-1 tvg-id="btsport2"group-title="Thể thao NN" tvg-logo="http://images.zaltv.club/logo/bt_sport_2_hd.png",BT Sport 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
+#http://93.152.174.144:4000/play/btsport2/index.m3u8
  
 #EXTINF:-1 tvg-id="btsport3"group-title="Thể thao NN" tvg-logo="http://images.zaltv.club/logo/bt_sport_3_hd.png",BT Sport 3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
+#http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:-1 tvg-id="canalplus"group-title="Thể thao NN" tvg-logo="https://english-club.tv/wp-content/uploads/2018/02/Strong-Technologies.jpg",Canal+
 http://live-sg.cvacetv.ga:8080/stream/channelid/707747584
@@ -1159,10 +1149,16 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/572874308
 #EXTINF:-1 tvg-id="canalsport2"group-title="Thể thao NN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fcanal_sport2.jpg",Canal+ Sport 2
 
 #EXTINF:-1 tvg-id="digisport1"group-title="Thể thao NN" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi1hdhu.jpg",Digi Sport 1
-http://live-sg.cvacetv.ga:8080/stream/channelid/1243853844
+#http://live-sg.cvacetv.ga:8080/stream/channelid/1243853844
 
 #EXTINF:-1 tvg-id="digisport2"group-title="Thể thao NN" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi2hdhu.jpg",Digi Sport 2
-http://live-sg.cvacetv.ga:8080/stream/channelid/709759450
+#http://live-sg.cvacetv.ga:8080/stream/channelid/709759450
+
+#EXTINF:-1 tvg-id="diemasport"group-title="Thể thao NN" tvg-logo="https://www.unitedmedia.net/ea/wp-content/uploads/2021/04/diema-sport.png",DIEMA SPORT 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/209843431
+
+#EXTINF:-1 tvg-id="diemasport2"group-title="Thể thao NN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fdiemasport2.jpg",DIEMA SPORT 2
+http://live-sg.cvacetv.ga:8080/stream/channelid/1803112988
 
 #EXTINF:-1 tvg-id="dubaisport1bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGO2QaPzttNGp18NAtOOM4weZzbfbxAJksUA&usqp=CAU",Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
@@ -1181,7 +1177,7 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/705108665
  
 #EXTINF:-1 tvg-id="eurosport2"group-title="Thể thao NN" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png?ssl=1",Eurosport 2
 #https://tv.dqav.net/tp1.php?id=67800
-http://live-sg.cvacetv.ga:8080/stream/channelid/253989575
+#http://live-sg.cvacetv.ga:8080/stream/channelid/253989575
 
 #EXTINF:-1 tvg-id="eurosport2"group-title="Thể thao NN" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png?ssl=1",Eurosport 2 L2
  
@@ -1225,7 +1221,7 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/2058446761
 #EXTINF:-1 tvg-id="matchfutbol1"group-title="Thể thao NN" tvg-logo="https://airlink.ge/wp-content/uploads/2021/01/mqs.png",МаtchFutbol 1 L2
  
 #EXTINF:-1 tvg-id="matchfutbol2"group-title="Thể thao NN" tvg-logo="https://s3.beelinetv.uz/buz-production/d8e6b6011b2444641a9d.png",МаtchFutbol 2
-http://live-sg.cvacetv.ga:8080/stream/channelid/1662401069
+#http://live-sg.cvacetv.ga:8080/stream/channelid/1662401069
  
 #EXTINF:-1 tvg-id="skysport1"group-title="Thể thao NN" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Sky_Sport_1_HD_PRIMARY_RGB.PNG",SkySport 1
 
@@ -1255,14 +1251,14 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1662401069
  
 #EXTINF:-1 tvg-id="sporttv1"group-title="Thể thao NN" tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg",SportTV 1
 #https://tv.dqav.net/tp1.php?id=68419
-http://live-sg.cvacetv.ga:8080/stream/channelid/41445934
+#http://live-sg.cvacetv.ga:8080/stream/channelid/41445934
 
 #EXTINF:-1 tvg-id="sporttv1"group-title="Thể thao NN" tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg",SportTV 1 L2
 #EXTVLCOPT:network-caching=1000
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
 #EXTINF:-1 tvg-id="sporttv2"group-title="Thể thao NN" tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg",SportTV 2
-http://live-sg.cvacetv.ga:8080/stream/channelid/215681414
+#http://live-sg.cvacetv.ga:8080/stream/channelid/215681414
 
 #EXTINF:-1 tvg-id="sporttv2"group-title="Thể thao NN" tvg-logo="http://imagensdemarca.sapo.pt/wp-content/uploads/2014/07/sport_tv_01.jpg",SportTV 2 L2
 #EXTVLCOPT:network-caching=1000

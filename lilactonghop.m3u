@@ -233,7 +233,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews"group-title="Tin tức-tổng hợp NN" tvg-logo="http://images.zaltv.club/logo/bbcworld.png",BBC World News
 https://vips-livecdn.fptplay.net/hda3/bbcnews_4000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="skynew"group-title="Tin tức-tổng hợp NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News test
+#EXTINF:-1 tvg-id="skynew"group-title="Tin tức-tổng hợp NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
 http://live-sg.cvacetv.ga/SkyNews
 
 #EXTINF:-1 tvg-id="reuters"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.dakgroup.com/wp-content/uploads/2018/11/Reuters-logo.png",Reuters
@@ -311,10 +311,8 @@ http://mytv.dothome.co.kr/ch/catv/221.php
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #EXTINF:-1 tvg-id="nhkworld"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_logo_466x146.png",NHKWorld
+#https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="nhkworld"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_logo_466x146.png",NHKWorld test
-https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp"group-title="Tin tức-tổng hợp NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 #http://203.162.235.41:16903
@@ -336,11 +334,6 @@ https://code.television4you.xyz/getlink/yoitv?id=dfVr67j-Iy_J5tM4jYI7gQ==
 #EXTINF:-1 tvg-id="ChannelNewsAsia.MACAN"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.ibb.co/BwJ025N/Channel-News-Asia-BEARTV.png",CNA
 https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ChannelNewsAsia.MACAN"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.ibb.co/BwJ025N/Channel-News-Asia-BEARTV.png",CNA SCTV
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
-
 #EXTINF:-1 tvg-id="channel5"group-title="Tin tức-tổng hợp NN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 Sing DRM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ=&
@@ -350,8 +343,8 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="cctv1"group-title="Tin tức-tổng hợp NN" tvg-logo="http://images.zaltv.club/logo/cctv-1.png",CCTV1
-#http://39.135.32.236:6610/PLTV/77777777/224/3221225674/index.m3u8?$广西移动
-http://stream4.jlntv.cn/cctv1hd/playlist.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225674/index.m3u8?$广西移动
+#http://stream4.jlntv.cn/cctv1hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cctv13"group-title="Tin tức-tổng hợp NN" tvg-logo=http://images.zaltv.club/logo/cctv-13.png",CCTV13
 #http://39.135.32.236:6610/PLTV/77777777/224/3221225787/index.m3u8?$广西移动
@@ -372,10 +365,6 @@ http://103.130.141.67:81/live/29/playlist.m3u8
  
 #EXTINF:-1 tvg-id="abcaustralia"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static-stage.tv24.vn/channel/240/ABCAustralia.jpg",ABCAustralia
 https://vips-livecdn.fptplay.net/hda3/australiaplus_4000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="abcaustralia"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static-stage.tv24.vn/channel/240/ABCAustralia.jpg",ABCAustralia SCTV
-#EXTVLCOPT:http-referer=http://sctvonline.vn 
-https://e4.endpoint.cdn.sctvonline.vn/hls/abc/index.m3u8|Referer=http://sctvonline.vn
  
 #EXTINF:-1 tvg-id="abcaustralianews"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.abc.net.au/news/linkableblob/8413676/data/abc-news-og-data.jpg",ABCAustralia News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8

@@ -175,5 +175,11 @@ https://b-hls-03.doppiocdn.com/hls/82710922/82710922.m3u8
 #EXTINF:-1 tvg-id="38"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Lucy
 https://b-hls-10.doppiocdn.com/hls/84376169/84376169.m3u8
 
-#EXTINF:-1 tvg-id="39"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Ismy
-https://b-hls-09.doppiocdn.com/hls/87386254/87386254.m3u8
+#EXTINF:-1 tvg-id="39"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Funnygirl
+https://b-hls-06.doppiocdn.com/hls/68090271/68090271.m3u8
+
+#EXTINF:-1 tvg-id="40"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",AnnaKay
+https://b-hls-08.doppiocdn.com/hls/86591788/86591788_720p.m3u8
+
+#EXTINF:-1 tvg-id="41"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Cmcoo
+https://b-hls-24.doppiocdn.com/hls/89443470/89443470.m3u8

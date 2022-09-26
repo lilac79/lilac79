@@ -38,15 +38,16 @@ http://live-vn.cvacetv.ga:8080/vtv5
 https://tbientv.xyz/channel/vtvgo/?id=163
 
 #EXTINF:-1 tvg-id="vtv5hdtn"group-title="VTV" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên L2
+https://s.id/beartv-vtv5tn
  
 #EXTINF:-1 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://i.ibb.co/vjHg75w/VTV5-TNB.png",VTV5 Tây Nam Bộ
 #https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 https://tbientv.xyz/channel/vtvgo/?id=7
 
 #EXTINF:-1 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://i.ibb.co/vjHg75w/VTV5-TNB.png",VTV5 Tây Nam Bộ L2
+https://s.id/beartv-vtv5tnb
  
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://i.ibb.co/TcTfN9h/VTV6.png",VTV6
-#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://i.ibb.co/TcTfN9h/VTV6.png",VTV6 L2
@@ -54,6 +55,12 @@ http://live-vn.cvacetv.ga:8080/vtv6
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://i.ibb.co/TcTfN9h/VTV6.png",VTV6 L3
 http://live.vthanhtivi.pw:8080/vtv6
+
+#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://i.ibb.co/TcTfN9h/VTV6.png",VTV6 L4
+http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://i.ibb.co/TcTfN9h/VTV6.png",VTV6 L5
+https://hqth.me/vtv6360
  
 #EXTINF:-1 tvg-id="vtv7hd"group-title="VTV" tvg-logo="https://i.ibb.co/DGy1J31/VTV7.png",VTV7
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -798,7 +805,7 @@ https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
 https://s.id/beartv-boxhit
 
 #EXTINF:-1 tvg-id="boxhits"group-title="Phim NN" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png",BoxHits L2
-http://live.television4you.xyz:8081/boxhits/mpegts
+http://live.television4you.xyz/boxhits/mpegts
 
 #EXTINF:-1 tvg-id="boxhits"group-title="Phim NN" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png",BoxHits test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1054,10 +1061,10 @@ https://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="bbcone"group-title="Thể thao NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/BBC_One_2002.png",BBC ONE
-http://live-sg.cvacetv.ga:8080/stream/channelid/291261982
+
 
 #EXTINF:-1 tvg-id="bbctwo"group-title="Thể thao NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC TWO
-http://live-sg.cvacetv.ga:8080/stream/channelid/247454318
+
 
 #EXTINF:-1 tvg-id="beinsport1chemgio"group-title="Thể thao NN" tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg",beINSports 1
 
@@ -1120,16 +1127,16 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/247454318
 
 
 #EXTINF:-1 tvg-id="dubaisport1bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGO2QaPzttNGp18NAtOOM4weZzbfbxAJksUA&usqp=CAU",Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
  
 #EXTINF:-1 tvg-id="dubaisport2bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGO2QaPzttNGp18NAtOOM4weZzbfbxAJksUA&usqp=CAU",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
  
 #EXTINF:-1 tvg-id="dubaisport3bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGO2QaPzttNGp18NAtOOM4weZzbfbxAJksUA&usqp=CAU",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1"group-title="Thể thao NN" tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/eurosport-1.png",Eurosport 1
-http://live-sg.cvacetv.ga:8080/stream/channelid/705108665
+
 
  
 #EXTINF:-1 tvg-id="eurosport2"group-title="Thể thao NN" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png?ssl=1",Eurosport 2
@@ -1139,13 +1146,13 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/705108665
 
  
 #EXTINF:-1 tvg-id="elevensport1"group-title="Thể thao NN" tvg-logo="https://www.donasport.com/slike/eleven-sports-1.jpg",ElevenSports 1
-http://live-sg.cvacetv.ga:8080/stream/channelid/1164104878
+
 
 #EXTINF:-1 tvg-id="elevensport2"group-title="Thể thao NN" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_2_Belgium.png",ElevenSports 2
-http://live-sg.cvacetv.ga:8080/stream/channelid/363553794
+
  
 #EXTINF:-1 tvg-id="elevensport3"group-title="Thể thao NN" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png",ElevenSports 3
-http://live-sg.cvacetv.ga:8080/stream/channelid/1916682652
+
 
 #EXTINF:1 tvg-id="espn1"group-title="Thể thao NN" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom-780x470.jpg",ESPN1
 
@@ -1154,13 +1161,13 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1916682652
 
 
 #EXTINF:1 tvg-id="matchfutbol"group-title="Thể thao NN" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
-http://live-sg.cvacetv.ga:8080/stream/channelid/107945303
+
 
 #EXTINF:1 tvg-id="matchfutbol"group-title="Thể thao NN" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch TB
 
  
 #EXTINF:-1 tvg-id="matchfutbol1"group-title="Thể thao NN" tvg-logo="https://airlink.ge/wp-content/uploads/2021/01/mqs.png",МаtchFutbol 1
-http://live-sg.cvacetv.ga:8080/stream/channelid/2058446761
+
 
  
 #EXTINF:-1 tvg-id="matchfutbol2"group-title="Thể thao NN" tvg-logo="https://s3.beelinetv.uz/buz-production/d8e6b6011b2444641a9d.png",МаtchFutbol 2
@@ -1206,23 +1213,19 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/2058446761
 
 
 #EXTINF:-1 tvg-id="spotv1"group-title="Thể thao NN" tvg-logo="https://cms.spotvasia.com/upload/boards/file_7408e006-5492-4b54-aa54-581581b2d87b.png",SPOTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://dl.dropboxusercontent.com/s/1gszv7dzttvfo2f/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
+
 
 #EXTINF:-1 tvg-id="sportv2"group-title="Thể thao NN" tvg-logo="https://cms.spotvasia.com/upload/boards/file_7408e006-5492-4b54-aa54-581581b2d87b.png",SPOTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://dl.dropboxusercontent.com/s/k3mk7rwtor6iekp/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
+
  
 #EXTINF:-1 tvg-id="polsatsport"group-title="Thể thao NN" tvg-logo="https://i.dlpng.com/static/png/6985398_preview.png",PolsatSport
 
 
 #EXTINF:-1 tvg-id="polsatsportpre"group-title="Thể thao NN" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_sport_premium_1.png",PolsatSportPremium 1
-http://live-vn.cvacetv.ga:8080/PolsatPre1
+
  
 #EXTINF:-1 tvg-id="polsatsportpre2"group-title="Thể thao NN" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_sport_premium_2.png",PolsatSportPremium 2
-http://live-vn.cvacetv.ga:8080/PolsatPre2
+
 
 #EXTINF:-1 tvg-id="rmcsportuhd"group-title="Thể thao NN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Logo_RMC_Sport_1_UHD.svg/1280px-Logo_RMC_Sport_1_UHD.svg.png",RMC SPORT 4K
 
@@ -1281,7 +1284,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?cc
 #EXTINF:-1 tvg-id="sbssport"group-title="Thể thao NN" tvg-logo="https://i.ibb.co/F3z1Nf0/sbssports-BEARTV.png",SBS Sport
 
  
-#EXTINF:-1 tvg-id="cctv5"group-title="Thể thao NN" tvg-logo="http://images.zaltv.club/logo/cctv-5.png",CCTV5 test
+#EXTINF:-1 tvg-id="cctv5"group-title="Thể thao NN" tvg-logo="http://images.zaltv.club/logo/cctv-5.png",CCTV5
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
 
@@ -1778,20 +1781,12 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 
 
 
-#EXTINF:-1 tvg-id="kcinehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE fpt
-#http://aisharelamcho.duckdns.org/aisharelamcho2/KCINE1708.aslc/mpegts
+#EXTINF:-1 tvg-id="kcinehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE
 
-#EXTINF:-1 tvg-id="klifehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE fpt
-#http://aisharelamcho.duckdns.org/aisharelamcho2/KLIFE1708.aslc/mpegts
+#EXTINF:-1 tvg-id="klifehd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE 
 
-#EXTINF:-1 tvg-id="ksport1hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1 fpt
-#http://aisharelamcho.duckdns.org/aisharelamcho2/KSP11708.aslc/mpegts
+#EXTINF:-1 tvg-id="ksport1hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1 
 
-#EXTINF:-1 tvg-id="ksport2hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT2 fpt
-#http://aisharelamcho.duckdns.org/aisharelamcho2/KSP21708.aslc/mpegts
+#EXTINF:-1 tvg-id="ksport2hd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT2
 
-#EXTINF:-1 tvg-id="kkidshd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",K+KIDS fpt
-
-
-
-
+#EXTINF:-1 tvg-id="kkidshd"group-title="🍭K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",K+KIDS

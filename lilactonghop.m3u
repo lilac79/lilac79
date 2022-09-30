@@ -31,12 +31,11 @@ https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="vtv5hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5
-#http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 #https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="vtv5hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 L2
-http://live.vthanhtivi.pw:8080/vtv5
+http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn"group-title="VTV" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên
 #https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
@@ -56,16 +55,10 @@ https://s.id/beartv-vtv5tnb
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 L2
-http://live.vthanhtivi.pw:8080/vtv6
+https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 L3
 http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-
-#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 L4
-https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
-
-#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 L5
-https://hqth.me/vtv6360
  
 #EXTINF:-1 tvg-id="vtv7hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V7_10HKiVA.png",VTV7
 #http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8

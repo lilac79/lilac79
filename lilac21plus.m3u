@@ -1,10 +1,9 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/list,http://gg.gg/epgvn03,http://cvmovh.duckdns.org:9981/xmltv/channels,http://cvmvnpt.duckdns.org:9981/xmltv/channels,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://gg.gg/epgvn1,http://gg.gg/epgvn2,http://gg.gg/epgvn5,http://gg.gg/epgvn6,http://gg.gg/epgvn7,http://gg.gg/epgvn8,http://bit.ly/guidevn" deinterlace=1
+#EXTM3U url-tvg="http://onetv.click/schedule/list"
 #List tổng hợp bởi LILAC79 Không dùng để mua bán
  
 #EXTINF:-1 tvg-id="1"group-title="List only 21+" tvg-logo="https://www.elle.vn/wp-content/uploads/2017/06/02/gal-gadot-3.png",21+, check vao VOD de xem
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
  
-
 
 #EXTINF:-1 tvg-id="1"group-title="3X TV" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841.jpg",Kaloopy
 #https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/cb866d48-f17a-4d63-b154-160d3e11a6bb/2.m3u8
@@ -58,8 +57,7 @@ http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/46329e01-6c6a-417f-88e5-b2f0600bdbe6/1.m3u8
 
 
- 
- 
+
  
 #EXTINF:-1 tvg-id="1"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Rin
 https://b-hls-09.doppiocdn.com/hls/58663247/58663247.m3u8

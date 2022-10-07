@@ -1,9 +1,10 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/list"
+#EXTM3U url-tvg="http://onetv.click/schedule/list,http://gg.gg/epgvn03,http://cvmovh.duckdns.org:9981/xmltv/channels,http://cvmvnpt.duckdns.org:9981/xmltv/channels,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://gg.gg/epgvn1,http://gg.gg/epgvn2,http://gg.gg/epgvn5,http://gg.gg/epgvn6,http://gg.gg/epgvn7,http://gg.gg/epgvn8,http://bit.ly/guidevn" deinterlace=1
 #List tổng hợp bởi LILAC79 Không dùng để mua bán
  
 #EXTINF:-1 tvg-id="1"group-title="List only 21+" tvg-logo="https://www.elle.vn/wp-content/uploads/2017/06/02/gal-gadot-3.png",21+, check vao VOD de xem
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
  
+
 
 #EXTINF:-1 tvg-id="1"group-title="3X TV" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841.jpg",Kaloopy
 #https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/cb866d48-f17a-4d63-b154-160d3e11a6bb/2.m3u8
@@ -14,9 +15,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-id="3"group-title="3X TV" tvg-logo="https://i.ibb.co/dQYVnqZ/miamitv2.jpg",Miami TV
-#https://tbientv.xyz/getlink/?url=https://miamitvhd.com/&link=1
-#http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/chunklist_w1520548616_b1896000.m3u8
-https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/chunklist_b1896000.m3u8?cc
+http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/chunklist.m3u8
+#https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/chunklist_b1896000.m3u8?cc
 
 #EXTINF:-1 tvg-id="4"group-title="3X TV" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png",MiamiTVlatino
 https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/chunklist_w38958572_b1896000.m3u8
@@ -45,19 +45,17 @@ http://live.redtraffic.xyz/threesome.m3u8
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 
 #EXTINF:-1 tvg-id="12"group-title="3X TV" tvg-logo="https://archive.org/download/naked.news.tv.ep.28/naked.news.tv.ep.28.thumbs/nnte28-omicron_000057.jpg",Naked News 1
-#EXTVLCOPT:network-caching=1000
-#http://vn360sport.duckdns.org/vn360sport/Mac/LaoHac/iproblock.php?id=233601
+
 
 #EXTINF:-1 tvg-id="13"group-title="3X TV" tvg-logo="https://archive.org/download/naked.news.tv.ep.28/naked.news.tv.ep.28.thumbs/nnte28-omicron_000057.jpg",Naked News 2
-#EXTVLCOPT:network-caching=1000
-#http://vn360sport.duckdns.org/vn360sport/Mac/LaoHac/iproblock.php?id=233602
+
 
 #EXTINF:-1 tvg-id="14"group-title="3X TV" tvg-logo="https://i.pinimg.com/474x/17/31/71/1731719be008d173a6ac95b8ebdd7cf6.jpg",ART
-#EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/46329e01-6c6a-417f-88e5-b2f0600bdbe6/1.m3u8
 
 
-
+ 
+ 
  
 #EXTINF:-1 tvg-id="1"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Rin
 https://b-hls-09.doppiocdn.com/hls/58663247/58663247.m3u8
@@ -184,3 +182,15 @@ https://b-hls-24.doppiocdn.com/hls/89443470/89443470.m3u8
 
 #EXTINF:-1 tvg-id="42"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Sweerheart
 https://b-hls-07.doppiocdn.com/hls/90824862/90824862.m3u8
+
+#EXTINF:-1 tvg-id="44"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Funny
+https://b-hls-07.doppiocdn.com/hls/75411559/master/75411559.m3u8
+
+#EXTINF:-1 tvg-id="45"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Miumiu
+https://b-hls-24.doppiocdn.com/hls/91400728/91400728.m3u8
+
+#EXTINF:-1 tvg-id="46"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",GirlLike
+https://b-hls-17.doppiocdn.com/hls/91975600/91975600.m3u8
+
+#EXTINF:-1 tvg-id="47"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Eatmy
+https://b-hls-03.doppiocdn.com/hls/74226269/74226269.m3u8

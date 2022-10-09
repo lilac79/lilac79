@@ -227,3 +227,6 @@ https://b-hls-24.doppiocdn.com/hls/77354502/77354502.m3u8
 
 #EXTINF:-1 tvg-id="58"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Lixueer
 https://b-hls-03.doppiocdn.com/hls/78601849/78601849.m3u8
+
+#EXTINF:-1 tvg-id="59"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",DannaKai
+https://b-hls-23.doppiocdn.com/hls/91254693/91254693_720p.m3u8

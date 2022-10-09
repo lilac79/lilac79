@@ -71,15 +71,15 @@ https://s.id/beartv-vtv5tnb
  
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 Ngàycuốicùng
 #EXTVLCOPT:http-user-agent="LILAC"
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 L2
 #EXTVLCOPT:http-user-agent="LILAC"
 #http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 L3
+#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 Ngàycuốicùng
 #EXTVLCOPT:http-user-agent="LILAC"
-#https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
+https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 L4 50fps
 #EXTVLCOPT:http-user-agent="LILAC"

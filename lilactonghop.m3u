@@ -1621,7 +1621,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="thekpop"group-title="Âm nhạc-Thời trang" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",The KPOP Test
 #https://www.youtube.com/embed/F4aby5WN1Rw
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665234611/ei/UyJBY6qnKYLo4AL2up7AAw/ip/123.21.231.243/id/F4aby5WN1Rw.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALfkLpe-QTEzeP4cbo15QuHOsSMv--jyLwNvSDZ0H2RnAiEA32DkcmmYLmduEDiGdnKs52zGeMWM7FIMW4bKlHfEtsM%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665309460/ei/tEZCY_CzIIny4wLutLy4AQ/ip/123.21.231.243/id/F4aby5WN1Rw.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfs-5vX5MuIOtrghJYgK1ehJWPjwv-D4iAwHzbFDWBlECIB9LjPbHwTpUE1bGYRntOjKa1faaN8lyQDvI8YIs3T4N/file/index.m3u8
 
 #EXTINF:-1 tvg-id="arirangkpop"group-title="Âm nhạc-Thời trang" tvg-logo="https://pbs.twimg.com/profile_images/419151169009639426/p-nE7di6_400x400.jpeg",ARIRANG KPOP
 

@@ -124,7 +124,7 @@ https://b-hls-07.doppiocdn.com/hls/65577438/65577438.m3u8
 https://b-hls-20.doppiocdn.com/hls/57218076/57218076.m3u8
 
 #EXTINF:-1 tvg-id="23"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Jasmine
-https://b-hls-10.doppiocdn.com/hls/75200932/75200932.m3u8
+https://b-hls-18.doppiocdn.com/hls/75200932/75200932.m3u8
 
 #EXTINF:-1 tvg-id="24"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Yamie
 https://b-hls-02.doppiocdn.com/hls/78499350/78499350.m3u8
@@ -210,8 +210,20 @@ https://b-hls-09.doppiocdn.com/hls/68474824/68474824.m3u8
 #EXTINF:-1 tvg-id="52"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Destiny
 https://b-hls-21.doppiocdn.com/hls/90948854/90948854.m3u8
 
-#EXTINF:-1 tvg-id="52"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Daisy
+#EXTINF:-1 tvg-id="53"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Daisy
 https://b-hls-23.doppiocdn.com/hls/36366903/36366903.m3u8
 
-#EXTINF:-1 tvg-id="52"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Rankking
+#EXTINF:-1 tvg-id="54"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Rankking
 https://b-hls-11.doppiocdn.com/hls/89229755/89229755.m3u8
+
+#EXTINF:-1 tvg-id="55"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Azura
+https://b-hls-02.doppiocdn.com/hls/92221596/92221596.m3u8
+
+#EXTINF:-1 tvg-id="56"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Fairy
+https://b-hls-07.doppiocdn.com/hls/86063654/86063654.m3u8
+
+#EXTINF:-1 tvg-id="57"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Bettyl
+https://b-hls-24.doppiocdn.com/hls/77354502/77354502.m3u8
+
+#EXTINF:-1 tvg-id="58"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Lixueer
+https://b-hls-03.doppiocdn.com/hls/78601849/78601849.m3u8

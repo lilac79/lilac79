@@ -212,3 +212,6 @@ https://b-hls-21.doppiocdn.com/hls/90948854/90948854.m3u8
 
 #EXTINF:-1 tvg-id="52"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Daisy
 https://b-hls-23.doppiocdn.com/hls/36366903/36366903.m3u8
+
+#EXTINF:-1 tvg-id="52"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Rankking
+https://b-hls-11.doppiocdn.com/hls/89229755/89229755.m3u8

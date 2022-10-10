@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,http://gg.gg/epgchina,http://gg.gg/epg-japan,http://gg.gg/epg-korea1,http://gg.gg/epgvn7" tvg-shift=0 m3uautoload=1
 #List bởi LILAC79 không dùng để mua bán
  
-#EXTINF:-1 tvg-id="1"group-title="Thông báo" tvg-logo="https://www.elle.vn/wp-content/uploads/2017/06/02/gal-gadot-3.png",UPDATE29092022
+#EXTINF:-1 tvg-id="1"group-title="Thông báo" tvg-logo="https://www.elle.vn/wp-content/uploads/2017/06/02/gal-gadot-3.png",UPDATE10102022
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
  
 #EXTINF:-1 tvg-id="2"group-title="Thông báo" tvg-logo="https://media.doanhnghiepvn.vn/Images/Uploaded/Share/2020/12/18/Phong-cach-quy-co-cua-Gal-Gadot-trong-Wonder-Woman-1984_4.jpg",update lại list khi xem
@@ -69,25 +69,23 @@ https://dl.dropboxusercontent.com/s/e72ncx52hal0pqa/%09%09%09%09%09%09%09%09%09%
 #EXTVLCOPT:http-user-agent="LILAC"
 https://s.id/beartv-vtv5tnb
  
-#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 Ngàycuốicùng
+#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6
 #EXTVLCOPT:http-user-agent="LILAC"
 #https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
- 
-#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 L2
-#EXTVLCOPT:http-user-agent="LILAC"
-#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 Ngàycuốicùng
+#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent="LILAC"
 https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 L4 50fps
+#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV Cần Thơ L2
 #EXTVLCOPT:http-user-agent="LILAC"
+http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 
-
-#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 L5 50fps
+#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV Cần Thơ L3
 #EXTVLCOPT:http-user-agent="LILAC"
-
+#https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="vtv7hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V7_10HKiVA.png",VTV7
 #EXTVLCOPT:http-user-agent="LILAC"
@@ -1627,7 +1625,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="thekpop"group-title="Âm nhạc-Thời trang" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",The KPOP Test
 #https://www.youtube.com/embed/F4aby5WN1Rw
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665312492/ei/jFJCY-KOLq-mvcAPvJ-82Ak/ip/123.21.231.243/id/F4aby5WN1Rw.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOSMf2ZON2Sa_YkvqDHHGzwk4YFUok4IFBilGMd2lsLcCIEfBHjzL90-0OUl3NKR_tco6iv42vIrd-K54u2lVhgea/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665411066/ei/mtNDY9atDdmdvcAPiOK20AE/ip/123.21.231.243/id/F4aby5WN1Rw.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOiHyOsYr7M3eFGCsajLcsQgL4GwxoqI5rMFA8O4RLyzAiAu2oOnGdQE1r5W8L9Ml4DQNiILhVpmMbIQ-sECZ3IAHg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="arirangkpop"group-title="Âm nhạc-Thời trang" tvg-logo="https://pbs.twimg.com/profile_images/419151169009639426/p-nE7di6_400x400.jpeg",ARIRANG KPOP
 

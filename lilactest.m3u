@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/list,http://gg.gg/epgvn03,http://cvmovh.duckdns.org:9981/xmltv/channels,http://cvmvnpt.duckdns.org:9981/xmltv/channels,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://gg.gg/epgvn1,http://gg.gg/epgvn2,http://gg.gg/epgvn5,http://gg.gg/epgvn6,http://gg.gg/epgvn7,http://gg.gg/epgvn8,http://bit.ly/guidevn" deinterlace=1
+#EXTM3U url-tvg="http://gg.gg/epgvn1,http://gg.gg/epgvn2,http://gg.gg/epgvn5,http://gg.gg/epgvn6,http://gg.gg/epgvn7,http://gg.gg/epgvn8,http://bit.ly/guidevn" deinterlace=1
 #List tổng hợp bởi LILAC79 Không dùng để mua bán
  
 #EXTINF:0 tvg-id="1"group-title="Thông báo" tvg-logo="https://www.elle.vn/wp-content/uploads/2017/06/02/gal-gadot-3.png",UPDATE23062022

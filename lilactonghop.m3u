@@ -743,6 +743,9 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd"group-title="Phim VN" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/879824-ThuanVietHD1.png",HTVC ThuầnViệt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvcplushd"group-title="Phim VN" tvg-logo="https://cliptv.vn/themes/cliptv/img/list_channel/Chuyen_kenh/HTVC%20Plus%20HD.png",HTVC Plus
+https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="hanoicab6"group-title="Phim VN" tvg-logo="",Phim Dở
  

@@ -798,7 +798,7 @@ http://123host.television4you.xyz/cliptv.php?id=838
 
 #EXTINF:-1 tvg-id="boxhits"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4_480_270.png",BoxHits
 #https://dl.dropboxusercontent.com/s/6d5e82zxqiy2x7q/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
-http://20.194.5.67:1708/live/boxhits
+http://live.vthanhtivi.pw:8080/boxhits
 
 #EXTINF:-1 tvg-id="boxhits"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4_480_270.png",BoxHits L2
 
@@ -859,10 +859,10 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #https://on-load.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 tvg-id="zeecinema"group-title="Phim NN" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",Zee Cinema
-http://103.162.136.235:4500/play/a00h/index.m3u8
+#http://103.162.136.235:4500/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="starworld"group-title="Phim NN" tvg-logo="https://tvonline.vn/wp-content/uploads/2018/07/large_starworld.jpg",Star World
-http://103.162.136.235:4500/play/a019/index.m3u8
+#http://103.162.136.235:4500/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="canlhollywood"group-title="Phim NN" tvg-logo="https://www.pngitem.com/pimgs/m/146-1466073_hollywood-hd-canal-hollywood-hd-png-download.png",Canal Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8

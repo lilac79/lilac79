@@ -77,7 +77,8 @@ https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
 https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv5hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 L5
-http://171.238.181.52:18080/194.m3u8
+#http://171.238.181.52:18080/194.m3u8
+http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn"group-title="VTV" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên
 #https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
@@ -108,7 +109,8 @@ https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
 https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtvcanthohd/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV Cần Thơ L5
-http://171.238.181.52:18080/156.m3u8
+#http://171.238.181.52:18080/156.m3u8
+http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
  
 #EXTINF:-1 tvg-id="vtv7hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V7_10HKiVA.png",VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37

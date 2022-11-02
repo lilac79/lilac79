@@ -470,9 +470,6 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b2796000.m3u8
 #https://live.presstv.ir/liveprs/smil:liveprs/chunklist_w1486892672_b944100_slen.m3u8
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist.m3u8
  
-#EXTINF:-1 tvg-id="oylaotv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.malimarcdn.com/OYLaoHDF.jpg",Oy Lao TV
-https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
- 
 #EXTINF:-1 tvg-id="tvkcambodia"group-title="Tin tức-tổng hợp NN" tvg-logo="https://admin.worldlivetv.stream/upload/files/thumbnail/tvk.jpg",TVK Cambodia
 https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
 
@@ -491,7 +488,7 @@ https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Amarin34HD.th"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.amarintv.com/assets/images/logo.png",Amarin 34 Thailand
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/chunklist_w388054239_b4692000_slThai.m3u8
+#http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/chunklist_w388054239_b4692000_slThai.m3u8
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th"group-title="Tin tức-tổng hợp NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png",CH5 Thailand
 #https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
@@ -868,7 +865,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",InTheBox
-http://code.television4you.xyz/cliptv.php?id=838
+#EXTVLCOPT:http-user-agent=VAgroup
+http://vagroup.pw/cliptv.php?id=838
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",InTheBox L2
 
@@ -1281,15 +1279,15 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8959
  
 #EXTINF:-1 tvg-id="matchfutbol1"group-title="Thể thao NN" tvg-logo="https://airlink.ge/wp-content/uploads/2021/01/mqs.png",МаtchFutbol 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://193.33.88.172/football1_hd/mpegts
+#http://193.33.88.172/football1_hd/mpegts
  
 #EXTINF:-1 tvg-id="matchfutbol2"group-title="Thể thao NN" tvg-logo="https://s3.beelinetv.uz/buz-production/d8e6b6011b2444641a9d.png",МаtchFutbol 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://193.33.88.172/football2_hd/mpegts
+#http://193.33.88.172/football2_hd/mpegts
 
 #EXTINF:-1 tvg-id="matchfutbol2"group-title="Thể thao NN" tvg-logo="https://www.red-media.ru/wp-content/uploads/2016/01/MATCH-Futbol-3.jpg",MatchFutbol 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://193.33.88.172/football3_hd/mpegts
+#http://193.33.88.172/football3_hd/mpegts
  
 #EXTINF:-1 tvg-id="skysport1"group-title="Thể thao NN" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Sky_Sport_1_HD_PRIMARY_RGB.PNG",SkySport 1
 
@@ -1827,6 +1825,9 @@ http://mytv.dothome.co.kr/ch/catv/224.php
  
 #EXTINF:-1 tvg-id="sbsmtv"group-title="Âm nhạc-Thời trang" tvg-logo="https://i.ibb.co/qy5hVQ2/SBS-MTV-BEARTV.png",SBS MTV
 #http://han.ddkdxmkj.com/api/sbs.php?id=9
+
+#EXTINF:-1 tvg-id="oylaotv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.malimarcdn.com/OYLaoHDF.jpg",Oy Lao TV
+https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
  
 #EXTINF:-1 tvg-id="musicbox"group-title="Âm nhạc-Thời trang" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/MusicBox_480x2701j1.jpg",Music Box
 #EXTVLCOPT:http-referer=http://sctvonline.vn

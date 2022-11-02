@@ -90,6 +90,39 @@ https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ fptplay
 https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="bbcone"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://ichef.bbci.co.uk/images/ic/480x270/p0bvs64x.jpg",BBC ONE
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/843
+
+#EXTINF:-1 tvg-id="bbctwo"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://ichef.bbci.co.uk/images/ic/400x225_b/p09z6qxc.jpg",BBC TWO
+#http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/844
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/851
+
+#EXTINF:-1 tvg-id="tvp"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://s.tvp.pl/files/portale-v4/polityka-prywatnosci/gfx/tvp-logo.png",TVP
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/15099
+
+#EXTINF:-1 tvg-id="tvp1"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.wikia.nocookie.net/ttte/images/0/03/TVP1_logo.png/revision/latest?cb=20210509035742",TVP 1
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/15101
+
+#EXTINF:-1 tvg-id="tvp2"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/1200px-TVP2_2021_box-1.svg.png",TVP 2
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/15102
+
+#EXTINF:-1 tvg-id="rai1"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png",RAI 1
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14562
+
+#EXTINF:-1 tvg-id="rai2"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png",RAI 2
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14563
+
+#EXTINF:-1 tvg-id="rai3"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png",RAI 3
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14564
+
+#EXTINF:-1 tvg-id="trt1"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png",TRT 1
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/2
+
+#EXTINF:-1 tvg-id="trt2"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://www.trt2.com.tr/images/share-1000x500.jpg",TRT 2
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13
+
+
+
 
 
 

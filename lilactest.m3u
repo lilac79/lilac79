@@ -117,7 +117,24 @@ http://171.238.181.52:18080/156.m3u8
 #EXTINF:-1 tvg-id="hgtv"group-title="TV360" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/HGTV_M.jpg",HGTV 
 
 
-#EXTINF:-1 tvg-id="hits"group-title="TV360" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/HITS_M.jpg",HITS 
+#EXTINF:-1 tvg-id="THVL4"group-title="TV360" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/HITS_M.jpg",THVL4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+#EXTVLCOPT:http-referer=http://tv360.vn/
+http://27.67.80.80:18080//251_2.m3u8?AdaptiveType=HLS&SessionID=81fbb869-db37-42b4-ae38-4a65052f2f10&MinBw=0&MaxBw=20000000|Referer=http://tv360.vn/
+
+
+#EXTINF:-1 tvg-id="THVL4"group-title="TV360" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/HITS_M.jpg",THVL4 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+#EXTVLCOPT:http-referer=http://tv360.vn/
+http://27.67.80.80:18080/251.m3u8?AdaptiveType=HLS&SessionID=81fbb869-db37-42b4-ae38-4a65052f2f10&MinBw=0&MaxBw=20000000|Referer=http://tv360.vn/
+
+
+#EXTINF:-1 tvg-id="THVL4"group-title="TV360" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/HITS_M.jpg",THVL4 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26
+#EXTVLCOPT:http-referer=http://tv360.vn/
+http://27.67.80.80:18080/251.m3u8|Referer=http://tv360.vn/
+
+
 
 
 

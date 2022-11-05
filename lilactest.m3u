@@ -267,17 +267,39 @@ https://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:intheboxhd/chunklist.m3u8
 https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtc1hd/chunklist.m3u8|Referer=https://cliptv.vn/
 
 #EXTINF:-1 tvg-id="vtc7hd"group-title="TEST DRM" tvg-logo="https://nds-static.vtc.gov.vn/category/cb4735b6-c8f0-4a4b-b652-48052c3c3f2f/web/VTC7.png",VTC7 CLIPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
+#EXTVLCOPT:http-referer=https://cliptv.vn
 https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtc7hd/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="vtc8"group-title="TEST DRM" tvg-logo="https://nds-static.vtc.gov.vn/category/a05801d0-15c0-410c-878c-61df7455a0db/web/VTC8.png",VTC8 CLIPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
+#EXTVLCOPT:http-referer=https://cliptv.vn
 https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtc8sd/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="vtc8"group-title="TEST DRM" tvg-logo="https://nds-static.vtc.gov.vn/category/a05801d0-15c0-410c-878c-61df7455a0db/web/VTC8.png",VTC8 CLIPTV L2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
+#EXTVLCOPT:http-referer=https://cliptv.vn
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtc8hd/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="vtc9hd"group-title="TEST DRM" tvg-logo="https://nds-static.vtc.gov.vn/category/077d0aaa-1515-42e0-89f0-9ee3f272486e/web/VTC9.png",VTC9 CLIPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
+#EXTVLCOPT:http-referer=https://cliptv.vn
 https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtc9hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtc14hd"group-title="TEST DRM" tvg-logo="https://nds-static.vtc.gov.vn/category/358253cb-196c-4148-a402-acd516ff134a/web/VTC14.png",VTC14 CLIPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
+#EXTVLCOPT:http-referer=https://cliptv.vn
 https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtc14hd/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="vovtvhd"group-title="Tin tức-tổng hợp" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/800x4502.jpg",VOVTV CLIPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
+#EXTVLCOPT:http-referer=https://cliptv.vn
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vovtvhd/chunklist.m3u8|Referer=https://cliptv.vn/
+
+#EXTINF:-1 tvg-id="vovtvhd"group-title="Tin tức-tổng hợp" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/800x4502.jpg",VOVTV CLIPTV L2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
+#EXTVLCOPT:http-referer=https://cliptv.vn
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vovhd/chunklist.m3u8|Referer=https://cliptv.vn/
 
 
 #EXTINF:-1 tvg-id="vtv1hd"group-title="TEST DRM" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V1_Eb8vhXa.png",VTV1 MYTV

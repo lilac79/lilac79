@@ -497,6 +497,9 @@ https://vips-livecdn.fptplay.net/hda3/australiaplus_4000.stream/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="abcaustralianews"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.abc.net.au/news/linkableblob/8413676/data/abc-news-og-data.jpg",ABCNews Australia 
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-id="10"group-title="Tin tức-tổng hợp NN" tvg-logo="https://10play.com.au/images/10_Live_Fallback.jpg",10 Australia
+http://58.96.43.228:9981/playlist
  
 #EXTINF:-1 tvg-id="AlJazeera.MACAN"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/SdplJlw.png",AlJazeera News UAE
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -1255,13 +1258,13 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 
 #EXTINF:-1 tvg-id="canalplussport"group-title="Thể thao NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+Sport
-http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8921
+#http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8921
 
 #EXTINF:-1 tvg-id="canalsport1"group-title="Thể thao NN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_177.PNG",Canal+ Sport 1
 
 
 #EXTINF:-1 tvg-id="canalsport2"group-title="Thể thao NN" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fcanal_sport2.jpg",Canal+ Sport 2
-http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8973
+#http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8973
 
 #EXTINF:-1 tvg-id="digisport1"group-title="Thể thao NN" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi1hdhu.jpg",Digi Sport 1
 
@@ -1369,7 +1372,7 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8959
 
 
 #EXTINF:-1 tvg-id="spotv1"group-title="Thể thao NN" tvg-logo="https://cms.spotvasia.com/upload/boards/file_7408e006-5492-4b54-aa54-581581b2d87b.png",SPOTV1
-https://dl.dropboxusercontent.com/s/qhowlvtvrmp40r3/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
+#https://dl.dropboxusercontent.com/s/qhowlvtvrmp40r3/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
 
 #EXTINF:-1 tvg-id="sportv2"group-title="Thể thao NN" tvg-logo="https://cms.spotvasia.com/upload/boards/file_7408e006-5492-4b54-aa54-581581b2d87b.png",SPOTV2
 
@@ -1833,6 +1836,15 @@ https://vips-livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-id="youtv"group-title="Âm nhạc-Thời trang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_youtv_165649360688.png",Hncab2 YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="vevopop"group-title="Âm nhạc-Thời trang" tvg-logo="https://image.xumo.com/v1/channels/channel/99991391/600x337.jpg?type=channelTile",VEVO Pop
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=b72b3d44-8d24-4833-8786-6ea77b1f7935&rendition=1080&session_id=00445cfb-bf4d-7983-d2bb-dabab3c362d5&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
+ 
+#EXTINF:-1 tvg-id="vevohiphop"group-title="Âm nhạc-Thời trang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-YT48Y7HQyi_Kn66juvfihX40yy1D1OJdl9ELThBfLwMEJ8X1dY3KeW61cStMBHifXY&usqp=CAU",VevoHip Hop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+ 
+#EXTINF:-1 tvg-id="vevolatino"group-title="Âm nhạc-Thời trang" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vevolatino.png",VevoLatino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+
 #EXTINF:-1 tvg-id="musicplus"group-title="Âm nhạc-Thời trang" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/musicplus-vipotv.png",MusicPlus
 https://s02.diazol.hu:10192/stream.m3u8
  
@@ -1866,7 +1878,7 @@ http://mytv.dothome.co.kr/ch/catv/224.php
 #EXTINF:-1 tvg-id="sbsmtv"group-title="Âm nhạc-Thời trang" tvg-logo="https://i.ibb.co/qy5hVQ2/SBS-MTV-BEARTV.png",SBS MTV
 #http://han.ddkdxmkj.com/api/sbs.php?id=9
 
-#EXTINF:-1 tvg-id="oylaotv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.malimarcdn.com/OYLaoHDF.jpg",Oy Lao TV
+#EXTINF:-1 tvg-id="oylaotv"group-title="Âm nhạc-Thời trang" tvg-logo="https://i.malimarcdn.com/OYLaoHDF.jpg",Oy Lao TV
 https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
  
 #EXTINF:-1 tvg-id="musicbox"group-title="Âm nhạc-Thời trang" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/MusicBox_480x2701j1.jpg",Music Box
@@ -1878,15 +1890,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http:/
  
 #EXTINF:-1 tvg-id="vivamussicrussia"group-title="Âm nhạc-Thời trang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/VIVA_TV_RUSSIA_LOGO.png/640px-VIVA_TV_RUSSIA_LOGO.png",VIVA Russia
 #https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
- 
-#EXTINF:-1 tvg-id="vevopop"group-title="Âm nhạc-Thời trang" tvg-logo="https://image.xumo.com/v1/channels/channel/99991391/600x337.jpg?type=channelTile",VEVO Pop
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=b72b3d44-8d24-4833-8786-6ea77b1f7935&rendition=1080&session_id=00445cfb-bf4d-7983-d2bb-dabab3c362d5&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
- 
-#EXTINF:-1 tvg-id="vevohiphop"group-title="Âm nhạc-Thời trang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-YT48Y7HQyi_Kn66juvfihX40yy1D1OJdl9ELThBfLwMEJ8X1dY3KeW61cStMBHifXY&usqp=CAU",VevoHip Hop
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
- 
-#EXTINF:-1 tvg-id="vevolatino"group-title="Âm nhạc-Thời trang" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vevolatino.png",VevoLatino
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
 #EXTINF:-1 tvg-id="spirittv"group-title="Âm nhạc-Thời trang" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/de/17/e0de179c-568d-e300-5d76-8adb8d575bf6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",Spirit tv
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8

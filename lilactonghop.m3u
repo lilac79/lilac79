@@ -120,7 +120,7 @@ http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14562
 
 #EXTINF:-1 tvg-id="rai2"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png",RAI 2
 http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14563
-#http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53055?checkedby:iptvcat.com
+#http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53055  
 
 #EXTINF:-1 tvg-id="rai3"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png",RAI 3
 http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14564
@@ -577,7 +577,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="sharjahtv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/FAp0RtO.png",Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:iptvcat.com
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8  
  
 #EXTINF:-1 tvg-id="opt1"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/r8qjcs4.png",ORT1 Russia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1046,7 +1046,7 @@ http://ott-cdn.ucom.am/s64/04.m3u8
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="dubaione"group-title="Phim NN" tvg-logo="https://www.digitalstudiome.com/cloud/2021/08/13/HBEe2P5a-Dubai-One-Logo-1.jpg",DUBAI ONE
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8  
 
 #EXTINF:-1 tvg-id="novaplay"group-title="Phim NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nova_Play_logo.svg/1000px-Nova_Play_logo.svg.png",NovaPlay Brazil
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1592383770.m3u8
@@ -1295,20 +1295,20 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 tvg-id="dubaisport1bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGO2QaPzttNGp18NAtOOM4weZzbfbxAJksUA&usqp=CAU",Dubai Sports 1
 #https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
+#http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8  
  
 #EXTINF:-1 tvg-id="dubaisport2bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGO2QaPzttNGp18NAtOOM4weZzbfbxAJksUA&usqp=CAU",Dubai Sports 2
 #https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
+#http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8  
  
 #EXTINF:-1 tvg-id="dubaisport3bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGO2QaPzttNGp18NAtOOM4weZzbfbxAJksUA&usqp=CAU",Dubai Sports 3
 #https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
+#http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8  
 
 #EXTINF:-1 tvg-id="dubairacing"group-title="Thể thao NN" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/05/DubaiRacing-1.png",DUBAI RACING
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8?checkedby:iptvcat.com
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8  
 
 #EXTINF:-1 tvg-id="eurosport1"group-title="Thể thao NN" tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/eurosport-1.png",Eurosport 1
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8915

@@ -499,7 +499,11 @@ https://vips-livecdn.fptplay.net/hda3/australiaplus_4000.stream/chunklist.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 tvg-id="10"group-title="Tin tức-tổng hợp NN" tvg-logo="https://10play.com.au/images/10_Live_Fallback.jpg",10 Australia
-http://58.96.43.228:9981/playlist
+http://58.96.43.228:9981/stream/channelid/421672416?ticket=6A2427178BB78F1EA85736F90BA933E4E9E77203&profile=pass
+
+#EXTINF:-1 tvg-id="10bold"group-title="Tin tức-tổng hợp NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1200px-10_Bold_2018.svg.png",10Bold Australia
+
+http://58.96.43.228:9981/stream/channelid/590433938?ticket=E1802B88F7247C90D95C2B3A6E98D613D5090503&profile=pass
  
 #EXTINF:-1 tvg-id="AlJazeera.MACAN"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/SdplJlw.png",AlJazeera News UAE
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8

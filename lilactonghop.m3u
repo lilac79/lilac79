@@ -1049,7 +1049,10 @@ https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8  
 
 #EXTINF:-1 tvg-id="mycinema"group-title="Phim NN" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png",My Cinema
-http://210.210.155.37/uq2663/h/h192/index.m3u8
+#http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-id="moviebox"group-title="Phim NN" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_box_mn.png",Movie box
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 
 #EXTINF:-1 tvg-id="novaplay"group-title="Phim NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nova_Play_logo.svg/1000px-Nova_Play_logo.svg.png",NovaPlay Brazil
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1592383770.m3u8

@@ -91,17 +91,17 @@ https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="bbcone"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://ichef.bbci.co.uk/images/ic/480x270/p0bvs64x.jpg",BBC ONE
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/843
+#http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/843
 
 #EXTINF:-1 tvg-id="bbctwo"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://ichef.bbci.co.uk/images/ic/400x225_b/p09z6qxc.jpg",BBC TWO
 #http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/844
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/851
+#http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/851
 
 #EXTINF:-1 tvg-id="itv1"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://cleanfeed.thetvroom.com/media/2022/10/itv-1-logo-001-01-1.png",iTV 1
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/845
+#http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/845
 
 #EXTINF:-1 tvg-id="itv2"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/10/itv2-logo.jpg",iTV 2
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/846
+#http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/846
 
 #EXTINF:-1 tvg-id="itv3"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png",iTV 3
 #http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/847

@@ -18,6 +18,11 @@ https://livevlive.vtvcab.vn/ondrm/HAY_TV/manifest.mpd
 https://livevlive.vtvcab.vn/ondrm/ONSPORTNEWSTA/manifest.mpd
 
 
+#EXTINF:-1 group-title="test",onsport+ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42
+#EXTVLCOPT:http-referer=https://www.vtvcab.vn/
+https://live-on-sdrm-v2-akm.akamaized.net/manifest/vtvcab6/playlist_720p.m3u8|Referer=https://www.vtvcab.vn/
+
 
 #EXTINF:-1 tvg-id="htv2hd"group-title="TEST DRM" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/171512-HTV2HD.png",HTV2Vie HTVONLINE
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8

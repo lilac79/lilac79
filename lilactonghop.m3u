@@ -109,6 +109,9 @@ http://51.79.82.208:16058
 #EXTINF:-1 tvg-id="astrosupersport"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://ia902204.us.archive.org/24/items/astro-super-sport/Astro_SuperSport.png",Astro Supersport 2
 #http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121199&extension=ts&play_token=SqVsO3O6I2
 
+#EXTINF:-1 tvg-id="tvpsport"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/TVP_Sport.png",TVP Sport
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/15461
+
 #EXTINF:-1 tvg-id="bbcone"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://ichef.bbci.co.uk/images/ic/480x270/p0bvs64x.jpg",BBC ONE
 http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/843
 #http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/850
@@ -1340,18 +1343,18 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:-1 tvg-id="dubaisport1bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGO2QaPzttNGp18NAtOOM4weZzbfbxAJksUA&usqp=CAU",Dubai Sports 1
 #https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8  
+#http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8  
  
 #EXTINF:-1 tvg-id="dubaisport2bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGO2QaPzttNGp18NAtOOM4weZzbfbxAJksUA&usqp=CAU",Dubai Sports 2
 #https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8  
+#http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8  
  
 #EXTINF:-1 tvg-id="dubaisport3bein"group-title="Thể thao NN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGO2QaPzttNGp18NAtOOM4weZzbfbxAJksUA&usqp=CAU",Dubai Sports 3
 #https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8  
+#http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="dubairacing"group-title="Thể thao NN" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/05/DubaiRacing-1.png",DUBAI RACING
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8  

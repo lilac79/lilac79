@@ -49,6 +49,11 @@ https://113.171.12.161:443.m3u8|Referer=https://www.vtvcab.vn/
 #EXTINF:-1 group-title="test",skynews test
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
+#EXTINF:-1 group-title="test",skynews test 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.youtube.com/
+https://www.youtube.com/watch?v=9Auq9mYxFEE|Referer=https://www.youtube.com/
+
 
 
 

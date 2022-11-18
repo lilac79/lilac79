@@ -1079,7 +1079,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
  
 #EXTINF:-1 tvg-id="One31.th"group-title="Phim NN" logo="http://udoofree.com/cover/396384be-35dc-4d11-bf04-06c9546ec7bc.jpg",ONE 31
 #http://live2.dootvde.com/live/50022_one_hd.stream.smil/chunklist_slThai.m3u8
-https://freelive.inwstream.com:1936/freelive-edge/onehd/chunks.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
 #https://www.livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="GMM25.th"group-title="Phim NN" logo="https://www.gmm25.com/asset/img/tv-banner.png",GMM25

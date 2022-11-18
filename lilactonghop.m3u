@@ -36,7 +36,7 @@ https://8ypuv74wu.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
 http://171.238.181.52:18080/192.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 mytv
-http://live2.vthanhtivi.pw:8080/stream/channelid/981367656?profile=pass
+#http://live2.vthanhtivi.pw:8080/stream/channelid/981367656?profile=pass
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 fptplay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -94,7 +94,7 @@ https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
 http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 mytv
-http://live2.vthanhtivi.pw:8080/stream/channelid/1613570790?profile=pass
+#http://live2.vthanhtivi.pw:8080/stream/channelid/1613570790?profile=pass
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 fptplay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37

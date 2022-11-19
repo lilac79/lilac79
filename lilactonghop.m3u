@@ -13,13 +13,16 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 DVBT2
-#http://laohac360.duckdns.org:9981/stream/channelnumber/202?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
+
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 IPTVfpt
-http://live.vthanhtivi.pw:8080/vtv2
+#http://live.vthanhtivi.pw:8080/vtv2
+
+#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 mytv
+http://live2.vthanhtivi.pw:8080/stream/channelid/981367656?profile=pass
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 low delay
-http://vn1.cvacetv.ga:8080/vtv2
+http://vn1.cvacetv.ga/vtv2
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 cliptv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
@@ -35,21 +38,18 @@ https://8ypuv74wu.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 tv360
 http://171.238.181.52:18080/192.m3u8
 
-#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 mytv
-#http://live2.vthanhtivi.pw:8080/stream/channelid/981367656?profile=pass
-
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 fptplay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 DVBT2
-#http://laohac360.duckdns.org:9981/stream/channelnumber/203?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
+http://live2.vthanhtivi.pw:8080/stream/channelid/1949009839?profile=pass
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 IPTVfpt
-http://live.vthanhtivi.pw:8080/vtv3
+#http://live.vthanhtivi.pw:8080/vtv3
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 low delay
-http://vn1.cvacetv.ga:8080/vtv3
+http://vn1.cvacetv.ga/vtv3
  
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 cliptv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
@@ -70,13 +70,16 @@ http://171.238.181.52:18080/155.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 DVBT2
-#http://laohac360.duckdns.org:9981/stream/channelnumber/205?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
+
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 IPTVfpt
-http://live.vthanhtivi.pw:8080/vtv5
+#http://live.vthanhtivi.pw:8080/vtv5
+
+#EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 mytv
+http://live2.vthanhtivi.pw:8080/stream/channelid/1613570790?profile=pass
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 low delay
-http://vn1.cvacetv.ga:8080/vtv5 
+http://vn1.cvacetv.ga/vtv5
  
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 cliptv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
@@ -93,18 +96,18 @@ https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
 #http://171.238.181.52:18080/194.m3u8
 http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 mytv
-#http://live2.vthanhtivi.pw:8080/stream/channelid/1613570790?profile=pass
-
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 fptplay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ DVBT2
-#http://laohac360.duckdns.org:9981/stream/channelnumber/206?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
+
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ IPTVfpt
-http://live.vthanhtivi.pw:8080/vtvct
+#http://live.vthanhtivi.pw:8080/vtvct
+
+#EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ mytv
+http://live2.vthanhtivi.pw:8080/stream/channelid/1479230732?profile=pass
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ cliptv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
@@ -134,7 +137,7 @@ http://51.79.82.208:16058
 #http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121199&extension=ts&play_token=SqVsO3O6I2
 
 #EXTINF:-1 tvg-id="tvpsport"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/TVP_Sport.png",TVP Sport
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/15461
+#http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/15461
 
 #EXTINF:-1 tvg-id="bbcone"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://ichef.bbci.co.uk/images/ic/480x270/p0bvs64x.jpg",BBC ONE
 http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/843
@@ -181,13 +184,13 @@ http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/846
 #EXTINF:-1 tvg-id="trt2"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://www.trt2.com.tr/images/share-1000x500.jpg",TRT 2
 
 #EXTINF:-1 tvg-id="cctv5"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568167382705_947.jpg",CCTV5
-http://donglao.duckdns.org/vn360sport/Kenh/kenh.php?id=cctv5
+#http://donglao.duckdns.org/vn360sport/Kenh/kenh.php?id=cctv5
 
 #EXTINF:-1 tvg-id="cctv5+"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/12/16/1576480496280_505.jpg",CCTV5+
-http://donglao.duckdns.org/vn360sport/Kenh/kenh.php?id=cctv5p
+#http://donglao.duckdns.org/vn360sport/Kenh/kenh.php?id=cctv5p
 
 #EXTINF:-1 tvg-id="SCTV"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",SCTV
-http://laohac360.duckdns.org:9981/stream/channelnumber/35353533?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
+#http://laohac360.duckdns.org:9981/stream/channelnumber/35353533?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
 
 
 

@@ -98,8 +98,8 @@ https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv5hd/chunklist.m3u8|Referer
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 vtvgiaitri
 https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ DVBT2
-
+#EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ low delay
+http://vn1.cvacetv.ga/vtvct
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ IPTVfpt
 http://live.vthanhtivi.pw:8080/vtvct
@@ -167,7 +167,7 @@ http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/15101
 http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14562
 
 #EXTINF:-1 tvg-id="rai2"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png",RAI 2
-#http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14563
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14563
 #http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53055  
 
 #EXTINF:-1 tvg-id="rai3"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png",RAI 3

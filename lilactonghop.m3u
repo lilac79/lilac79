@@ -17,8 +17,8 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 low delay
 http://vn1.cvacetv.ga/vtv2
 
-#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 IPTVfpt
-http://live.vthanhtivi.pw:8080/vtv2
+#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 
+http://bolero.myftp.org:6001/stream/channelid/210379033?profile=pass
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 mytv
 http://live2.vthanhtivi.pw/vtv2
@@ -44,8 +44,8 @@ https://8ypuv74wu.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 low delay
 http://vn1.cvacetv.ga/vtv3
 
-#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 IPTVfpt
-http://live.vthanhtivi.pw:8080/vtv3
+#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 
+http://bolero.myftp.org:6001/stream/channelid/841317984?profile=pass
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 DVBT2
 http://live2.vthanhtivi.pw/vtv3
@@ -74,7 +74,7 @@ http://vn1.cvacetv.ga/vtv5
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 DVBT2
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 IPTVfpt
-http://live.vthanhtivi.pw:8080/vtv5
+http://bolero.myftp.org:6001/stream/channelid/1279518350?profile=pass
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 mytv
 http://live2.vthanhtivi.pw/vtv5
@@ -102,7 +102,7 @@ https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
 http://vn1.cvacetv.ga/vtvct
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ IPTVfpt
-http://live.vthanhtivi.pw:8080/vtvct
+https://wallpapermeter.tk/worldcup/vtvcantho
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ mytv
 http://live2.vthanhtivi.pw/vtvct

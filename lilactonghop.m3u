@@ -13,13 +13,16 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 low delay
-http://vn1.cvacetv.ga/vtv2
+http://vn2.cvacetv.ga/vtv2
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 
 http://sg.cvacetv.ga/vtv2
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 mytv
 http://live2.vthanhtivi.pw/vtv2
+
+#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 mytv L2
+https://wallpapermeter.tk/worldcup/vtv2mytv
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 DVBT2
 http://laohac360.duckdns.org:9981/stream/channelnumber/202?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
@@ -45,13 +48,16 @@ http://171.238.181.52:18080/192.m3u8
 https://8ypuv74wu.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 low delay
-http://vn1.cvacetv.ga/vtv3
+http://vn2.cvacetv.ga/vtv3
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 
 http://sg.cvacetv.ga/vtv3
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 DVBT2
 http://laohac360.duckdns.org:9981/stream/channelnumber/203?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
+
+#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 mytv
+https://wallpapermeter.tk/worldcup/vtv3mytv
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 IPTVfpt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0

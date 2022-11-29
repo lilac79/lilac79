@@ -849,15 +849,15 @@ https://linear-188.frequency.stream/dist/plex/188/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="smithsonianchannel"group-title="Du lịch-Khám phá" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hgtv"group-title="Du lịch-Khám phá" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/HGTV_M.jpg",HGTV
+#EXTINF:-1 tvg-id="hgtv"group-title="Du lịch-Khám phá" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/HGTV_M.jpg",HGTV DRM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #http://52.231.51.194:1708/live/hgtv
 #http://20.194.5.67:1708/live/hgtv
-https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
+#https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
 
 #EXTINF:-1 tvg-id="bbclifestyle"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_165649241969.png",BBC Lifestyle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37

@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://hqth.me/epg09,http://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml.gz,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz" tvg-shift=0 m3uautoload=1
 #List bởi LILAC79 không dùng để mua bán
-#Thanks ChiVy, VThanh
  
 #EXTINF:-1 tvg-id="1"group-title="Thông báo" tvg-logo="https://www.elle.vn/wp-content/uploads/2017/06/02/gal-gadot-3.png",UPDATE20112022
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -22,7 +21,6 @@ http://sg2.cvacetv.ga/vtv2
 http://live.vthanhtivi.pw/vtv2
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 L4
-#http://live2.vthanhtivi.pw/vtv2
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 L5
 https://wallpapermeter.tk/worldcup/vtv2mytv
@@ -70,7 +68,7 @@ http://live.vthanhtivi.pw/vtv3
 https://wallpapermeter.tk/worldcup/vtv3
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 L5
-http://sg.cvacetv.ga/vtv3
+
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 L6
 http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1904662001?profile=pass
@@ -111,7 +109,7 @@ http://sg2.cvacetv.ga/vtv5
 http://live.vthanhtivi.pw/vtv5
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 L4
-http://sg.cvacetv.ga/vtv5
+
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 L5
 http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1930464826?profile=pass
@@ -1089,7 +1087,8 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-id="paramouthd"group-title="Phim NN" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Paramount_800x4501.jpg",Paramount
 #http://103.22.183.7:8080/Paramount_Channel/index.m3u8
 #http://52.231.51.194:1708/live/paramount
-http://20.194.5.67:1708/live/paramount
+#http://20.194.5.67:1708/live/paramount
+https://api.anttv.xyz/get/tv360/150/playlist.m3u8
 
 #EXTINF:-1 tvg-id="blueantext"group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-extreme_165649226345.png",BlueAnt Extreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -1135,7 +1134,7 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="film+"group-title="Phim NN" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/film-plus-vipotv.png",Film+
-https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 
 #EXTINF:-1 tvg-id="moviesphere"group-title="Phim NN" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png",MovieSphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8

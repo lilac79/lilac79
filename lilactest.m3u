@@ -4,6 +4,138 @@
 #EXTINF:0 tvg-id="1"group-title="Thông báo" tvg-logo="https://www.elle.vn/wp-content/uploads/2017/06/02/gal-gadot-3.png",UPDATE23062022
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
  
+
+
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/95.png", K+CINE HD
+http://vietanhtv.duckdns.org/video/tb.mp4
+
+
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/96.png", K+LIFE HD
+http://vietanhtv.duckdns.org/video/tb.mp4
+
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/97.png", K+SPORT1 HD
+http://vietanhtv.duckdns.org/video/hhh.mp4
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/98.png", K+SPORT2 HD
+http://vietanhtv.duckdns.org/video/hhh.mp4
+
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/188.png", K+KIDS HD
+http://vietanhtv.duckdns.org/video/alo.mp4
+
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/26.png", VTVcab 16 - On Football
+#EXTVLCOPT:http-user-agent=Tivi
+https://live.quangkv.com/cabon/playlist.m3u8
+
+
+# - * - VTV - * - #
+#EXTINF: -1 tvg-id = "vtv1hd" group-title = "? | VTV" tvg-logo = "https://vthanh.xyz/ic/1.png" catchup = "append" catchup-days = " 2 "catchup-source =" https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8 ", VTV1 HD
+#EXTVLCOPT: http-user-agent = VThanhTivi
+http://vietanhtv.duckdns.org/tv360.php?id=2&q=2
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="?| VTV" tvg-logo="https://vthanh.xyz/ic/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vietanhtv.duckdns.org/tv360.php?id=3&col=1
+
+
+#EXTINF: -1 tvg-id = "vtv3hd" group-title = "? | VTV" tvg-logo = "https://vthanh.xyz/ic/3.png" catchup = "append" catchup-days = " 2 "catchup-source =" https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8 ", VTV3 HD
+#EXTVLCOPT: http-user-agent = VThanhTivi
+http://vietanhtv.duckdns.org/tv360.php?id=4&q=2
+
+
+#EXTINF:-1 tvg-id="vtv4hd" group-title="?| VTV" tvg-logo="https://vthanh.xyz/ic/4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV4 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vietanhtv.duckdns.org/tv360.php?id=108&col=1
+
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="?| VTV" tvg-logo="https://vthanh.xyz/ic/5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vietanhtv.duckdns.org/tv360.php?id=110&col=1
+
+
+
+#EXTINF: -1 tvg-id = "vtv6hd" group-title = "? | VTV" tvg-logo = "https://vthanh.xyz/ic/8.png" catchup = "append" catchup-days = " 2 "catchup-source =" https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8 ", VTV6 HD 
+#EXTVLCOPT: http-user-agent = VThanhTivi
+http://vietanhtv.duckdns.org/tv360.php?id=98&c=0
+
+
+
+#EXTINF:-1 tvg-id="vtv7hd" group-title="?| VTV" tvg-logo="https://vthanh.xyz/ic/9.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vietanhtv.duckdns.org/tv360.php?id=6&col=1
+
+
+
+#EXTINF:-1 tvg-id="vtv8hd" group-title="?| VTV" tvg-logo="https://vthanh.xyz/ic/10.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV8 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vietanhtv.duckdns.org/tv360.php?id=115&col=1
+
+
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="?| VTV" tvg-logo="https://vthanh.xyz/ic/11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vietanhtv.duckdns.org/tv360.php?id=8&col=1
+
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="?| VTV" tvg-logo="https://vthanh.xyz/ic/11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", test 
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://14.248.227.217:8889/iprotv.php?id=15069
+
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="?| VTV" tvg-logo="https://vthanh.xyz/ic/11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", test 
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vietanhtv.duckdns.org/Genu.php?s=/59
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/8ibgqkog_k_cine.png",K+ Cine HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f 
+
+http://vietanhtv.ddns.net/vieontest.php
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/pkscwfe3_k_life.png",K+ Life HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a206df5390da319f9f33ba1fa48a4486&key=8961468cf643e32a94f52478016e5255
+
+https://iplogger.com/2pWFY6.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2022/03/03/02qir9yg_livetv-ngang.png",K+ Kids HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e
+
+https://iplogger.com/2Qhiu7.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/9i7b52um_sport1.png",K+ Sport1 HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
+
+http://vietanhtv.ddns.net/vieontest.php
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/d0ed7vu0_sport2.png",K+ Sport2 HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
+
+https://iplogger.com/2RvnV6.mpd
+
+
+
  
 #EXTINF:-1 group-title="test",onsport
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -85,7 +217,7 @@ https://vtvgo-livewebs.vtvdigital.vn/7b80493d85074ba700c9643ec267cba8/1666850829
 http://171.238.181.52:18080/154.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="TV360" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2test
-
+http://171.238.181.52:18080/192.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="TV360" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3
 http://171.238.181.52:18080/155.m3u8

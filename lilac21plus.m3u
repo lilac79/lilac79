@@ -11,7 +11,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/mhgf2xE/-0800/c.m3u8
 
 #EXTINF:-1 tvg-id="2"group-title="3X TV" tvg-logo="https://slfolks.com/upload/source/a3-bikini-network.png",A3 Bikini TV
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist.m3u8
+#https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist.m3u8
 
 #EXTINF:-1 tvg-id="3"group-title="3X TV" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV Jenny
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
@@ -32,37 +32,65 @@ https://stream.visit-x.tv/vxtv/live/chunklist_w1889908788.m3u8
 #http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 
 #EXTINF:-1 tvg-id="7.1"group-title="3X TV" tvg-logo="https://i1.wp.com/brianconroy.com/wp-content/uploads/2016/05/VIPsex.png",Hustler
-http://152.69.217.167:9981/stream/channelid/13033598?auth=P.TonsrNWGQ2kjEWvI2EQ5KGI8EI
+#http://152.69.217.167:9981/stream/channelid/13033598?auth=P.TonsrNWGQ2kjEWvI2EQ5KGI8EI
 
 #EXTINF:-1 tvg-id="7.2"group-title="3X TV" tvg-logo="https://i1.wp.com/brianconroy.com/wp-content/uploads/2016/05/VIPsex.png",Dorcel TV
-http://152.69.217.167:9981/stream/channelid/1409686709?auth=P.TonsrNWGQ2kjEWvI2EQ5KGI8EI
+#http://152.69.217.167:9981/stream/channelid/1409686709?auth=P.TonsrNWGQ2kjEWvI2EQ5KGI8EI
 
 #EXTINF:-1 tvg-id="8"group-title="3X TV" tvg-logo="http://totv.org/img/redlight-central.png",REDLIGHT
-http://93.152.174.144:4000/play/privatetv1/index.m3u8
+#http://93.152.174.144:4000/play/privatetv1/index.m3u8
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/18370
 
 #EXTINF:-1 tvg-id="9"group-title="3X TV" tvg-logo="http://totv.org/img/superone.png",Threesone
 https://www.ast.tv/stream/2/ultra.m3u8
 
-#EXTINF:-1 tvg-id="10"group-title="3X TV" tvg-logo="http://totv.org/img/paradise.png",Three Some
-#http://live.redtraffic.xyz/threesome.m3u8
-
 #EXTINF:-1 tvg-id="11"group-title="3X TV" tvg-logo="https://s3.amazonaws.com/ctm-tm/009193715.JPG",EXTASY TV
-http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+
 
 #EXTINF:-1 tvg-id="12"group-title="3X TV" tvg-logo="https://archive.org/download/naked.news.tv.ep.28/naked.news.tv.ep.28.thumbs/nnte28-omicron_000057.jpg",Naked News 1
-http://152.69.217.167/vn360sport/getmac.php?id=233601
+
 
 #EXTINF:-1 tvg-id="13"group-title="3X TV" tvg-logo="https://archive.org/download/naked.news.tv.ep.28/naked.news.tv.ep.28.thumbs/nnte28-omicron_000057.jpg",Naked News 2
-http://152.69.217.167/vn360sport/getmac.php?id=233602
+
 
 #EXTINF:-1 tvg-id="14"group-title="3X TV" tvg-logo="https://i.pinimg.com/474x/17/31/71/1731719be008d173a6ac95b8ebdd7cf6.jpg",ART
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/46329e01-6c6a-417f-88e5-b2f0600bdbe6/1.m3u8
 
 #EXTINF:-1 tvg-id="15"group-title="3X TV" tvg-logo="https://i1.wp.com/brianconroy.com/wp-content/uploads/2016/05/VIPsex.png",Teen Thai's 1
-http://152.69.217.167/vn360sport/getmac.php?id=185366
+
 
 #EXTINF:-1 tvg-id="16"group-title="3X TV" tvg-logo="https://i1.wp.com/brianconroy.com/wp-content/uploads/2016/05/VIPsex.png",Nubiles MFP
-http://152.69.217.167/vn360sport/getmac.php?id=177856
+
+
+#EXTINF:-1 tvg-id="17"group-title="3X TV",Private
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/16091
+
+#EXTINF:-1 tvg-id="18"group-title="3X TV",XXmax
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/21285
+
+#EXTINF:-1 tvg-id="19"group-title="3X TV",Balkan Erotic
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/21283
+
+#EXTINF:-1 tvg-id="20"group-title="3X TV",Hustler TV
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/21270
+
+#EXTINF:-1 tvg-id="21"group-title="3X TV",Vixen
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/21268
+
+#EXTINF:-1 tvg-id="22"group-title="3X TV",VividRED
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/21264
+
+#EXTINF:-1 tvg-id="23"group-title="3X TV",SexyHOT
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/21206
+
+#EXTINF:-1 tvg-id="24"group-title="3X TV",Mofos
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/21200
+
+#EXTINF:-1 tvg-id="24"group-title="3X TV",EroXXX
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/21197
+
+#EXTINF:-1 tvg-id="24"group-title="3X TV",Penthouse Gold
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/21194
 
  
  
@@ -283,13 +311,17 @@ https://b-hls-23.doppiocdn.com/hls/94932814/94932814.m3u8
 #EXTINF:-1 tvg-id="72"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Cselena
 https://b-hls-09.doppiocdn.com/hls/69911053/69911053.m3u8
 
-#EXTINF:-1 tvg-id="73"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",
+#EXTINF:-1 tvg-id="73"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Miin
+https://b-hls-10.doppiocdn.com/hls/96866885/96866885.m3u8
 
-#EXTINF:-1 tvg-id="74"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",
+#EXTINF:-1 tvg-id="74"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Mi8810
+https://b-hls-19.doppiocdn.com/hls/97247056/97247056.m3u8
 
-#EXTINF:-1 tvg-id="75"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",
+#EXTINF:-1 tvg-id="75"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Annalove
+https://b-hls-09.doppiocdn.com/hls/96377742/96377742_720p.m3u8
 
-#EXTINF:-1 tvg-id="76"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",
+#EXTINF:-1 tvg-id="76"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Amili
+https://b-hls-23.doppiocdn.com/hls/26952171/26952171.m3u8
 
 #EXTINF:-1 tvg-id="77"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",
 

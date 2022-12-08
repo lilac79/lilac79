@@ -2035,6 +2035,7 @@ https://856175157.r.vtvcdn.com/ondrm/M_CHANNEL/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab17hd"group-title="Âm nhạc-Thời trang" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/yeah1tv1.jpg",Vcab17 Yeah1!TV
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab17/vtvcab17@high.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://856175157.r.vtvcdn.com/ondrm/YEAH1_TV/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="htvccanhachd"group-title="Âm nhạc-Thời trang" tvg-logo="https://img.hplus.com.vn/460x260/poster/2022/08/23/793814-CA-NHAC-LOGO.png",HTVC Ca nhạc

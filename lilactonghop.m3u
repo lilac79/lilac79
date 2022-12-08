@@ -839,7 +839,7 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
  
 #EXTINF:-1 tvg-id="xplore"group-title="Du lịch-Khám phá" tvg-logo="https://image.xumo.com/v1/channels/channel/99991765/600x600.png?type=color_onBlack",Xplore
-https://xplore-plex.amagi.tv/playlist.m3u8
+#https://xplore-plex.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="inwild"group-title="Du lịch-Khám phá" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",InWild
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8

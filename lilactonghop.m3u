@@ -792,11 +792,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8|Referer=https
 #https://drm-livecdn.hplus.com.vn/CDN-FPT/HTVC-DULICH-HD-ABR/HTV-ABR/HTVC-DULICH-HD-1080p/chunks.m3u8
 https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab7hd"group-title="Phim VN" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ono21.jpg",ON O2TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://856175157.r.vtvcdn.com/ondrm/D_DRAMAS_HD/m30_index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab22hd"group-title="Phim VN" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onlife1.jpg",ON Life
+#EXTINF:-1 tvg-id="vtvcab22hd"group-title="Du lịch-Khám phá" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onlife1.jpg",ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
  
@@ -985,6 +981,9 @@ https://856175157.r.vtvcdn.com/ondrm/E_CHANNEL/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab5hd"group-title="Phim VN" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/E_CHANNEL_M.jpg",VTVcab5 EChannel L2
 
+#EXTINF:-1 tvg-id="vtvcab7hd"group-title="Phim VN" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ono21.jpg",ON O2TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://856175157.r.vtvcdn.com/ondrm/D_DRAMAS_HD/m30_index.m3u8
  
 #EXTINF:-1 tvg-id="vtvcab10hd"group-title="Phim VN" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Kenh10_480x2701.jpg",ON Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -1002,7 +1001,6 @@ https://856175157.r.vtvcdn.com/ondrm/O2_TV/m20_index.m3u8
 https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab19hd"group-title="Phim VN" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/9BBC95BD-2BA6-4B98-B625-84587477FCC3j1.jpg",VieDramas L2
-
  
 #EXTINF:-1 tvg-id="htvcphimhd"group-title="Phim VN" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/538562-pHIM.png",HTVCPhim
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8

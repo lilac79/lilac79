@@ -1213,6 +1213,12 @@ http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:-1 tvg-id="moviebox"group-title="Phim NN" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_box_mn.png",Movie box
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 
+#EXTINF:-1 tvg-id="moviebox"group-title="Phim NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Film1_Premiere_Stacked_Secondary_Logo_RGB.jpg",Film1 Premiere
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/282
+
+#EXTINF:-1 tvg-id="moviebox"group-title="Phim NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Teleclub_Cinema.svg/2560px-Teleclub_Cinema.svg.png",Teleclub Cinema
+http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/760
+
 #EXTINF:-1 tvg-id="novaplay"group-title="Phim NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nova_Play_logo.svg/1000px-Nova_Play_logo.svg.png",NovaPlay Brazil
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1592383770.m3u8
  

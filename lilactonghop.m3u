@@ -30,7 +30,7 @@ http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv2
 https://wallpapermeter.tk/worldcup/vtv2
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 L7
-http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/184155509?profile=pass
+http://laohac360.duckdns.org:9981/stream/channelnumber/202?auth=PJKaKd5fvP7jri-zh7yKJmVdtpGs
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 L8
 
@@ -75,7 +75,7 @@ http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv3
 https://wallpapermeter.tk/worldcup/vtv3
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 L7
-http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1904662001?profile=pass
+http://laohac360.duckdns.org:9981/stream/channelnumber/203?auth=PJKaKd5fvP7jri-zh7yKJmVdtpGs
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 L8
 
@@ -121,7 +121,7 @@ http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv5
 #http://vn2.vietanhtv.pw:8000/vtv5
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 L6
-http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1930464826?profile=pass
+http://laohac360.duckdns.org:9981/stream/channelnumber/205?auth=PJKaKd5fvP7jri-zh7yKJmVdtpGs
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 L7
 
@@ -162,7 +162,7 @@ http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtvct
 https://wallpapermeter.tk/worldcup/vtvcantho
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ L4
-http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975?profile=pass
+http://laohac360.duckdns.org:9981/stream/channelnumber/206?auth=PJKaKd5fvP7jri-zh7yKJmVdtpGs
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ L5
 
@@ -1241,7 +1241,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #https://livevlive.vtvcab.vn/ondrm/HAY_TV/manifest.mpd
-https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab6/vtvcab6@high.m3u8
+https://856175157.r.vtvcdn.com/ondrm/HAY_TV/m30_index.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab6/vtvcab6@high.m3u8
  
 #EXTINF:-1 tvg-id="vtvcab16hd"group-title="Thể thao VN" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/18a61496-664d-4f10-8fba-3020e70980f1.jpg",On Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -1271,6 +1272,7 @@ https://livevlive.vtvcab.vn/hls/OS_ONSPORTNEWSTA/sc-gaFEAA/m30_index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #https://livevlive.vtvcab.vn/ondrm/ONGOLFTA/manifest.mpd
+#https://856175157.r.vtvcdn.com/ondrm/THETHAO_GOLF_HD/m30_index.m3u8
 https://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFEAA/m30_index.m3u8
  
 #EXTINF:-1 tvg-id="onvff"group-title="Thể thao VN" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg",Bóng đá Việt

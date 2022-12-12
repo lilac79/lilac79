@@ -1070,9 +1070,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",InTheBox
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://api.anttv.xyz/get/cliptv/838/playlist.m3u8
-https://api.vthanhtivi.pw/v1/getlink/cliptv/838
+#EXTVLCOPT:http-user-agent=RainTv
+https://raintv.tk/cliptv/51d6e83bca0dde7d1b0e8876bb95bd18917cb223/In-The-Box/playlist.m3u8
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",InTheBox L2
 

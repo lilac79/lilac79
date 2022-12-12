@@ -1072,13 +1072,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",InTheBox
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://api.anttv.xyz/get/cliptv/838/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/cliptv/838
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",InTheBox L2
 
 #EXTINF:-1 tvg-id="boxhits"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4_480_270.png",BoxHits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
 #http://20.194.5.67:1708/live/boxhits
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://api.anttv.xyz/get/cliptv/839/playlist.m3u8

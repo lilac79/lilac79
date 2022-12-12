@@ -1071,7 +1071,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",InTheBox
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.anttv.xyz/get/cliptv/838/playlist.m3u8
+#https://api.anttv.xyz/get/cliptv/838/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.vthanhtivi.pw/v1/getlink/cliptv/838
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",InTheBox L2
 
@@ -1079,7 +1081,8 @@ https://api.anttv.xyz/get/cliptv/838/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
 #http://20.194.5.67:1708/live/boxhits
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.anttv.xyz/get/cliptv/839/playlist.m3u8
+#https://api.anttv.xyz/get/cliptv/839/playlist.m3u8
+http://jackmavietnam.ga/live/boxhits
 
 #EXTINF:-1 tvg-id="boxhits"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4_480_270.png",BoxHits L2
 
@@ -1225,7 +1228,7 @@ https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/282
 
 #EXTINF:-1 tvg-id="moviebox"group-title="Phim NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Teleclub_Cinema.svg/2560px-Teleclub_Cinema.svg.png",Teleclub Cinema
-http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/760
+#http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/760
 
 #EXTINF:-1 tvg-id="novaplay"group-title="Phim NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nova_Play_logo.svg/1000px-Nova_Play_logo.svg.png",NovaPlay Brazil
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1592383770.m3u8

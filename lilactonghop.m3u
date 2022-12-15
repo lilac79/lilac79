@@ -33,7 +33,6 @@ https://wallpapermeter.tk/worldcup/vtv2
 http://laohac360.duckdns.org:9981/stream/channelnumber/202?auth=PJKaKd5fvP7jri-zh7yKJmVdtpGs
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 L8
-https://raintv.tk/mytv/f0583b02efad38622c339c8f105018ef2697ce18/vtv2hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 L9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -79,7 +78,7 @@ https://wallpapermeter.tk/worldcup/vtv3
 http://laohac360.duckdns.org:9981/stream/channelnumber/203?auth=PJKaKd5fvP7jri-zh7yKJmVdtpGs
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 L8
-https://raintv.tk/mytv/f0583b02efad38622c339c8f105018ef2697ce18/vtv3hd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 L9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -171,7 +170,7 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/206?auth=PJKaKd5fvP7jri-z
 http://vn1.cvacetv.ga/VTVCT
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ L6
-https://raintv.tk/mytv/f0583b02efad38622c339c8f105018ef2697ce18/vtvcthd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ L7
 
@@ -266,9 +265,9 @@ http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/14563
 #EXTINF:-1 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V1_Eb8vhXa.png",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 #http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8 
-#https://8ypuv74wu.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
+https://8ypuv74wu.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
 #https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv1hd/chunklist.m3u8
-https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #http://171.238.181.52:18080/154.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2
@@ -714,10 +713,10 @@ https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="TV1.my"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1 Malaysia
 #https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 
 #EXTINF:-1 tvg-id="tv2"group-title="Tin tức-tổng hợp NN" tvg-logo="https://photos.live-tv-channels.org/tv-logo/my-rtm-tv-2-6592.jpg",TV2 Malaysia
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="sharjahtv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/FAp0RtO.png",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8  
@@ -875,10 +874,10 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #http://52.231.51.194:1708/live/hgtv
 #http://20.194.5.67:1708/live/hgtv
-#https://api.anttv.xyz/get/tv360/99/playlist.m3u8
+https://api.anttv.xyz/get/tv360/99/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bbclifestyle"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_165649241969.png",BBC Lifestyle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -1869,10 +1868,12 @@ https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 https://mediatech.vncdn.vn/thhnlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1"group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_165649238167.png",Hà Nội 1 
-http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
+#http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
+https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2"group-title="Kênh Địa Phương" tvg-logo="https://cliptv.vn/themes/cliptv/img/list_channel/Kenh_dia_phuong/HaNoiTV2.png",Hà Nội 2
-https://live.hanoitv.vn/hntvlive/tv2live.m3u8
+#https://live.hanoitv.vn/hntvlive/tv2live.m3u8
+https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="hatinh"group-title="Kênh Địa Phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_ha-tinh_165655826237.png",Hà Tĩnh
 #https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
@@ -1979,8 +1980,8 @@ http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="thainguyen"group-title="Kênh Địa Phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_thai-nguyen_165655752393.png",Thái Nguyên
-#https://livecdn.fptplay.net/sdc/thainguyen_2000.stream/chunklist.m3u8
-https://streaming.thainguyentv.vn/hls/livestream.m3u8
+https://livecdn.fptplay.net/sdc/thainguyen_2000.stream/chunklist.m3u8
+#https://streaming.thainguyentv.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-id="thanhhoa"group-title="Kênh Địa Phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_thanh-hoa_165657035591.png",Thanh Hóa
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8

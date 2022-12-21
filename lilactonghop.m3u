@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://hqth.me/epg09,http://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml.gz,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz" tvg-shift=0 m3uautoload=1
 #List bởi LILAC79 không dùng để mua bán
  
-#EXTINF:-1 tvg-id="1"group-title="Thông báo" tvg-logo="https://www.elle.vn/wp-content/uploads/2017/06/02/gal-gadot-3.png",UPDATE20112022
+#EXTINF:-1 tvg-id="1"group-title="Thông báo" tvg-logo="https://www.elle.vn/wp-content/uploads/2017/06/02/gal-gadot-3.png",UPDATE20122022
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
  
 #EXTINF:-1 tvg-id="2"group-title="Thông báo" tvg-logo="https://media.doanhnghiepvn.vn/Images/Uploaded/Share/2020/12/18/Phong-cach-quy-co-cua-Gal-Gadot-trong-Wonder-Woman-1984_4.jpg",update lại list khi xem
@@ -11,56 +11,29 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
 
 
-#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2
-http://vn2.cvacetv.ga/vtv2
 
-#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 L2
-http://live.vthanhtivi.pw/vtv2
-
-#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 L3
-https://wallpapermeter.tk/worldcup/vtv2mytv
-
-#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 L4
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv2
-
-#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 L5
-http://laohac360.duckdns.org:9981/stream/channelnumber/202?auth=PJKaKd5fvP7jri-zh7yKJmVdtpGs
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 fptplay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 #https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-https://livecdn.fptplay.net/sevent/vtv2_4000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/sevent/vtv2_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 cliptvtest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
 #EXTVLCOPT:http-referer=https://cliptv.vn
-https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv2hd/chunklist.m3u8|Referer=https://cliptv.vn/
+#https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv2hd/chunklist.m3u8|Referer=https://cliptv.vn/
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 tv360
-http://171.238.181.52:18080/192.m3u8
+#http://171.238.181.52:18080/192.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 vtvgiaitri
-https://8ypuv74wu.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
+#https://8ypuv74wu.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
 
-#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3
-http://vn2.cvacetv.ga/vtv3
-
-#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 L2
-http://live.vthanhtivi.pw/vtv3
-
-#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 L3
-https://wallpapermeter.tk/worldcup/vtv3mytv
-
-#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 L4
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv3
-
-#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 L5
-http://laohac360.duckdns.org:9981/stream/channelnumber/203?auth=PJKaKd5fvP7jri-zh7yKJmVdtpGs
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 fptplay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 #https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-https://livecdn.fptplay.net/sevent/vtv3hd_4000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/sevent/vtv3hd_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 cliptv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
@@ -68,27 +41,26 @@ https://livecdn.fptplay.net/sevent/vtv3hd_4000.stream/chunklist.m3u8
 #https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv3hd/chunklist.m3u8|Referer=https://cliptv.vn/ 
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 tv360
-http://171.238.181.52:18080/155.m3u8
+#http://171.238.181.52:18080/155.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 vtvgiaitri
-https://8ypuv74wu.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
+#https://8ypuv74wu.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5
 http://vn2.cvacetv.ga/vtv5
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 L2
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv5
+http://live.vthanhtivi.pw/vtv5
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 L3
-http://laohac360.duckdns.org:9981/stream/channelnumber/205?auth=PJKaKd5fvP7jri-zh7yKJmVdtpGs
+http://live-zlr1.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 fptplay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-#https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-https://livecdn.fptplay.net/sevent/vtv5hd_4000.stream/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 cliptv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
+#EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 cliptv test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
 #EXTVLCOPT:http-referer=https://cliptv.vn
 #https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv5hd/chunklist.m3u8|Referer=https://cliptv.vn/
 
@@ -96,8 +68,9 @@ https://livecdn.fptplay.net/sevent/vtv5hd_4000.stream/chunklist.m3u8
 http://171.238.181.52:18080/194.m3u8
 #http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 vtvgiaitri
-https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 vieon
+#https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ
@@ -107,14 +80,11 @@ http://vn1.cvacetv.ga/VTVCT
 http://live.vthanhtivi.pw/vtvct
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ L3
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtvct
-
-#EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ L4
-http://laohac360.duckdns.org:9981/stream/channelnumber/206?auth=PJKaKd5fvP7jri-zh7yKJmVdtpGs
+http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p3M.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ fptplay
-#https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
-https://livecdn.fptplay.net/sevent/vtvcantho_4000.stream/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ cliptv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
@@ -125,73 +95,80 @@ https://livecdn.fptplay.net/sevent/vtvcantho_4000.stream/chunklist.m3u8
 http://171.238.181.52:18080/156.m3u8
 #http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ vtvgiaitri
-https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
+#EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ vieon
+#https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V1_Eb8vhXa.png",VTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
 #http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8 
-https://8ypuv74wu.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
+#https://8ypuv74wu.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
 #https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv1hd/chunklist.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #http://171.238.181.52:18080/154.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
 #https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
-https://8ypuv74wu.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
+#https://8ypuv74wu.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv2_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
 #https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
-https://8ypuv74wu.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
+#https://8ypuv74wu.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_4000.stream/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="vtv4hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V4.png",VTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
 #http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
-https://8ypuv74wu.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
-#https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+#https://8ypuv74wu.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-#https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
-https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
+#https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn"group-title="VTV" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên
 #https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
-https://dl.dropboxusercontent.com/s/y9yl0ub4auytl70/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
+#https://dl.dropboxusercontent.com/s/y9yl0ub4auytl70/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
+https://api.anttv.xyz/get/vtvgo/163/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn"group-title="VTV" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên L2
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
  
 #EXTINF:-1 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png",VTV5 Tây Nam Bộ
 #https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
-https://dl.dropboxusercontent.com/s/e72ncx52hal0pqa/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
+#https://dl.dropboxusercontent.com/s/e72ncx52hal0pqa/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
+https://api.anttv.xyz/get/vtvgo/7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png",VTV5 Tây Nam Bộ L2
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
 #https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
+#https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="vtv7hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V7_10HKiVA.png",VTV7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
 #http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 #https://8ypuv74wu.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V8.png",VTV8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
 #http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -199,9 +176,10 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #https://8ypuv74wu.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
  
 #EXTINF:-1 tvg-id="vtv9hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V9_LTfTUAq.png",VTV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
 #http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
-https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vtv9_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V9_LTfTUAq.png",VTV9 L2
 #https://8ypuv74wu.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8

@@ -772,7 +772,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/s1/index.m3u8|Referer=https:
 #EXTINF:-1 tvg-id="sctv9hd"group-title="Phim VN" tvg-logo="https://static-stage.tv24.vn/channel/129/logo26072108_sctv9-hd.png",SCTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 #EXTVLCOPT:http-referer=https://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s1/index.m3u8|Referer=https://sctvonline.vn
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s2/index.m3u8|Referer=https://sctvonline.vn
  
 #EXTINF:-1 tvg-id="sctv13hd"group-title="Phim VN" tvg-logo="https://static-stage.tv24.vn/channel/114/logo26072108_sctv13-hd.png",SCTV13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -1877,7 +1877,8 @@ http://yenbaitv.org.vn//hls/livestream.m3u8
 
 #EXTINF:-1 tvg-id="sctv11hd"group-title="Âm nhạc-Thời trang" tvg-logo="https://static-stage.tv24.vn/channel/130/logo26072108_sctv11-hd.png",SCTV11
 #EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv11/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11.m3u8|Referer=http://sctvonline.vn/
+
 
 #EXTINF:-1 tvg-id="sctv20hd"group-title="Âm nhạc-Thời trang" tvg-logo="https://static-stage.tv24.vn/channel/233/logo26072108_sctv20-hd.png",SCTV20
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -1895,7 +1896,6 @@ https://856175157.r.vtvcdn.com/ondrm/STYLE_TV_HD/m30_index.m3u8
 https://856175157.r.vtvcdn.com/ondrm/M_CHANNEL/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab17hd"group-title="Âm nhạc-Thời trang" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/yeah1tv1.jpg",Vcab17 Yeah1!TV
-#EXTVLCOPT:http-referer=http://sctvonline.vn
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab17/vtvcab17@high.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://856175157.r.vtvcdn.com/ondrm/YEAH1_TV/m20_index.m3u8

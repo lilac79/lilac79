@@ -343,7 +343,7 @@ http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 #https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/chunklist.m3u8
 #EXTVLCOPT:http-referer=https://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv4/s1/index.m3u8|Referer=https://sctvonline.vn
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv4_s2/index.m3u8|Referer=https://sctvonline.vn
  
 #EXTINF:-1 tvg-id="sctv8hd"group-title="Tin tức-tổng hợp" tvg-logo="https://static-stage.tv24.vn/channel/205/logo26072108_sctv8.png",SCTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -777,12 +777,12 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9.m3u8|Referer=https://sctvonl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 #https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/chunklist.m3u8
 #EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/s1/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13_s2/index.m3u8|Referer=http://sctvonline.vn/
  
 #EXTINF:-1 tvg-id="sctv14hd"group-title="Phim VN" tvg-logo="https://static-stage.tv24.vn/channel/84/logo26072108_sctv14-hd.png",SCTV14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 #EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14_s2/index.m3u8|Referer=http://sctvonline.vn/
  
 #EXTINF:-1 tvg-id="sctv16hd"group-title="Phim VN" tvg-logo="https://static-stage.tv24.vn/channel/110/logo26072108_sctv16-hd.png",SCTV16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -1153,7 +1153,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv15/s1/index.m3u8|Referer=http:
 #EXTINF:-1 tvg-id="sctv17hd"group-title="Thể thao VN" tvg-logo="https://static-stage.tv24.vn/channel/14/logo26072108_sctv17-hd.png",SCTV17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 #EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/s1/index.m3u8|Referer=http://sctvonline.vn
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17_s2/index.m3u8|Referer=http://sctvonline.vn
  
 #EXTINF:-1 tvg-id="sctv22hd"group-title="Thể thao VN" tvg-logo="https://static-stage.tv24.vn/channel/241/sctv22-hd.png",SCTV22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -1540,7 +1540,7 @@ https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3
  
 #EXTINF:-1 tvg-id="babyfirst"group-title="Thiếu Nhi" tvg-logo="https://i.ytimg.com/vi/SupkqH7Y-uw/hqdefault.jpg",Baby First
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#offair
  
 #EXTINF:-1 tvg-id="babytvhd"group-title="Thiếu Nhi" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_babytv-hd_165649289806.png",Baby TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -1897,7 +1897,7 @@ https://856175157.r.vtvcdn.com/ondrm/M_CHANNEL/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd"group-title="Âm nhạc-Thời trang" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/yeah1tv1.jpg",Vcab17 Yeah1!TV
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab17/vtvcab17@high.m3u8
 #https://856175157.r.vtvcdn.com/ondrm/YEAH1_TV/m20_index.m3u8
-https://api.anttv.xyz/get/vtvcab/vtvcab17/playlist.m3u8
+#https://api.anttv.xyz/get/vtvcab/vtvcab17/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvccanhachd"group-title="Âm nhạc-Thời trang" tvg-logo="https://img.hplus.com.vn/460x260/poster/2022/08/23/793814-CA-NHAC-LOGO.png",HTVC Ca nhạc
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8

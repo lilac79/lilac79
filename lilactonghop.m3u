@@ -1896,8 +1896,8 @@ https://856175157.r.vtvcdn.com/ondrm/M_CHANNEL/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab17hd"group-title="Âm nhạc-Thời trang" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/yeah1tv1.jpg",Vcab17 Yeah1!TV
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab17/vtvcab17@high.m3u8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://856175157.r.vtvcdn.com/ondrm/YEAH1_TV/m20_index.m3u8
+#https://856175157.r.vtvcdn.com/ondrm/YEAH1_TV/m20_index.m3u8
+https://api.anttv.xyz/get/vtvcab/vtvcab17/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvccanhachd"group-title="Âm nhạc-Thời trang" tvg-logo="https://img.hplus.com.vn/460x260/poster/2022/08/23/793814-CA-NHAC-LOGO.png",HTVC Ca nhạc
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
@@ -1928,7 +1928,7 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 #https://s02.diazol.hu:10192/stream.m3u8
  
 #EXTINF:-1 tvg-id="mtv"group-title="Âm nhạc-Thời trang" tvg-logo="https://i.ibb.co/2cHzrg2/mtv.png",MTV
-https://vips-livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+#offair
  
 #EXTINF:-1 tvg-id="mtvyo"group-title="Âm nhạc-Thời trang" tvg-logo="https://i.ibb.co/DGWR1fm/mtvyo.png",MTV Yo!
 #http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8

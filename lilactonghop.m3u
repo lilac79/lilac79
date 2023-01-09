@@ -122,12 +122,15 @@ https://vips-livecdn.fptplay.net/hda2/vtv5hd_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn"group-title="VTV" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên
 #https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
-https://api.anttv.xyz/get/vtvgo/163/playlist.m3u8
+#https://api.anttv.xyz/get/vtvgo/163/playlist.m3u8
+https://api.vthanhtivi.pw/v2/getlink/vtv/vtv5tn/playlist.m3u8
  
 #EXTINF:-1 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png",VTV5 Tây Nam Bộ
 #https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
-https://api.anttv.xyz/get/vtvgo/7/playlist.m3u8
+#https://api.anttv.xyz/get/vtvgo/7/playlist.m3u8
+#https://api.vthanhtivi.pw/v2/getlink/mytv/615/hd.m3u8
+https://jackmavietnam.ga/live/v5tnb
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54
@@ -665,9 +668,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-#http://52.231.51.194:1708/live/hgtv
-#http://20.194.5.67:1708/live/hgtv
-https://api.anttv.xyz/get/tv360/99/playlist.m3u8
+http://jackmavietnam.ga/live/hgtv
 
 #EXTINF:-1 tvg-id="bbclifestyle"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_165649241969.png",BBC Lifestyle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -854,7 +855,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 
 #EXTINF:-1 tvg-id="inthebox"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",InTheBox
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.anttv.xyz/get/cliptv/838/playlist.m3u8
+#https://api.anttv.xyz/get/cliptv/838/playlist.m3u8
+https://api.vthanhtivi.pw/v2/getlink/cliptv/838/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="boxhits"group-title="Phim NN" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4_480_270.png",BoxHits
 #http://20.194.5.67:1708/live/boxhits

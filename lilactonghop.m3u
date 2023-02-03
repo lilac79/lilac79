@@ -114,9 +114,9 @@ https://api.anttv.xyz/get/vtvgo/163/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png",VTV5 Tây Nam Bộ
 #https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
-#https://api.anttv.xyz/get/vtvgo/7/playlist.m3u8
-https://api.anttv.xyz/get/mytv/615/hd/playlist.m3u8
+#https://api.anttv.xyz/get/mytv/615/hd/playlist.m3u8
 #https://jackmavietnam.ga/live/v5tnb
+https://api.anttv.xyz/get/vtvgo/7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54

@@ -1093,6 +1093,7 @@ http://live.tv360.vn/manifest/K_Plus_Sport2_test/playlist_1080p-5M.m3u8
 
 #EXTINF:-1 tvg-id="sctv15hd"group-title="Thể thao VN" tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png",SCTV15
 #EXTVLCOPT:http-referer=http://sctvonline.vn
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv15/s1/index.m3u8|Referer=http://sctvonline.vn
 https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="sctv17hd"group-title="Thể thao VN" tvg-logo="https://static-stage.tv24.vn/channel/14/logo26072108_sctv17-hd.png",SCTV17

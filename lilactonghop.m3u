@@ -835,7 +835,6 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
  
 #EXTINF:-1 tvg-id="cinemaxhd"group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemax-fpt_165647574636.png",Cinemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="cinemaworldhd"group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_165647572623.png",Cinema World

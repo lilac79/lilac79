@@ -812,6 +812,10 @@ https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hbohd"group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo-fpt_165647606222.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemax-fpt_165647574636.png",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="HBOFamilyHD.MACAN"group-title="Phim NN" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbofamily-logo.jpg",HBOFamily DRM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -834,9 +838,6 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemax-fpt_165647574636.png" tvg-name="Cinemax",Cinemax
-https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
- 
 #EXTINF:-1 tvg-id="cinemaworldhd"group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_165647572623.png",Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
@@ -872,11 +873,6 @@ https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd 
-
-#EXTINF:-1 tvg-id="blueantext"group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-extreme_165649226345.png",BlueAnt Extreme
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69
-#EXTVLCOPT:http-referer=https://fptplay.vn
-https://vips-livecdn.fptplay.net/hda1/blueantext_4000.stream/chunklist.m3u8|Referer=https://fptplay.vn/
  
 #EXTINF:-1 tvg-id="kix"group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_16564931853.png",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -885,6 +881,10 @@ https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="axnhd"group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_165647568626.png",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="blueantext"group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-extreme_165649226345.png",BlueAnt Extreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69
+https://vips-livecdn.fptplay.net/hda1/blueantext_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="galaxypremium"group-title="Phim NN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium DRM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

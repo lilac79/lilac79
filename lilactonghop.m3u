@@ -835,14 +835,6 @@ http://live-ali2.tv360.vn/manifest/K_Plus_Sport2_test/playlist_1080p-5M.m3u8
 #EXTINF:-1 tvg-id="sctv15hd"group-title="Thể thao VN" tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png",SCTV15
 https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab18hd"group-title="Thể thao VN" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/80f2f2aa-ac7b-4d92-a5a8-229168c5a9ad.jpg",On Sports News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referer=https://onplus.com.vn/
-#https://live1onsport.vtvcab.vn/ondrm/THETHAO_TINTUC_HD/manifest.mpd|Referer=https://onplus.com.vn/
-
 #EXTINF:-1 tvg-id="sctv17hd"group-title="Thể thao VN" tvg-logo="https://static-stage.tv24.vn/channel/14/logo26072108_sctv17-hd.png",SCTV17
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17_s2/index.m3u8|Referer=http://sctvonline.vn

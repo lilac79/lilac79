@@ -9,18 +9,6 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
  
  
 
-
-
-#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 cliptvtest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
-#EXTVLCOPT:http-referer=https://cliptv.vn
-#https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv2hd/chunklist.m3u8|Referer=https://cliptv.vn/
-
-#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 cliptv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
-#EXTVLCOPT:http-referer=https://cliptv.vn
-#https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv3hd/chunklist.m3u8|Referer=https://cliptv.vn/ 
-
 #EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 L3
 #http://live-zlr1.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
 
@@ -37,10 +25,6 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
 #EXTVLCOPT:http-referer=https://cliptv.vn
 #https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtvcanthohd/chunklist.m3u8|Referer=https://cliptv.vn/
-
-#EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ tv360
-#http://171.238.181.52:18080/156.m3u8
-#http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V1_Eb8vhXa.png",VTV1
@@ -259,7 +243,7 @@ http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 #https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/chunklist.m3u8
 #EXTVLCOPT:http-referer=https://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv4_s2/index.m3u8|Referer=https://sctvonline.vn
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv4_s1/index.m3u8|Referer=https://sctvonline.vn
  
 #EXTINF:-1 tvg-id="sctv8hd"group-title="Tin tức-tổng hợp" tvg-logo="https://static-stage.tv24.vn/channel/205/logo26072108_sctv8.png",SCTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37

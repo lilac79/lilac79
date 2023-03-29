@@ -693,14 +693,13 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=http://sctv
 #EXTINF:-1 tvg-id="vtvcab7hd"group-title="Phim VN" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ono21.jpg",ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://856175157.r.vtvcdn.com/ondrm/D_DRAMAS_HD/m30_index.m3u8
-https://livevlive.vtvcab.vn/hls/D_DRAMAS_HD_CL/sc-gaFEAQ/m30_index.m3u8
+https://livevlive.vtvcab.vn/hls/O2_TV_CL/sc-gaFEAQ/index.m3u8
+#https://livevlive.vtvcab.vn/hls/D_DRAMAS_HD_CL/sc-gaFEAQ/m30_index.m3u8
  
 #EXTINF:-1 tvg-id="vtvcab10hd"group-title="Phim VN" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Kenh10_480x2701.jpg",ON Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 #EXTVLCOPT:http-referer=http://sctvonline.vn
-#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=http://sctvonline.vn/
-#https://856175157.r.vtvcdn.com/ondrm/O2_TV/m20_index.m3u8
-https://livevlive.vtvcab.vn/hls/O2_TV_CL/sc-gaFEAQ/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=http://sctvonline.vn/
  
 #EXTINF:-1 tvg-id="vtvcab19hd"group-title="Phim VN" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/9BBC95BD-2BA6-4B98-B625-84587477FCC3j1.jpg",Vie Dramas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37

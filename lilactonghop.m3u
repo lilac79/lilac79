@@ -539,7 +539,7 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u
  
 #EXTINF:-1 tvg-id="ngwhd"group-title="Du lịch-Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",NATGEOWILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="ngchd"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_national-geographic-hd_165647725527.png",National Geographic (NGC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -720,12 +720,12 @@ https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 
  
 #EXTINF:-1 tvg-id="hbohd"group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo-fpt_165647606222.png",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+http://live.vthanhtivi.pw/hbo
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemax-fpt_165647574636.png",Cinemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+http://live.vthanhtivi.pw/cinemax
 
 #EXTINF:-1 tvg-id="cinemaworldhd"group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_165647572623.png",Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -761,7 +761,7 @@ https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="axnhd"group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_165647568626.png",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda4/axnhd_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="blueantext"group-title="Phim NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-extreme_165649226345.png",BlueAnt Extreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69
@@ -804,11 +804,11 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1592383770.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="vtvcab6hd"group-title="Thể thao VN" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/1dfdaeb1-7994-4749-89ca-be5f922a11e0.jpg",ON Sports+
-https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab6/vtvcab6@high.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab6/vtvcab6@high.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd"group-title="Thể thao VN" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/1dfdaeb1-7994-4749-89ca-be5f922a11e0.jpg",ON Sports+
 #EXTVLCOPT:http-referer=http://sctvonline.vn
-#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 tvg-id="vtvcab16hd"group-title="Thể thao VN" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/18a61496-664d-4f10-8fba-3020e70980f1.jpg",On Football 50FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63

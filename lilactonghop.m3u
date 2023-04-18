@@ -264,8 +264,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8|Referer=https://sct
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8
  
 #EXTINF:-1 tvg-id="bloomberg"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_165655620447.png",Bloomberg
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48
-https://vips-livecdn.fptplay.net/hda4/bloomberg_4000.stream/chunklist.m3u8
+https://ancom.ga/fpt/bloomberg/bitrate_5000.m3u8
+#https://vips-livecdn.fptplay.net/hda3/bloomberg_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="cnbc"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_165649295947.png",CNBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -275,8 +275,8 @@ https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_1_4596000.m3u8
 
 #EXTINF:-1 tvg-id="cnn"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_165647576261.png",CNN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-https://vips-livecdn.fptplay.net/hda3/cnn_4000.stream/chunklist.m3u8
+https://ancom.ga/fpt/cnn/bitrate_5000.m3u8
+#https://vips-livecdn.fptplay.net/hda3/cnn_4000.stream/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="foxnews"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",Fox News
 #https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -286,8 +286,8 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="bbcworldnews"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_165649290562.png",BBC World News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-https://vips-livecdn.fptplay.net/hda3/bbcnews_4000.stream/chunklist.m3u8
+https://ancom.ga/fpt/bbc-news/bitrate_5000.m3u8
+#https://vips-livecdn.fptplay.net/hda3/bbcnews_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="reuters"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.dakgroup.com/wp-content/uploads/2018/11/Reuters-logo.png",Reuters
 #https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
@@ -337,12 +337,6 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 https://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="gugbangtv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.ibb.co/5jCvw5r/image.png",Gugbang TV
-http:\\mediaworks.dema.mil.kr:1935\live_edge\cudo.sdp\playlist.m3u8
-
-#EXTINF:-1 tvg-id="chosuntv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://0.soompi.io/wp-content/uploads/2018/07/27112750/TV-Chosun-e1532716122215.jpg",TV Chosun
-#http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="nhkworld"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_logo_466x146.png",NHK World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 #https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
@@ -352,11 +346,6 @@ https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 #https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="channelu"group-title="Tin tức-tổng hợp NN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/MediaCorp_ChannelU.jpg",Channel U Singapore DRM
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ/UWeTXAOfpju0oZkr0UtvrZ8k=&
-#https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 #EXTINF:-1 tvg-id="cntg"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/NpnQWeG.png",CGTN for Europe
 https://live.cgtn.com/1000/prog_index.m3u8
@@ -374,18 +363,12 @@ http://103.130.141.67:81/live/24/playlist.m3u8
 http://103.130.141.67:81/live/29/playlist.m3u8
  
 #EXTINF:-1 tvg-id="abcaustralia"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_16564921977.png",ABC Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-https://vips-livecdn.fptplay.net/hda3/australiaplus_4000.stream/chunklist.m3u8
+https://ancom.ga/fpt/australia-plus/bitrate_5000.m3u8
+#https://vips-livecdn.fptplay.net/hda3/australiaplus_4000.stream/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="abcaustralianews"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.abc.net.au/news/linkableblob/8413676/data/abc-news-og-data.jpg",ABCNews Australia 
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="10"group-title="Tin tức-tổng hợp NN" tvg-logo="https://10play.com.au/images/10_Live_Fallback.jpg",10 Australia
-http://58.96.43.228:9981/stream/channelid/421672416?ticket=6A2427178BB78F1EA85736F90BA933E4E9E77203&profile=pass
-
-#EXTINF:-1 tvg-id="10bold"group-title="Tin tức-tổng hợp NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1200px-10_Bold_2018.svg.png",10Bold Australia
-#http://58.96.43.228:9981/stream/channelid/590433938?ticket=E1802B88F7247C90D95C2B3A6E98D613D5090503&profile=pass
- 
 #EXTINF:-1 tvg-id="AlJazeera.MACAN"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/SdplJlw.png",AlJazeera News UAE
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #https://live-hls-web-aja.getaj.net/AJA/index.m3u8
@@ -413,29 +396,9 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 https://thairathtv.cdn.byteark.com/fleetstream/live1/720p/index.m3u8
 #https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.MACAN"group-title="Tin tức-tổng hợp NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI Indonesia DRM
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-
-#EXTINF:-1 tvg-id="RCTI.MACAN"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png",RCTI Indonesia DRM
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-#EXTINF:-1 tvg-id="mnctv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://res.cloudinary.com/tia-img/image/fetch/t_company_avatar/https%3A%2F%2Fcdn.techinasia.com%2Fdata%2Fimages%2FN5Pw1C6kzWASWV1Aw9xDR36nXcS7gLMldNLU5veN.png",MNC TV DRM
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
 #EXTINF:-1 tvg-id="TV1.my"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1 Malaysia
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
 #EXTINF:-1 tvg-id="tv2"group-title="Tin tức-tổng hợp NN" tvg-logo="https://photos.live-tv-channels.org/tv-logo/my-rtm-tv-2-6592.jpg",TV2 Malaysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
@@ -460,7 +423,7 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_newsmedium.m3u8
  
 #EXTINF:-1 tvg-id="raiitalia"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/RFXTFUK.png",Rai Italia
-http://ott-cdn.ucom.am/s29/04.m3u8
+#http://ott-cdn.ucom.am/s29/04.m3u8
 
 #EXTINF:-1 tvg-id="qatartv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.inlife.tv/sites/default/files/logos/qtv-qatar-television.png",Qatar TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
@@ -474,27 +437,7 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 tvg-id="indiatoday"group-title="Tin tức-tổng hợp NN" tvg-logo="https://d1sz1zrtudycb.cloudfront.net/wp-content/uploads/2018/05/fb86828a-895b-4509-9925-ca243a68ebdf.png",Indiatoday
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_404p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="gbnews"group-title="Tổng hợp test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/GBnews.jpg",GB News Eng
-#EXTINF:-1 tvg-id="rtp1"group-title="Tổng hợp test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png",RTP 1 Portugal
-#EXTINF:-1 tvg-id="tvp1"group-title="Tổng hợp test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png",TVP 1 Poland
-#EXTINF:-1 tvg-id="10australia"group-title="Tổng hợp test" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 Australia
-#EXTINF:-1 tvg-id="dwdeutsche"group-title="Tổng hợp test" tvg-logo="https://static.dw.com/image/15705485_401.jpg",DW Deutsche
-#EXTINF:-1 tvg-id="YonhapnewsTV"group-title="Tổng hợp test" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kr-yonhap-news-tv-3985.jpg",YonhapnewsTV
-#EXTINF:-1 tvg-id="한국경제TV"group-title="Tổng hợp test" tvg-logo="https://i.ytimg.com/vi/HSBItbsH7l8/maxresdefault.jpg",한국경제TV
-#EXTINF:-1 tvg-id="이데일리TV"group-title="Tổng hợp test" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kr-edaily-tv-7583.jpg",이데일리TV
-#EXTINF:-1 tvg-id="서울경제TV"group-title="Tổng hợp test" tvg-logo="https://i.ytimg.com/vi/TBEkryyvEqg/maxresdefault.jpg",서울경제TV
-#EXTINF:-1 tvg-id="kbsnews"group-title="Tổng hợp test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/KBS_News_Logo.jpg",KBS News
-#EXTINF:-1 tvg-id="kbskorea"group-title="Tổng hợp test" tvg-logo="https://i.ytimg.com/vi/HnfpTMtfFk8/maxresdefault.jpg",KBS Korea
-#EXTINF:-1 tvg-id="ytn2"group-title="Tổng hợp test" tvg-logo="https://i.ytimg.com/vi/hxBTqmTT5gE/maxresdefault.jpg",YTN2
-#EXTINF:-1 tvg-id="new18"group-title="Tổng hợp test" tvg-logo="https://pbs.twimg.com/profile_images/851451723256299521/RHLWV72-_400x400.jpg",New18 India
-#EXTINF:-1 tvg-id="india"group-title="Tổng hợp test" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/04/24/indiatv.jpg?itok=ymXAZhFU",IndiaTV
-#EXTINF:-1 tvg-id="wionworld"group-title="Tổng hợp test" tvg-logo="https://i.ytimg.com/vi/tjil5LvQh0s/maxresdefault.jpg",Wion World India
-#EXTINF:-1 tvg-id="timenows"group-title="Tổng hợp test" tvg-logo="https://i.ytimg.com/vi/CfEi6BGCMnM/hqdefault.jpg",TimesNowLive SriLanka
-#EXTINF:-1 tvg-id="gtvtv"group-title="Tổng hợp test" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV Bangladesh
-#EXTINF:-1 tvg-id="kompastv"group-title="Tổng hợp test" tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg",Kompastv Indonesia
-#EXTINF:-1 tvg-id="awani"group-title="Tổng hợp test" tvg-logo="https://photos.live-tv-channels.org/tv-logo/my-astro-awani-5717.jpg",Awani Malaysia
-#EXTINF:-1 tvg-id="nasafromiss"group-title="Tổng hợp test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/800px-NASA_logo.svg.png",Nasa from ISS
-#EXTINF:-1 tvg-id="kozoom"group-title="Tổng hợp test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Kozoom-logo.png",Kozoom Billiard
+
 
 
  
@@ -523,20 +466,20 @@ https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b5000000.m3
 #https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
  
 #EXTINF:-1 tvg-id="animalhd"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_165649272197.png",Animal Planet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+https://ancom.ga/fpt/animal-planet/bitrate_5000.m3u8
+#http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="bbcearth"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_165649223671.png",BBC Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+https://ancom.ga/fpt/bbc-earth/bitrate_5000.m3u8
+#http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="discoveryasiahd"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_165649233641.png",Discovery Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+https://ancom.ga/fpt/discovery-asia/bitrate_5000.m3u8
+#http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_165649301639.png",Discovery
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+https://ancom.ga/fpt/discovery/bitrate_5000.m3u8
+#https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="ngwhd"group-title="Du lịch-Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",NATGEOWILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37

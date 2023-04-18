@@ -1035,6 +1035,7 @@ https://ancom.ga/fpt/boomerang/bitrate_5000.m3u8
 https://ancom.ga/fpt/cartoon-network/bitrate_5000.m3u8
 
 #EXTINF:-1 tvg-id="dreamworks"group-title="Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png",DreamWorks
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/846/chunklist_b5128000.m3u8
  
 #EXTINF:-1 tvg-id="happykids"group-title="Thiếu Nhi" tvg-logo="https://static-stage.tv24.vn/channel/247/Kids_new.jpg",Happy Kids

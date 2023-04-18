@@ -1029,7 +1029,7 @@ https://ancom.ga/fpt/cbeebies/bitrate_5000.m3u8
 #https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="boomerang"group-title="Thiếu Nhi" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_16564929211.png",Boomerang
-https://ancom.ga/fpt/bloomberg/bitrate_5000.m3u8
+https://ancom.ga/fpt/boomerang/bitrate_5000.m3u8
  
 #EXTINF:-1 tvg-id="cartoonhd"group-title="Thiếu Nhi" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_165649227684.png",Cartoon Network
 https://ancom.ga/fpt/cartoon-network/bitrate_5000.m3u8

@@ -9,10 +9,12 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
  
  
 
-#EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",cliptv test
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-#EXTVLCOPT:http-referer=https://cliptv.vn
-#https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv5hd/chunklist.m3u8|Referer=https://cliptv.vn/
+#EXTINF:-1 tvg-id="vtv5hd"group-title="CHINATV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",HONAM
+http://2179199274.cloudvdn.com/a.m3u8?domain=fm-live-rtmp.fm-tv-live.mangguonews.com&player=TVYAAEKlA5_B1FsX&secondToken=secondToken%3AdqHkuLTY2T3xKX0_Pja5dueJLrw&streamid=fm-tv-live%3Afm-tv-live%2Fhnjs&v3=1
+
+#EXTINF:-1 tvg-id="vtv5hd"group-title="CHINATV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",HONAM L2
+http://2179199274.cloudvdn.com/a.m3u8?domain=fm-live-rtmp.fm-tv-live.mangguonews.com&player=TVYAAP6By1YP1VsX&secondToken=secondToken%3Ayra_iyLTAQ1neoNTqMy_Fmt9B9c&streamid=fm-tv-live%3Afm-tv-live%2Fhnjs&v3=1
+
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️AFF CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ cliptv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52

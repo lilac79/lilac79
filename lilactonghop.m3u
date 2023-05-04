@@ -439,20 +439,14 @@ https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv18hd"group-title="Du lịch-Khám phá" tvg-logo="https://static-stage.tv24.vn/channel/164/logo26072108_sctv18-hd.png",SCTV18
 #EXTVLCOPT:http-referer=https://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s1/index.m3u8|Referer=https://sctvonline.vn
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s1/index.m3u8|Referer=https://sctvonline.vn
 https://vtsstr4.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv21hd"group-title="Du lịch-Khám phá" tvg-logo="https://static-stage.tv24.vn/channel/242/s21-hd.jpg",SCTV21
 #EXTVLCOPT:http-referer=https://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv21hd"group-title="Du lịch-Khám phá" tvg-logo="https://static-stage.tv24.vn/channel/242/s21-hd.jpg",SCTV21test
-#EXTVLCOPT:http-referer=https://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s2/index.m3u8|Referer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="sctv21hd"group-title="Du lịch-Khám phá" tvg-logo="https://static-stage.tv24.vn/channel/242/s21-hd.jpg",SCTV21test1
-#EXTVLCOPT:http-referer=https://sctvonline.vn
-https://vtsstr4.tv24.vn/live/SCTV21_HD_new.smil/playlist.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8|Referer=https://sctvonline.vn
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8
 
 #EXTINF:-1 tvg-id="htvcdulichhd"group-title="Du lịch-Khám phá" tvg-logo="https://img.hplus.com.vn/728x409/banner/2022/08/23/345517-DU-LICH-LOGO.png",HTVC Du lịch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -464,16 +458,13 @@ https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b5000000.m3
 #https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
  
 #EXTINF:-1 tvg-id="animalhd"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_165649272197.png",Animal Planet
-https://ancom.ga/fpt/animal-planet/bitrate_5000.m3u8
-#http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="bbcearth"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_165649223671.png",BBC Earth
-https://ancom.ga/fpt/bbc-earth/bitrate_5000.m3u8
-#http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="discoveryasiahd"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_165649233641.png",Discovery Asia
-https://ancom.ga/fpt/discovery-asia/bitrate_5000.m3u8
-#http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_165649301639.png",Discovery
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
@@ -528,12 +519,10 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 
 #EXTINF:-1 tvg-id="bbclifestyle"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_165649241969.png",BBC Lifestyle
-https://ancom.ga/fpt/bbc-lifestyle/bitrate_5000.m3u8
-#https://vips-livecdn.fptplay.net/hda3/bbclifestyle_4000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="tlchd"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_165647872738.png",TLC
-https://ancom.ga/fpt/travel-living/bitrate_5000.m3u8
-#https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="davinci"group-title="Du lịch-Khám phá" tvg-id="davinci" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_165655659384.png",Da Vinci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37

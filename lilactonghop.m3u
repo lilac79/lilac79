@@ -266,8 +266,7 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/eb23b6661b4b9b51df7
  
 #EXTINF:-1 tvg-id="bloomberg"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_165655620447.png",Bloomberg
 #https://ancom.ga/fpt/bloomberg/bitrate_5000.m3u8
-#https://vips-livecdn.fptplay.net/hda3/bloomberg_4000.stream/chunklist.m3u8
-https://vips-livecdn.fptplay.net/hda4/bloomberg_4000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda3/bloomberg_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="cnbc"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_165649295947.png",CNBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37

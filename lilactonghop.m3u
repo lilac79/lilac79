@@ -445,8 +445,7 @@ https://vtsstr4.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv21hd"group-title="Du lịch-Khám phá" tvg-logo="https://static-stage.tv24.vn/channel/242/s21-hd.jpg",SCTV21
 #EXTVLCOPT:http-referer=https://sctvonline.vn
 #https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8|Referer=https://sctvonline.vn
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8
+https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/live/smil:SCTV21.smil/chunklist_b942000.m3u8
 
 #EXTINF:-1 tvg-id="htvcdulichhd"group-title="Du lịch-Khám phá" tvg-logo="https://img.hplus.com.vn/728x409/banner/2022/08/23/345517-DU-LICH-LOGO.png",HTVC Du lịch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -454,8 +453,6 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8
 https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab22hd"group-title="Du lịch-Khám phá" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onlife1.jpg",ON Life
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
  
 #EXTINF:-1 tvg-id="animalhd"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_165649272197.png",Animal Planet
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
@@ -474,8 +471,7 @@ https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="ngchd"group-title="Du lịch-Khám phá" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_national-geographic-hd_165647725527.png",National Geographic (NGC)
-https://ancom.ga/fpt/national-geographic-hd/bitrate_5000.m3u8
-#https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="planetearthhd"group-title="Du lịch-Khám phá" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068769029.png",Planet Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -506,8 +502,6 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
  
 #EXTINF:-1 tvg-id="dmax"group-title="Du lịch-Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",Dmax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
-#EXTINF:-1 tvg-id="historyhd"group-title="Du lịch-Khám phá" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/HIS_M.jpg",History DRM
 
 #EXTINF:-1 tvg-id="truehistoryhd"group-title="Du lịch-Khám phá" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/truehistory_logo_dark_v2.png",True History
 https://linear-188.frequency.stream/dist/plex/188/hls/master/playlist.m3u8

@@ -65,10 +65,10 @@ https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ
 #https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 #https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
 #http://171.238.181.52:18080/156.m3u8
-#http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
+http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="vtv7hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V7_10HKiVA.png",VTV7

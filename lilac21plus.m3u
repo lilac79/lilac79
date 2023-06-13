@@ -68,6 +68,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="1"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Rin
 https://b-hls-09.doppiocdn.com/hls/58663247/58663247.m3u8
 
+#EXTINF:-1 tvg-id="1"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",2222
+https://b-hls-12.doppiocdn.com/hls/76766494/76766494.m3u8
+
 #EXTINF:-1 tvg-id="1"group-title="Only livestream" logo="https://luatsuhoanggia.vn/wp-content/uploads/2020/11/2-1.jpg",Anna Gau 
 https://b-hls-06.doppiocdn.com/hls/93977457/93977457.m3u8
 

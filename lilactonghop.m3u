@@ -420,9 +420,14 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 
  
 #EXTINF:-1 tvg-id="sctv12hd"group-title="Du lịch-Khám phá" tvg-logo="https://static-stage.tv24.vn/channel/17/logo26072108_sctv12-hd.png",SCTV12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
 #EXTVLCOPT:http-referer=https://sctvonline.vn
-#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/s1/index.m3u8|Referer=https://sctvonline.vn
-https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/s1/index.m3u8|Referer=https://sctvonline.vn/
+#https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sctv12hd"group-title="Du lịch-Khám phá" tvg-logo="https://static-stage.tv24.vn/channel/17/logo26072108_sctv12-hd.png",SCTV12 test
+#EXTVLCOPT:http-referer=https://sctvonline.vn
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv12/s1/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv18hd"group-title="Du lịch-Khám phá" tvg-logo="https://static-stage.tv24.vn/channel/164/logo26072108_sctv18-hd.png",SCTV18
 #EXTVLCOPT:http-referer=https://sctvonline.vn

@@ -207,8 +207,20 @@ https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="quochoi"group-title="Tin tức-tổng hợp" tvg-logo="https://www.quochoitv.vn/storage/cover.png",QUOCHOI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
 https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="quochoi"group-title="Tin tức-tổng hợp" tvg-logo="https://www.quochoitv.vn/storage/cover.png",QUOCHOI L2web
+https://ubfgr3yzbdliv.vcdn.cloud/live/smil:quochoitv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="quochoi"group-title="Tin tức-tổng hợp" tvg-logo="https://www.quochoitv.vn/storage/cover.png",QUOCHOI L3
+https://live-zlr1.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
+
+#EXTINF:-1 tvg-id="quochoi"group-title="Tin tức-tổng hợp" tvg-logo="https://www.quochoitv.vn/storage/cover.png",QUOCHOI L4
+https://vips-livecdn.fptplay.net/fnxhd2/quochoivn_4000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="quochoi"group-title="Tin tức-tổng hợp" tvg-logo="https://www.quochoitv.vn/storage/cover.png",QUOCHOI L4
+#EXTVLCOPT:http-referer=https://sctvonline.vn
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/thquochoi/index.m3u8|Referer=https://sctvonline.vn
  
 #EXTINF:-1 tvg-id="ttxvnhd"group-title="Tin tức-tổng hợp" tvg-logo="https://vietnamnews.vn/template/mobile/styles/img/logo-vnews.jpg",TTXVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
@@ -236,8 +248,8 @@ https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd"group-title="Tin tức-tổng hợp" tvg-logo="https://vtv1.mediacdn.vn/thumb_w/660/2023/2/28/1-1677589985261114167219.png",ON Info
 #EXTVLCOPT:http-referer=https://sctvonline.vn
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8|Referer=https://sctvonline.vn
-#https://vtsstr7.tv24.vn/live/VTVcab9.smil/chunklist.m3u8
-https://livevlive.vtvcab.vn/hls/INFO_TV_CL/sc-gaFEAQ/m20_index.m3u8
+https://vtsstr7.tv24.vn/live/VTVcab9.smil/chunklist.m3u8
+#https://livevlive.vtvcab.vn/hls/INFO_TV_CL/sc-gaFEAQ/m20_index.m3u8
 
 
 

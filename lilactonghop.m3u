@@ -383,7 +383,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
 #EXTINF:-1 tvg-id="sharjahtv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/FAp0RtO.png",Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8  
+#https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8  
  
 #EXTINF:-1 tvg-id="opt1"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/r8qjcs4.png",ORT1 Russia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

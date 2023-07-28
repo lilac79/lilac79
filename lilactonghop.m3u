@@ -213,8 +213,6 @@ https://live-ali2.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 https://live-zlr1.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="quochoi"group-title="Tin tức-tổng hợp" tvg-logo="https://www.quochoitv.vn/storage/cover.png",QUOCHOI L1
-#EXTVLCOPT:http-referer=https://sctvonline.vn
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/thquochoi/index.m3u8|Referer=https://sctvonline.vn
  
 #EXTINF:-1 tvg-id="ttxvnhd"group-title="Tin tức-tổng hợp" tvg-logo="https://vietnamnews.vn/template/mobile/styles/img/logo-vnews.jpg",TTXVN
 #http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
@@ -223,7 +221,6 @@ https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist_sleng.m3u8
 #https://code.vthanhtivi.pw/getlink/vieon/vnews-hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vovtvhd"group-title="Tin tức-tổng hợp" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/800x4502.jpg",VOVTV
-#https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 #https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
 #http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 http://103.90.220.236/vovlive/tv1live.m3u8
@@ -907,7 +904,8 @@ https://code.vthanhtivi.pw/getlink/tv360/43/2.m3u8
 #EXTINF:-1 tvg-id="binhduong3"group-title="Kênh Địa Phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_binh-duong-3_16565562536.png",Bình Dương 3
 https://code.vthanhtivi.pw/getlink/fptplay/binh-duong-3/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="binhduong4"group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_imovie-hd_165656515084.png",Bình Dương #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="binhduong4"group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_imovie-hd_165656515084.png",Bình Dương 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/binh-duong-4/playlist.m3u88
 
 #EXTINF:-1 tvg-id="binhdinh"group-title="Kênh Địa Phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_binh-dinh_165655818203.png",Bình Định

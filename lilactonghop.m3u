@@ -254,14 +254,14 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/eb23b6661b4b9b51df7
 #https://livecdn.fptplay.net/hda3/bloomberg_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="cnbc"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_165649295947.png",CNBC
-https://code.vthanhtivi.pw/getlink/fptplay/cnbc/chunklist_b2500000.m3u8
-#https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+http://stream.cvmtv.site/CNBC?token=live
 
 #EXTINF:-1 tvg-id="nbcnewnow"group-title="Tin tức-tổng hợp NN" tvg-logo="https://press.nbcnews.com/wp-content/uploads/2021/03/NBCNewsNOW.jpg",NBC NewsNow
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_1_4596000.m3u8
+#https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_1_4596000.m3u8
 
 #EXTINF:-1 tvg-id="cnn"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_165647576261.png",CNN
 http://stream.cvmtv.site/CNN?token=live
+#https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
  
 #EXTINF:-1 tvg-id="foxnews"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",Fox News
 #https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -285,6 +285,13 @@ http://stream.cvmtv.site/France24?token=live
 
 #EXTINF:-1 tvg-id="tv5monde"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_165655762918.png",TV5Monde
 https://code.vthanhtivi.pw/getlink/fptplay/tv5-monde/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="tv5info"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/AJx5Fy2.png",TV5Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-id="canal24h"group-title="Tin tức-tổng hợp NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",Canal 24h Spain
+#http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
 
 #EXTINF:-1 tvg-id="euronews"group-title="Tin tức-tổng hợp NN" tvg-logo="https://staticcorpo.euronews.com/wp-content/uploads/euronews-logo-our-brands.jpg",Euronews
 #https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
@@ -321,20 +328,23 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="backinh"group-title="Tin tức-tổng hợp NN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/1200px-Beijing_Television_Logo_2009.png",Bắc Kinh
 #http://live.tvfix.org/hls/brtv1hd.m3u8
 http://103.130.141.67:81/live/42/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-id="chietgiang"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/XOL1Hph.png",Zhejiang-Chiết Giang
+https://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+
 #EXTINF:-1 tvg-id="thamquyen"group-title="Tin tức-tổng hợp NN" tvg-logo="https://photos.live-tv-channels.org/tv-logo/cn-shenzhen-satellite-tv-2217.jpg",Thâm Quyến
 #http://live.tvfix.org/hls/szhd.m3u8
-#http://103.130.141.67:81/live/24/playlist.m3u8
+http://103.130.141.67:81/live/24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="trungkhanh"group-title="Tin tức-tổng hợp NN" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQGSmgEK_fbe4A/company-logo_200_200/0/1590531602649?e=2147483647&v=beta&t=qw6AfqqAN1-5Frq3DQ-aj-E9EECCdIKab97XhETFUQw",Trùng Khánh
 #http://live.tvfix.org/hls/cqhd.m3u8
-#http://103.130.141.67:81/live/29/playlist.m3u8
+http://103.130.141.67:81/live/29/playlist.m3u8
  
 #EXTINF:-1 tvg-id="abcaustralia"group-title="Tin tức-tổng hợp NN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_16564921977.png",ABC Australia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvYqBka5Oll8KZm6eWl6OdlKJrXmFnaA==&time=1690528164&mytv_msky&id=598
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
+#https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
  
 #EXTINF:-1 tvg-id="abcaustralianews"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.abc.net.au/news/linkableblob/8413676/data/abc-news-og-data.jpg",ABCNews Australia 
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -350,6 +360,9 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="presstv"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.presstv.ir/custom/images/logo-app/LOGO_192x192.jpg",Press TV Iran 
 #https://live.presstv.ir/liveprs/smil:liveprs/chunklist_w1486892672_b944100_slen.m3u8
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="aiiraqiya"group-title="Tin tức-tổng hợp NN" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",AI Iraqiya-Iraq 
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
  
 #EXTINF:-1 tvg-id="tvkcambodia"group-title="Tin tức-tổng hợp NN" tvg-logo="https://admin.worldlivetv.stream/upload/files/thumbnail/tvk.jpg",TVK Cambodia
 #https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
@@ -391,6 +404,9 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
  
 #EXTINF:-1 tvg-id="russiatoday"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/3E4KGqG.png",Russia Today English
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="russiatoday"group-title="Tin tức-tổng hợp NN" tvg-logo="https://i.imgur.com/3E4KGqG.png",Russia Today Germany
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
  
 #EXTINF:-1 tvg-id="trtworld"group-title="Tin tức-tổng hợp NN" tvg-logo="https://www.trtworld.com/images/share-1000x500.png",TRTWorld Turkey
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
@@ -412,7 +428,8 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 
 #EXTINF:-1 tvg-id="indiatoday"group-title="Tin tức-tổng hợp NN" tvg-logo="https://d1sz1zrtudycb.cloudfront.net/wp-content/uploads/2018/05/fb86828a-895b-4509-9925-ca243a68ebdf.png",Indiatoday
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_404p/chunks.m3u8
+#https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_404p/chunks.m3u8
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 
 
 

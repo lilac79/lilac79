@@ -202,15 +202,18 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
  
 #EXTINF:-1 tvg-id="nhandan"group-title="Tin tức-tổng hợp" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",NHANDAN
 #https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
-https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
+#https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
+https://arpt.tvic.vn/live/nhandan720/chunklist_w1272193336.m3u8
  
 #EXTINF:-1 tvg-id="qpvnhd"group-title="Tin tức-tổng hợp" tvg-logo="https://mytv.com.vn/upload/channel/127.png",QPVN
 #https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-https://live-ali2.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
+#https://live-ali2.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
+https://1geauymt1go41hptwfaauopy.ourdvsss.com/playlive.qpvn.vn/live/qpvn.m3u8
 
 #EXTINF:-1 tvg-id="quochoi"group-title="Tin tức-tổng hợp" tvg-logo="https://www.quochoitv.vn/storage/cover.png",QUOCHOI
 #https://ubfgr3yzbdliv.vcdn.cloud/live/smil:quochoitv.smil/chunklist.m3u8
-https://live-zlr1.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
+#https://live-zlr1.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
+https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
 
 #EXTINF:-1 tvg-id="quochoi"group-title="Tin tức-tổng hợp" tvg-logo="https://www.quochoitv.vn/storage/cover.png",QUOCHOI L1
  
@@ -218,12 +221,12 @@ https://live-zlr1.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 #http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist_sleng.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://code.vthanhtivi.pw/getlink/vieon/vnews-hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vovtvhd"group-title="Tin tức-tổng hợp" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/800x4502.jpg",VOVTV
 #https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
 #http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
-http://103.90.220.236/vovlive/tv1live.m3u8
+#http://103.90.220.236/vovlive/tv1live.m3u8
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="sctv4hd"group-title="Tin tức-tổng hợp" tvg-logo="https://static-stage.tv24.vn/channel/109/logo26072108_sctv4-hd.png",SCTV4
 #https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/chunklist.m3u8

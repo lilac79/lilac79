@@ -203,7 +203,8 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="nhandan"group-title="Tin tức-tổng hợp" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",NHANDAN
 #https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
 #https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
-https://arpt.tvic.vn/live/nhandan720/chunklist_w1272193336.m3u8
+#https://arpt.tvic.vn/live/nhandan720/chunklist_w1272193336.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/thnhandan/index.m3u8
  
 #EXTINF:-1 tvg-id="qpvnhd"group-title="Tin tức-tổng hợp" tvg-logo="https://mytv.com.vn/upload/channel/127.png",QPVN
 #https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
@@ -229,9 +230,6 @@ https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist_sleng.m3u8
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="sctv4hd"group-title="Tin tức-tổng hợp" tvg-logo="https://static-stage.tv24.vn/channel/109/logo26072108_sctv4-hd.png",SCTV4
-#https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/chunklist.m3u8
-#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv4_s1/index.m3u8|Referer=https://sctvonline.vn
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
  
 #EXTINF:-1 tvg-id="sctv8hd"group-title="Tin tức-tổng hợp" tvg-logo="https://static-stage.tv24.vn/channel/205/logo26072108_sctv8.png",SCTV8

@@ -248,7 +248,8 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thnhandan/index.m3u8
 #EXTINF:-1 tvg-id="qpvnhd"group-title="Tin tức-tổng hợp" tvg-logo="https://mytv.com.vn/upload/channel/127.png",QPVN
 #https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #https://live-ali2.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
-https://1geauymt1go41hptwfaauopy.ourdvsss.com/playlive.qpvn.vn/live/qpvn.m3u8
+#https://1geauymt1go41hptwfaauopy.ourdvsss.com/playlive.qpvn.vn/live/qpvn.m3u8
+http://27.76.137.122:1935/standard/smil:standard.smil/chunklist_sleng.m3u8
 
 #EXTINF:-1 tvg-id="quochoi"group-title="Tin tức-tổng hợp" tvg-logo="https://www.quochoitv.vn/storage/cover.png",QUOCHOI
 #https://ubfgr3yzbdliv.vcdn.cloud/live/smil:quochoitv.smil/chunklist.m3u8
@@ -259,8 +260,9 @@ https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
  
 #EXTINF:-1 tvg-id="ttxvnhd"group-title="Tin tức-tổng hợp" tvg-logo="https://vietnamnews.vn/template/mobile/styles/img/logo-vnews.jpg",TTXVN
 #http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
-https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist_sleng.m3u8
+#https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist_sleng.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://2344254785.e.cdneverest.net/live/smil:vnews.smil/chunklist_sleng.m3u8
 
 #EXTINF:-1 tvg-id="vovtvhd"group-title="Tin tức-tổng hợp" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/800x4502.jpg",VOVTV
 #https://mediatech.vncdn.vn/vovlive/tv1live.m3u8

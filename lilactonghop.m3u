@@ -31,9 +31,6 @@ https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8|Referer=https://sctvonline.vn
 https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv2hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 test
-#https://live-evg4.tv360.vn/zFC3PbeMiwu4y6pMlYfxOQ/1712727069/manifest/vtv2/playlist_1080p.m3u8
-
 #EXTINF:-1 tvg-id="vtv3hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3
 #https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
@@ -53,22 +50,6 @@ https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8|Referer=https://sctvonline.vn
 
-#EXTINF:-1 tvg-id="vtv4hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V4.png",VTV4 test
-#EXTVLCOPT:http-referer=https://fptplay.vn/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
-#https://vips-livecdn.fptplay.net/fnxhd1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vtv4hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V4.png",VTV4 test1111
-#EXTVLCOPT:http-referer=https://fptplay.vn/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
-#https://vips-livecdn.fptplay.net/hda1/vtv4_4000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="vtv4hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V4.png",VTV4 test2222
-#EXTVLCOPT:http-referer=https://fptplay.vn/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
-#https://vips-livecdn.fptplay.net/hda1/vtv4_4000.stream/chunklist.m3u8|http-referer=https://fptplay.vn/
-
-
 #EXTINF:-1 tvg-id="vtv5hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5
 #http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 #https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
@@ -81,13 +62,13 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8|Referer=https://sctvon
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn"group-title="VTV" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
 #https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
 #http://171.238.181.52:18080/308.m3u8
-https://vod04-g12.tv360.vn:18443//308_1.m3u8
-
-#EXTINF:-1 tvg-id="vtv5hdtn"group-title="VTV" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên Test
-https://s2129132.cdn.mytvnet.vn/clrlive_10.m3u8
+#https://s2129132.cdn.mytvnet.vn/clrlive_10.m3u8
+#https://vod04-g12.tv360.vn:18443//308_1.m3u8
+https://vips-livecdn.fptplay.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png",VTV5 Tây Nam Bộ
 #https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
@@ -96,9 +77,6 @@ https://s2129132.cdn.mytvnet.vn/clrlive_10.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8|Referer=https://sctvonline.vn
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png",VTV5 Tây Nam Bộ test
-#https://live-evg4.tv360.vn/XjEdsr6j4ilMQJIYklhl-g/1712727453/manifest/VTV5-TNB/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ
 #https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
@@ -110,10 +88,6 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
 #https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8|Referer=https://sctvonline.vn
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ test
-#EXTVLCOPT:http-referer=https://cliptv.vn
-#https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtvcanthohd/chunklist.m3u8|Referer=https://cliptv.vn/
  
 #EXTINF:-1 tvg-id="vtv7hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V7_10HKiVA.png",VTV7
 #http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8

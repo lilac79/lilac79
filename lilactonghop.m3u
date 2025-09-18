@@ -503,7 +503,8 @@ https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 #EXTINF:-1 tvg-id="sctv2hd"group-title="Phim VN" tvg-logo="https://static-stage.tv24.vn/channel/2/logo26072108_sctv2-hd.png",SCTV2
 #EXTVLCOPT:http-referer=https://sctvonline.vn
 #https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s1/index.m3u8|Referer=https://sctvonline.vn
-https://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8|Referer=https://sctvonline.vn
+#https://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8|Referer=https://sctvonline.vn
+https://e12.endpoint.cdn.sctvonline.vn/sctv2/video_hd_compat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv6hd"group-title="Phim VN" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png",SCTV6
 #EXTVLCOPT:http-referer=https://sctvonline.vn
@@ -1208,6 +1209,7 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
  
 #EXTINF:-1 tvg-id="ftv4k"group-title="Âm nhạc-Thời trang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_165649235825.png",FTV UHD
 #https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 
 
 

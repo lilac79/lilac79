@@ -164,16 +164,24 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 https://tiemnhazunn.click/htvc/htv4.php
  
 #EXTINF:-1 tvg-id="htv7hd"group-title="HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/07/16/514141-665121-HTV7HD.png",HTV7
-#https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://tiemnhazunn.click/vieon/htv7.php
 #https://vod02-g12.tv360.vn:18443/157.m3u8|Referer=hhttps://tv360.vn
-https://116.108.198.69:18443/157.m3u8
+#https://116.108.198.69:18443/157.m3u8
 
 #EXTINF:-1 tvg-id="htv9hd"group-title="HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/07/16/628143-665121-HTV9HD.png",HTV9
-https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://tiemnhazunn.click/vieon/htv9.php
+https://live.fptplay53.net/fnxhd1/htv9_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htv9hd"group-title="HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/07/16/628143-665121-HTV9HD.png",HTV9-2
+#https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://tiemnhazunn.click/vieon/htv9.php
+https://live.fptplay53.net/fnxhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+
 
 #EXTINF:-1 tvg-id="htvthethaohd"group-title="HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/07/16/200515-111250-HTVTT.png",HTV Thể Thao 50fps
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_4000.stream/chunklist.m3u8
@@ -1225,6 +1233,7 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
  
 #EXTINF:-1 tvg-id="ftv4k"group-title="Âm nhạc-Thời trang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_165649235825.png",FTV UHD
 #https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 
 
 

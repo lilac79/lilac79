@@ -107,8 +107,9 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8|Referer=https://sctvonline.vn
-https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/fnxhd1/vtv8_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd1/vtv8_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="vtv9hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V9_LTfTUAq.png",VTV9
 #http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
@@ -1226,6 +1227,7 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
  
 #EXTINF:-1 tvg-id="ftv4k"group-title="Âm nhạc-Thời trang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_165649235825.png",FTV UHD
 #https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 
 
 

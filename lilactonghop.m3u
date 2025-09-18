@@ -96,8 +96,18 @@ https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda3/vtv7hd_1500.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8|Referer=https://sctvonline.vn
- 
+#https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8|Referer=https://sctvonline.vn
+https://live.fptplay53.net/fnxhd1/vtv7_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv7hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V7_10HKiVA.png",VTV7-2
+#http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
+#https://8ypuv74wu.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
+#https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda3/vtv7hd_1500.stream/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+#https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8|Referer=https://sctvonline.vn
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V8.png",VTV8
 #http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 #https://8ypuv74wu.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
@@ -1270,6 +1280,7 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
  
 #EXTINF:-1 tvg-id="ftv4k"group-title="Âm nhạc-Thời trang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_165649235825.png",FTV UHD
 #https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 
 
 

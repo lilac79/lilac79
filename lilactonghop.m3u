@@ -131,7 +131,8 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/sdb/htv1_2000.stream/chunklist.m3u8
 #https://tiemnhazunn.click/vieon/vieon.php?id=htv1
 #https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
-https://live.fptplay53.net/channel/htv1-abr/playlist_mx_1080p1.m3u8
+#https://live.fptplay53.net/channel/htv1-abr/playlist_mx_1080p1.m3u8
+https://vips-livecdn.fptplay.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
  
 #EXTINF:-1 tvg-id="htv2hd"group-title="HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/171512-HTV2HD.png",HTV2Vie
 #https://drm-livecdn.hplus.com.vn/CDN-FPT/HTV2-HD-ABR/HTV-ABR/HTV2-HD-1080p/chunks.m3u8
@@ -1194,6 +1195,7 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
  
 #EXTINF:-1 tvg-id="ftv4k"group-title="Âm nhạc-Thời trang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_165649235825.png",FTV UHD
 #https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 
 
 
